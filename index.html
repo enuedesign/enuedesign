@@ -352,6 +352,18 @@ body.ko p,body.ko li,body.ko .faq-a-inner,body.ko .card-body p{word-break:keep-a
 /* 숫자와 영문 규격 표기는 라틴 폰트가 더 또렷하다 */
 body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
 
+/* 언어 토글 — 세로 높이 고정.
+   line-height 가 normal 이라 버튼 높이가 글자 metrics 를 따라갔다. 그래서
+   (1) EN 버튼이 29px, 한국어 버튼이 33px 로 달라 EN 을 눌렀을 때 검은 박스가
+   위아래로 꽉 차지 않고 4px 이 비었고 (2) 알약 자체도 EN 35px / 한국어 31px 로
+   언어마다 달랐다. 높이를 29px 로 못박고 글자를 가운데 정렬해 둘 다 해결한다.
+   가로 폭은 글자 길이대로 두는 원래 모습 그대로. */
+.lang{align-items:stretch}
+.lang button{
+  display:flex;align-items:center;justify-content:center;
+  height:29px;padding-top:0;padding-bottom:0;
+}
+
 /* ================= 저작권 안내 ================= */
 .f-bot{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}
 .f-copy{color:rgba(246,244,239,.55)}
