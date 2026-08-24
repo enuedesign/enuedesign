@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Portfolio | e.NUE Design — Carrollton, TX</title>
+<meta name="description" content="Selected design and print work by e.NUE Design — menus, signs, window graphics and branding for cafes, restaurants, dental offices and churches around Dallas.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&display=swap">
+<style>
+:root{
+  --ink:#12161B;
+  --ink-soft:#3A424C;
+  --muted:#7B7566;
+  --line:#D6D0C2;
+  --beige:#E9E4D9;        /* Focus Lab-style page background */
+  --beige-deep:#DFD9CB;   /* subtle band */
+  --white:#FFFFFF;
+  --accent:#EA2029;
+  --accent-deep:#C01A22;
+  --max:1240px;
+  --pad:clamp(20px,5vw,64px);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Inter','Noto Sans KR',-apple-system,sans-serif;
+  background:var(--beige); color:var(--ink);
+  -webkit-font-smoothing:antialiased; line-height:1.6;
+}
+body.ko{font-family:'Noto Sans KR','Inter',sans-serif}
+.wrap{max-width:var(--max);margin:0 auto;padding:0 var(--pad)}
+a{color:inherit;text-decoration:none}
+img{max-width:100%;display:block}
+
+/* ---------- NAV ---------- */
+header{
+  position:sticky;top:0;z-index:100;
+  background:rgba(233,228,217,.85);backdrop-filter:blur(14px);
+  border-bottom:1px solid var(--line);
+}
+.nav{display:flex;align-items:center;justify-content:space-between;height:74px;gap:18px}
+.logo{font-size:20px;font-weight:700;letter-spacing:-.03em;white-space:nowrap}
+.logo span{color:var(--accent)}
+.nav-links{display:flex;gap:32px;align-items:center}
+.nav-links a{font-size:14.5px;font-weight:500;color:var(--ink-soft);transition:color .2s}
+.nav-links a:hover{color:var(--ink)}
+.nav-right{display:flex;align-items:center;gap:14px}
+
+/* language toggle */
+.lang{
+  display:inline-flex;align-items:center;
+  border:1px solid var(--line);border-radius:100px;overflow:hidden;background:rgba(255,255,255,.55);
+}
+.lang button{
+  font-family:inherit;font-size:12.5px;font-weight:600;letter-spacing:.04em;
+  padding:7px 14px;border:none;background:transparent;color:var(--muted);cursor:pointer;transition:.2s;
+}
+.lang button.on{background:var(--ink);color:#fff}
+.lang button:not(.on):hover{color:var(--ink)}
+
+.btn{
+  display:inline-flex;align-items:center;gap:9px;
+  background:var(--ink);color:#fff;font-size:14.5px;font-weight:600;
+  padding:12px 24px;border-radius:100px;transition:.25s;border:none;cursor:pointer;
+  font-family:inherit;white-space:nowrap;
+}
+.btn:hover{background:var(--accent);transform:translateY(-1px)}
+.btn-ghost{background:transparent;color:var(--ink);border:1px solid var(--ink)}
+.btn-ghost:hover{background:var(--ink);color:#fff}
+.menu-toggle{display:none;background:none;border:none;font-size:24px;cursor:pointer;color:var(--ink)}
+
+/* ---------- HERO ---------- */
+.hero{padding:clamp(70px,11vw,140px) 0 clamp(56px,8vw,96px)}
+.eyebrow{
+  display:inline-flex;align-items:center;gap:9px;
+  font-size:12.5px;font-weight:600;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--accent);margin-bottom:26px;
+}
+.eyebrow::before{content:"";width:26px;height:1.5px;background:var(--accent)}
+h1{
+  font-size:clamp(42px,7.4vw,92px);line-height:1.02;
+  font-weight:700;letter-spacing:-.037em;max-width:17ch;
+}
+h1 em{font-family:'Instrument Serif',serif;font-style:italic;font-weight:400;color:var(--accent)}
+.hero-sub{
+  margin-top:30px;font-size:clamp(16.5px,1.9vw,20px);
+  color:var(--ink-soft);max-width:56ch;line-height:1.62;
+}
+.hero-cta{display:flex;gap:14px;margin-top:44px;flex-wrap:wrap}
+
+/* marquee */
+.marquee{
+  margin-top:clamp(56px,8vw,90px);border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);padding:22px 0;overflow:hidden;
+}
+.marquee-track{display:flex;gap:56px;width:max-content;animation:slide 34s linear infinite}
+@keyframes slide{to{transform:translateX(-50%)}}
+.marquee-item{
+  font-size:15px;font-weight:500;color:var(--muted);white-space:nowrap;
+  display:flex;align-items:center;gap:56px;
+}
+.marquee-item::after{content:"◆";font-size:8px;color:var(--accent)}
+@media(prefers-reduced-motion:reduce){.marquee-track{animation:none}}
+
+/* ---------- SECTION SHELL ---------- */
+section{padding:clamp(64px,9vw,120px) 0}
+.sec-head{
+  display:flex;justify-content:space-between;align-items:flex-end;
+  gap:36px;flex-wrap:wrap;margin-bottom:clamp(36px,5vw,60px);
+}
+.sec-label{
+  font-size:12.5px;font-weight:600;letter-spacing:.13em;text-transform:uppercase;
+  color:var(--muted);margin-bottom:16px;
+}
+h2{font-size:clamp(30px,4.6vw,54px);line-height:1.1;font-weight:700;letter-spacing:-.032em;max-width:19ch}
+h2 em{font-family:'Instrument Serif',serif;font-style:italic;font-weight:400;color:var(--accent)}
+.sec-desc{color:var(--ink-soft);max-width:40ch;font-size:16.5px;padding-bottom:6px}
+
+/* ---------- SERVICES ---------- */
+#services{background:var(--white);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.svc-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(258px,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.svc{background:var(--white);padding:38px 32px;transition:.3s}
+.svc:hover{background:var(--beige)}
+.svc-num{font-size:12.5px;font-weight:600;color:var(--accent);letter-spacing:.1em;margin-bottom:22px}
+.svc h3{font-size:20px;font-weight:700;letter-spacing:-.02em;margin-bottom:12px}
+.svc p{font-size:15px;color:var(--ink-soft);line-height:1.62}
+.svc ul{list-style:none;margin-top:18px;display:flex;flex-wrap:wrap;gap:7px}
+.svc li{font-size:12.5px;color:var(--muted);border:1px solid var(--line);padding:4px 11px;border-radius:100px}
+
+/* ---------- PORTFOLIO ---------- */
+.filter-label{
+  font-size:12px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--muted);margin-bottom:12px;
+}
+.filters{display:flex;gap:9px;flex-wrap:wrap;margin-bottom:24px}
+.filters.scroller{overflow-x:auto;flex-wrap:nowrap;padding-bottom:6px;-webkit-overflow-scrolling:touch}
+.filter{
+  font-family:inherit;font-size:14.5px;font-weight:500;
+  padding:10px 20px;border-radius:100px;border:1px solid var(--line);
+  background:transparent;color:var(--ink-soft);cursor:pointer;transition:.22s;white-space:nowrap;
+}
+.filter:hover{border-color:var(--ink);color:var(--ink)}
+.filter.active{background:var(--ink);border-color:var(--ink);color:#fff}
+.filter-block{padding-bottom:24px;margin-bottom:24px;border-bottom:1px solid var(--line)}
+.filter-block:last-of-type{border-bottom:1px solid var(--line)}
+.count{font-size:14px;color:var(--muted);margin:26px 0}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(288px,1fr));gap:26px}
+.card{
+  background:var(--white);border:1px solid var(--line);border-radius:14px;
+  overflow:hidden;cursor:pointer;transition:.32s cubic-bezier(.2,.7,.3,1);
+  animation:pop .38s cubic-bezier(.2,.7,.3,1) both;text-align:left;font-family:inherit;
+  padding:0;display:block;width:100%;
+}
+@keyframes pop{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.card:hover{transform:translateY(-5px);box-shadow:0 18px 38px rgba(18,22,27,.13);border-color:transparent}
+.card:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.thumb{aspect-ratio:4/3;position:relative;overflow:hidden;background:var(--beige-deep)}
+.thumb img{width:100%;height:100%;object-fit:cover;transition:transform .6s cubic-bezier(.2,.7,.3,1)}
+.card:hover .thumb img{transform:scale(1.05)}
+.tag{
+  position:absolute;top:13px;left:13px;z-index:2;
+  background:rgba(255,255,255,.94);color:var(--ink);
+  font-size:11.5px;font-weight:600;padding:5px 12px;border-radius:100px;
+}
+.card-body{padding:20px 22px 24px}
+.card-body h4{font-size:17px;font-weight:700;letter-spacing:-.02em;margin-bottom:5px}
+.card-body p{font-size:14px;color:var(--muted)}
+.empty{grid-column:1/-1;text-align:center;padding:70px 0;color:var(--muted)}
+
+/* ---------- ABOUT / STATS ---------- */
+#about{background:var(--ink);color:var(--beige)}
+#about .sec-label{color:rgba(233,228,217,.5)}
+#about h2{color:var(--beige)}
+#about .sec-desc{color:rgba(233,228,217,.68)}
+.stats{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(178px,1fr));
+  gap:1px;background:rgba(233,228,217,.14);
+  border:1px solid rgba(233,228,217,.14);margin-bottom:clamp(48px,7vw,80px);
+}
+.stat{background:var(--ink);padding:34px 28px}
+.stat-num{font-size:clamp(38px,5.4vw,60px);font-weight:700;letter-spacing:-.04em;line-height:1;color:var(--accent)}
+.stat-lbl{font-size:14px;color:rgba(233,228,217,.6);margin-top:12px}
+.values{display:grid;grid-template-columns:repeat(auto-fit,minmax(252px,1fr));gap:34px}
+.value h3{font-size:19px;font-weight:700;margin-bottom:11px;letter-spacing:-.02em}
+.value p{font-size:15px;color:rgba(233,228,217,.66);line-height:1.65}
+.value::before{content:"";display:block;width:32px;height:2px;background:var(--accent);margin-bottom:19px}
+
+/* ---------- PROCESS ---------- */
+#process{background:var(--white);border-top:1px solid var(--line)}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(228px,1fr));gap:34px}
+.step{border-top:2px solid var(--ink);padding-top:22px}
+.step-n{font-size:12.5px;font-weight:600;letter-spacing:.12em;color:var(--accent);margin-bottom:13px}
+.step h3{font-size:19px;font-weight:700;margin-bottom:10px;letter-spacing:-.02em}
+.step p{font-size:15px;color:var(--ink-soft);line-height:1.62}
+
+/* ---------- CTA ---------- */
+#contact{background:var(--beige);border-top:1px solid var(--line)}
+.cta{text-align:center;max-width:760px;margin:0 auto}
+.cta h2{margin:0 auto 22px;max-width:100%}
+.cta p{color:var(--ink-soft);font-size:17.5px;margin-bottom:38px}
+.cta-row{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+
+/* ---------- FOOTER ---------- */
+footer{background:var(--ink);color:rgba(233,228,217,.62);padding:60px 0 34px;font-size:14.5px}
+.f-top{display:flex;justify-content:space-between;gap:40px;flex-wrap:wrap;padding-bottom:38px;border-bottom:1px solid rgba(233,228,217,.14)}
+.f-brand{font-size:22px;font-weight:700;color:var(--beige);letter-spacing:-.03em;margin-bottom:11px}
+.f-brand span{color:var(--accent)}
+.f-cols{display:flex;gap:64px;flex-wrap:wrap}
+.f-col h5{font-size:12.5px;letter-spacing:.12em;text-transform:uppercase;color:rgba(233,228,217,.42);margin-bottom:15px;font-weight:600}
+.f-col a{display:block;margin-bottom:9px;transition:color .2s}
+.f-col a:hover{color:var(--accent)}
+.f-bot{padding-top:26px;font-size:13.5px;color:rgba(233,228,217,.42)}
+
+/* ---------- MODAL ---------- */
+.modal{
+  position:fixed;inset:0;background:rgba(18,22,27,.74);backdrop-filter:blur(6px);
+  z-index:200;display:none;place-items:center;padding:24px;
+}
+.modal.open{display:grid}
+.modal-box{
+  background:var(--white);border-radius:16px;max-width:640px;width:100%;
+  overflow:hidden;animation:pop .3s cubic-bezier(.2,.7,.3,1) both;max-height:90vh;overflow-y:auto;
+}
+.modal-thumb{aspect-ratio:16/9;background:var(--beige-deep)}
+.modal-thumb img{width:100%;height:100%;object-fit:cover}
+.modal-body{padding:32px}
+.modal-body h3{font-size:26px;font-weight:700;letter-spacing:-.028em;margin-bottom:8px}
+.modal-body .m-cat{font-size:13px;color:var(--accent);font-weight:600;margin-bottom:18px}
+.modal-body p{color:var(--ink-soft);font-size:15.5px;line-height:1.65;margin-bottom:14px}
+.m-meta{font-size:13.5px;color:var(--muted);margin-bottom:24px}
+.modal-close{
+  background:var(--ink);color:#fff;border:none;font-family:inherit;
+  padding:11px 24px;border-radius:100px;font-size:14.5px;font-weight:600;cursor:pointer;
+}
+.modal-close:hover{background:var(--accent)}
+
+@media(max-width:820px){
+  .nav-links{display:none}
+  .menu-toggle{display:block}
+  .sec-head{flex-direction:column;align-items:flex-start}
+  .f-cols{gap:36px}
+  .filters{overflow-x:auto;flex-wrap:nowrap;padding-bottom:6px}
+}
+</style>
+
+<style>
+/* ---- logo ---- */
+.logo img{height:30px;width:auto;display:block}
+.f-brand img{height:32px;width:auto;display:block;margin-bottom:14px}
+@media(max-width:600px){.logo img{height:25px}}
+
+/* ---- portfolio CTA box ---- */
+.pf-cta{display:flex;align-items:center;justify-content:space-between;gap:28px;
+  padding:clamp(30px,5vw,56px);border:1px solid var(--line);border-radius:16px;background:var(--white);
+  text-decoration:none;color:inherit;cursor:pointer;
+  transition:transform .3s cubic-bezier(.2,.7,.3,1),box-shadow .3s,border-color .3s}
+.pf-cta:hover{transform:translateY(-4px);box-shadow:0 20px 44px rgba(18,22,27,.10);border-color:transparent}
+.pf-cta-title{font-size:clamp(25px,3.4vw,38px);font-weight:700;letter-spacing:-.03em;line-height:1.15}
+.pf-cta-sub{margin-top:12px;color:var(--ink-soft);font-size:16.5px;line-height:1.6;max-width:52ch}
+.pf-cta-meta{margin-top:20px;display:inline-flex;align-items:center;gap:8px;font-size:14.5px;font-weight:600;color:var(--accent)}
+.pf-cta-arrow{font-size:34px;line-height:1;color:var(--accent);flex:none;transition:transform .3s cubic-bezier(.2,.7,.3,1)}
+.pf-cta:hover .pf-cta-arrow{transform:translateX(8px)}
+@media(max-width:700px){.pf-cta{flex-direction:column;align-items:flex-start;gap:18px}}
+
+/* ---- portfolio page hero ---- */
+.pf-hero{padding:clamp(56px,8vw,104px) 0 clamp(30px,4vw,48px)}
+.pf-hero h1{font-size:clamp(38px,6vw,74px);line-height:1.04;font-weight:700;letter-spacing:-.037em;max-width:18ch}
+.pf-hero h1 em{font-family:'Instrument Serif',serif;font-style:italic;font-weight:400;color:var(--accent)}
+.pf-hero p{margin-top:24px;font-size:clamp(16px,1.8vw,19px);color:var(--ink-soft);max-width:56ch;line-height:1.62}
+.back-link{display:inline-flex;align-items:center;gap:9px;margin-bottom:26px;font-size:14.5px;font-weight:600;
+  color:var(--ink-soft);text-decoration:none;transition:color .2s}
+.back-link:hover{color:var(--accent)}
+.nav-links a.current{color:var(--ink)}
+
+/* ---- FAQ accordion ---- */
+#faq{background:var(--white);border-top:1px solid var(--line)}
+.faq-list{border-top:1px solid var(--line);max-width:900px}
+.faq-item{border-bottom:1px solid var(--line)}
+.faq-q{width:100%;display:flex;align-items:flex-start;justify-content:space-between;gap:24px;
+  background:none;border:none;cursor:pointer;font-family:inherit;text-align:left;
+  padding:26px 0;font-size:clamp(17px,2vw,20px);font-weight:700;letter-spacing:-.02em;color:var(--ink);
+  transition:color .2s}
+.faq-q:hover{color:var(--accent)}
+.faq-ico{flex:none;width:26px;height:26px;position:relative;margin-top:3px;transition:transform .35s cubic-bezier(.2,.7,.3,1)}
+.faq-ico::before,.faq-ico::after{content:"";position:absolute;background:var(--accent);border-radius:2px;
+  top:50%;left:50%;transform:translate(-50%,-50%)}
+.faq-ico::before{width:16px;height:2px}
+.faq-ico::after{width:2px;height:16px;transition:transform .35s cubic-bezier(.2,.7,.3,1)}
+.faq-item.open .faq-ico{transform:rotate(180deg)}
+.faq-item.open .faq-ico::after{transform:translate(-50%,-50%) scaleY(0)}
+.faq-a{overflow:hidden;height:0;transition:height .38s cubic-bezier(.2,.7,.3,1)}
+.faq-a-inner{padding:0 60px 28px 0;color:var(--ink-soft);font-size:16.5px;line-height:1.68;max-width:70ch}
+
+/* ---- contact form ---- */
+.form-wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(32px,5vw,72px);align-items:start}
+@media(max-width:900px){.form-wrap{grid-template-columns:1fr}}
+.field{margin-bottom:18px}
+.field label{display:block;font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--muted);margin-bottom:8px}
+.field input,.field select,.field textarea{
+  width:100%;font-family:inherit;font-size:16px;color:var(--ink);background:var(--white);
+  border:1px solid var(--line);border-radius:10px;padding:14px 16px;transition:border-color .2s,box-shadow .2s}
+.field textarea{min-height:130px;resize:vertical;line-height:1.55}
+.field input:focus,.field select:focus,.field textarea:focus{
+  outline:none;border-color:var(--ink);box-shadow:0 0 0 3px rgba(18,22,27,.07)}
+.form-note{margin-top:14px;font-size:14px;color:var(--muted)}
+.form-msg{margin-top:16px;font-size:15.5px;line-height:1.6;display:none}
+.form-msg.show{display:block}
+.form-msg.ok{color:#1F7A3D}
+.form-msg.err{color:#C0392B}
+.contact-card{background:var(--white);border:1px solid var(--line);border-radius:16px;padding:clamp(26px,3.4vw,36px)}
+.cc-group+.cc-group{margin-top:26px;padding-top:26px;border-top:1px solid var(--line)}
+.cc-h{font-size:12.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-bottom:12px}
+.cc-line{font-size:16px;line-height:1.6;color:var(--ink-soft)}
+.cc-line strong{display:block;color:var(--ink);font-weight:700;margin-bottom:3px;font-size:14.5px}
+.cc-line a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line);transition:border-color .2s,color .2s}
+.cc-line a:hover{color:var(--accent);border-color:var(--accent)}
+.cc-line+.cc-line{margin-top:14px}
+/* two-line address → Google Maps */
+a.cc-addr{display:inline-block;border-bottom:none;color:var(--ink-soft);line-height:1.55}
+a.cc-addr:hover{color:var(--accent);border-bottom:none}
+a.cc-addr::after{content:"↗";font-size:.78em;margin-left:7px;opacity:.5;transition:opacity .2s}
+a.cc-addr:hover::after{opacity:1}
+
+/* ================= 한국어 타이포그래피 =================
+   body.ko 일 때만 적용. 영문 화면은 Inter / Instrument Serif 그대로. */
+body.ko{
+  font-family:'Pretendard Variable',Pretendard,'Noto Sans KR',
+              -apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+  letter-spacing:-0.01em;                 /* 한글은 살짝 조여야 덩어리가 안 뜬다 */
+}
+/* 한글은 진짜 이탤릭이 없다. 기울이면 획이 뭉개지므로 세로로 두고 굵기로 강조한다. */
+body.ko h1 em,
+body.ko h2 em,
+body.ko h3 em,
+body.ko .pf-hero h1 em{
+  font-family:'Nanum Myeongjo',serif;
+  font-style:normal;
+  font-weight:700;
+}
+/* 명조는 같은 크기에서 고딕보다 작아 보인다 */
+body.ko h1 em,body.ko .pf-hero h1 em{font-size:1.04em}
+body.ko h1,body.ko h2,body.ko .pf-hero h1{letter-spacing:-0.03em;word-break:keep-all}
+/* 한글 문단은 단어 중간에서 끊기면 읽기 나쁘다 */
+body.ko p,body.ko li,body.ko .faq-a-inner,body.ko .card-body p{word-break:keep-all}
+/* 숫자와 영문 규격 표기는 라틴 폰트가 더 또렷하다 */
+body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
+
+/* ================= 저작권 안내 ================= */
+.f-bot{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}
+.f-copy{color:rgba(246,244,239,.55)}
+.f-legal-link{
+  font-family:inherit;font-size:13.5px;background:none;border:0;padding:0;cursor:pointer;
+  color:rgba(246,244,239,.62);border-bottom:1px solid rgba(246,244,239,.24);
+  transition:color .2s,border-color .2s;
+}
+.f-legal-link:hover{color:var(--accent);border-color:var(--accent)}
+.f-notice{
+  margin-top:14px;padding-top:14px;border-top:1px solid rgba(246,244,239,.1);
+  font-size:12.5px;line-height:1.65;color:rgba(246,244,239,.42);max-width:76ch;
+}
+.legal-ov{
+  position:fixed;inset:0;z-index:200;display:none;
+  background:rgba(20,18,16,.62);backdrop-filter:blur(3px);
+  align-items:center;justify-content:center;padding:24px;
+}
+.legal-ov.on{display:flex}
+.legal-box{
+  background:var(--beige,#F6F4EF);color:var(--ink);border-radius:14px;
+  max-width:660px;width:100%;max-height:82vh;overflow-y:auto;
+  padding:38px 40px 34px;position:relative;
+}
+.legal-x{
+  position:absolute;top:14px;right:18px;background:none;border:0;cursor:pointer;
+  font-size:30px;line-height:1;color:var(--muted);padding:4px 8px;
+}
+.legal-x:hover{color:var(--accent)}
+.legal-box h3{font-size:23px;font-weight:700;letter-spacing:-.02em;margin:0 0 22px;padding-right:30px}
+.legal-body section{margin-bottom:20px}
+.legal-body h4{font-size:14px;font-weight:700;margin:0 0 5px;letter-spacing:-.01em}
+.legal-body p{font-size:14px;line-height:1.72;color:var(--ink-soft);margin:0}
+.legal-meta{
+  margin-top:26px;padding-top:16px;border-top:1px solid var(--line);
+  font-size:12.5px;color:var(--muted)
+}
+@media(max-width:600px){
+  .legal-box{padding:32px 22px 26px;max-height:88vh}
+  .legal-box h3{font-size:20px}
+}
+/* 이미지 위에서 드래그·선택 되지 않게 (우클릭 차단과 한 세트) */
+.thumb img,.modal-img img,.f-brand img{
+  -webkit-user-drag:none;user-select:none;-webkit-user-select:none;
+}
+
+/* ---- service filter: many pills, so tighten and always wrap ---- */
+#filtersProduct{gap:7px}
+#filtersProduct .filter{font-size:13.5px;padding:8px 15px}
+.filter-more{border-style:dashed;color:var(--muted)}
+.filter-more:hover{border-style:solid;border-color:var(--accent);color:var(--accent)}
+@media(max-width:760px){
+  /* never horizontal-scroll the service row — too many items to hunt through */
+  #filtersProduct{flex-wrap:wrap;overflow-x:visible}
+  #filtersProduct .filter{font-size:13px;padding:7px 13px}
+}
+
+/* ---- footer contact ---- */
+.f-contact .cc-line{color:rgba(246,244,239,.66);font-size:14.5px}
+.f-contact .cc-line strong{color:rgba(246,244,239,.92)}
+.f-contact .cc-line a{color:rgba(246,244,239,.78);border-bottom-color:rgba(246,244,239,.22)}
+.f-contact .cc-line a:hover{color:var(--accent);border-bottom-color:var(--accent)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap nav">
+    <a href="index.html" class="logo" data-link aria-label="e.NUE Design">
+      <img src="assets/logo.svg" alt="e.NUE Design">
+    </a>
+    <nav class="nav-links">
+      <a href="index.html#services" data-link data-i="nav.services"></a>
+      <a href="portfolio.html" data-link class="current" data-i="nav.work"></a>
+      <a href="index.html#about" data-link data-i="nav.about"></a>
+      <a href="index.html#faq" data-link data-i="faq.label"></a>
+    </nav>
+    <div class="nav-right">
+      <div class="lang">
+        <button id="langEn" class="on" onclick="setLang('en')">EN</button>
+        <button id="langKo" onclick="setLang('ko')">한국어</button>
+      </div>
+      <a href="index.html#contact" data-link class="btn" data-i="nav.quote"></a>
+      <button class="menu-toggle" aria-label="menu">☰</button>
+    </div>
+  </div>
+</header>
+
+<div class="pf-hero">
+  <div class="wrap">
+    <a class="back-link" href="index.html" data-link><span aria-hidden="true">←</span> <span data-i="pf.back"></span></a>
+    <div class="eyebrow" data-i="pf.eyebrow"></div>
+    <h1 id="pfH1"></h1>
+    <p data-i="pf.sub"></p>
+  </div>
+</div>
+
+<section id="work" style="padding-top:0">
+  <div class="wrap">
+    <div class="filter-block">
+      <div class="filter-label" data-i="work.byProduct"></div>
+      <div class="filters" id="filtersProduct"></div>
+    </div>
+    <div class="filter-block">
+      <div class="filter-label" data-i="work.byIndustry"></div>
+      <div class="filters" id="filtersIndustry"></div>
+    </div>
+    <div class="count" id="count"></div>
+    <div class="grid" id="grid"></div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top">
+      <div>
+        <div class="f-brand"><img src="assets/logo-light.svg" alt="e.NUE Design"></div>
+        <p style="max-width:34ch;line-height:1.6" data-i="foot.tagline"></p>
+      </div>
+      <div class="f-cols" id="footCols"></div>
+    </div>
+    <div class="f-bot">
+      <div class="f-copy">© 2026 e.NUE Design. All rights reserved.</div>
+      <button class="f-legal-link" type="button" id="legalOpen" data-i="legal.link"></button>
+    </div>
+    <div class="f-notice" data-i="legal.short"></div>
+  </div>
+</footer>
+
+<div class="legal-ov" id="legalOv" role="dialog" aria-modal="true" aria-labelledby="legalTitle">
+  <div class="legal-box">
+    <button class="legal-x" id="legalClose" aria-label="Close">&times;</button>
+    <h3 id="legalTitle" data-i="legal.title"></h3>
+    <div class="legal-body" id="legalBody"></div>
+  </div>
+</div>
+
+<div class="modal" id="modal">
+  <div class="modal-box">
+    <div class="modal-thumb" id="mThumb"></div>
+    <div class="modal-body">
+      <div class="m-cat" id="mCat"></div>
+      <h3 id="mTitle"></h3>
+      <p id="mDesc"></p>
+      <div class="m-meta" id="mMeta"></div>
+      <button class="modal-close" onclick="closeModal()" data-i="modal.close"></button>
+    </div>
+  </div>
+</div>
+
+<script>
+const T = {
+  en:{
+    "nav.services":"Services","nav.work":"Portfolio","nav.about":"About","nav.process":"Process","nav.quote":"Get a Quote",
+    "hero.eyebrow":"Design to Print · Dallas, TX",
+    "hero.h1":"Everything your business needs, designed and <em>printed in-house</em>",
+    "hero.sub":"From logos and brand identity to menus, business cards, window graphics, and wall graphics — e.NUE Design handles design and printing under one roof. No outside vendors means truer color, faster turnaround, and lower cost.",
+    "hero.cta1":"View portfolio","hero.cta2":"Get a free quote",
+    "svc.label":"What we do",
+    "svc.h2":"From first sketch to <em>finished print</em>",
+    "svc.desc":"One team owns the whole job. No handing off files and hunting for a print shop.",
+    "work.label":"Selected work",
+    "work.h2":"Find exactly the <em>work</em> you're looking for",
+    "work.desc":"Filter by what you need made, or by the kind of business you run.",
+    "work.byProduct":"Filter by service","work.byIndustry":"Filter by industry",
+    "work.all":"All",
+    "work.count":n => n + (n===1 ? " project" : " projects"),
+    "work.empty":"More work in this category is coming soon.",
+    "about.label":"About us",
+    "about.h2":"Small shops deserve <em>big brands</em>",
+    "about.desc":"We've worked with local business owners since 2015 — one of the few studios that keeps design and printing entirely in-house.",
+    "proc.label":"How it works",
+    "proc.h2":"Four steps, <em>that's it</em>",
+    "proc.desc":"No complicated process. Clear from first call to final delivery.",
+    "cta.label":"Let's talk",
+    "cta.h2":"What do you need <em>printed?</em>",
+    "cta.desc":"One box of business cards or a full storefront rebrand — reach out either way. Quotes are free.",
+    "cta.email":"Email us","cta.more":"See more work",
+    "foot.tagline":"Design through print. Everything your business needs, in one place.",
+    "foot.services":"Services","foot.company":"Company","foot.touch":"Get in touch",
+    "modal.close":"Close",
+    "marquee":["Logo design","Business cards","Menus","Posters","Brochures","Flyers","Coupons","Wall graphics","Window graphics","Banners","Stickers","Packaging"],
+    "svc.items":[
+      {n:"01",h:"Brand identity",p:"Logo, color palette, and type system — the foundation every printed piece stays consistent with.",l:["Logo design","Brand guide","Naming"]},
+      {n:"02",h:"Business print",p:"Business cards, letterhead, and envelopes. We advise on paper stock and finishing too.",l:["Business cards","Letterhead","Envelopes · Stickers"]},
+      {n:"03",h:"Marketing material",p:"Print that stays in your customer's hands — posters, brochures, flyers, and coupons built for the goal.",l:["Posters","Brochures","Flyers · Coupons"]},
+      {n:"04",h:"Store & environment",p:"Large-format graphics that stop foot traffic. We measure on site and install ourselves.",l:["Window graphics","Wall graphics","Signs · Banners"]}
+    ],
+    "stats":[{n:"10+",l:"Years in business"},{n:"850+",l:"Projects delivered"},{n:"6",l:"Service categories"},{n:"98%",l:"Client return rate"}],
+    "values":[
+      {h:"In-house printing",p:"Design and print live under one roof. The color you approve on screen is the color that comes off the press."},
+      {h:"Small business first",p:"You don't need an enterprise budget. We propose what actually fits your size and goals."},
+      {h:"One consistent brand",p:"Cards, menus, and signage shouldn't look like three different companies. We tie them into one system."},
+      {h:"Fast turnaround",p:"Skipping the outside vendor means revisions and reprints move quickly. Tight deadline? Let's talk."}
+    ],
+    "steps":[
+      {n:"STEP 01",h:"Consult & quote",p:"We go over what you need printed, quantities, and timing, then agree on a direction that fits the budget."},
+      {n:"STEP 02",h:"Design concepts",p:"You get two or three directions to choose from, then we refine the one you pick."},
+      {n:"STEP 03",h:"Press check",p:"We settle paper and finishing, check real printed color in person, then run the full job."},
+      {n:"STEP 04",h:"Delivery & install",p:"Finished pieces are delivered — and for wall and window graphics, we install on site."}
+    ]
+  },
+  ko:{
+    "nav.services":"서비스","nav.work":"포트폴리오","nav.about":"소개","nav.process":"진행 과정","nav.quote":"견적 문의",
+    "hero.eyebrow":"디자인부터 인쇄까지 · Dallas, TX",
+    "hero.h1":"비즈니스에 필요한 모든 것을 디자인하고 <em>직접 인쇄</em>합니다",
+    "hero.sub":"로고와 브랜드 아이덴티티부터 명함, 메뉴, 윈도우 그래픽, 월 그래픽까지 — e.NUE Design은 디자인과 인쇄를 한 곳에서 처리합니다. 외주를 거치지 않으니 색이 정확하고, 일정이 빠르고, 비용이 줄어듭니다.",
+    "hero.cta1":"포트폴리오 보기","hero.cta2":"무료 견적 받기",
+    "svc.label":"서비스",
+    "svc.h2":"디자인부터 <em>완성된 인쇄물</em>까지",
+    "svc.desc":"한 회사가 처음부터 끝까지 책임집니다. 디자인 파일을 넘겨받아 인쇄소를 따로 찾을 필요가 없습니다.",
+    "work.label":"주요 작업",
+    "work.h2":"원하는 <em>작업물</em>을 바로 찾아보세요",
+    "work.desc":"필요한 인쇄물 종류로, 또는 운영하시는 업종으로 골라보실 수 있습니다.",
+    "work.byProduct":"서비스별 보기","work.byIndustry":"업종별 보기",
+    "work.all":"전체",
+    "work.count":n => n + "개의 작업물",
+    "work.empty":"해당 카테고리의 작업물이 곧 업데이트됩니다.",
+    "about.label":"회사 소개",
+    "about.h2":"작은 가게의 <em>큰 브랜드</em>를 만듭니다",
+    "about.desc":"2015년부터 지역 소상공인과 함께해 왔습니다. 디자인과 인쇄를 모두 내부에서 처리하는 몇 안 되는 스튜디오입니다.",
+    "proc.label":"진행 과정",
+    "proc.h2":"네 단계면 <em>충분합니다</em>",
+    "proc.desc":"복잡한 절차 없이, 상담부터 납품까지 명확하게 진행됩니다.",
+    "cta.label":"문의하기",
+    "cta.h2":"어떤 인쇄물이 <em>필요하신가요?</em>",
+    "cta.desc":"간단한 명함 한 종이든, 매장 전체 브랜딩이든 편하게 문의해 주세요. 견적은 무료입니다.",
+    "cta.email":"이메일로 문의하기","cta.more":"작업물 더 보기",
+    "foot.tagline":"디자인부터 인쇄까지, 비즈니스에 필요한 모든 인쇄물을 한 곳에서.",
+    "foot.services":"서비스","foot.company":"회사","foot.touch":"연락처",
+    "modal.close":"닫기",
+    "marquee":["로고 디자인","명함","메뉴판","포스터","브로셔","플라이어","쿠폰","월 그래픽","윈도우 그래픽","배너","스티커","패키지"],
+    "svc.items":[
+      {n:"01",h:"브랜드 아이덴티티",p:"로고, 컬러 팔레트, 서체 시스템까지 — 모든 인쇄물에 일관되게 적용되는 브랜드 기반을 만듭니다.",l:["로고 디자인","브랜드 가이드","네이밍"]},
+      {n:"02",h:"비즈니스 인쇄물",p:"첫인상을 결정하는 명함부터 레터헤드, 봉투까지. 종이 질감과 후가공도 함께 제안합니다.",l:["명함","레터헤드","봉투 · 스티커"]},
+      {n:"03",h:"마케팅 자료",p:"고객의 손에 남는 인쇄물. 포스터, 브로셔, 플라이어, 쿠폰까지 목적에 맞게 설계합니다.",l:["포스터","브로셔","플라이어 · 쿠폰"]},
+      {n:"04",h:"매장 · 환경 그래픽",p:"지나가는 사람의 발길을 붙잡는 대형 그래픽. 현장 실측부터 시공까지 직접 진행합니다.",l:["윈도우 그래픽","월 그래픽","사인 · 배너"]}
+    ],
+    "stats":[{n:"10+",l:"년의 경력"},{n:"850+",l:"완료한 프로젝트"},{n:"6",l:"서비스 카테고리"},{n:"98%",l:"재의뢰율"}],
+    "values":[
+      {h:"직접 인쇄",p:"디자인과 인쇄가 한 지붕 아래 있습니다. 화면에서 승인하신 색이 종이에서도 그대로 나옵니다."},
+      {h:"소상공인 중심",p:"대기업 예산이 없어도 됩니다. 규모와 목표에 맞는 현실적인 제안을 먼저 드립니다."},
+      {h:"하나의 일관된 브랜드",p:"명함, 메뉴, 간판이 서로 다른 회사처럼 보이면 안 됩니다. 하나의 시스템으로 전부 연결합니다."},
+      {h:"빠른 진행",p:"외주 단계를 거치지 않기 때문에 수정과 재인쇄가 빠릅니다. 급한 일정도 상의해 주세요."}
+    ],
+    "steps":[
+      {n:"STEP 01",h:"상담 & 견적",p:"필요한 인쇄물과 수량, 일정을 확인하고 예산에 맞는 방향을 함께 정합니다."},
+      {n:"STEP 02",h:"디자인 시안",p:"2~3가지 방향의 시안을 제안하고, 선택하신 시안을 다듬어 갑니다."},
+      {n:"STEP 03",h:"인쇄 감리",p:"종이와 후가공을 결정하고, 실제 인쇄 색을 직접 확인한 뒤 본 인쇄에 들어갑니다."},
+      {n:"STEP 04",h:"납품 & 시공",p:"완성된 인쇄물을 전달하고, 월·윈도우 그래픽은 현장 시공까지 마무리합니다."}
+    ]
+  }
+};
+
+const EXTRA = {
+  en: {
+    "work.ctaTitle": "Check our portfolio",
+    "work.ctaSub": "Menus, signs, window graphics, branding and more — for cafes, restaurants, dental offices, churches and local businesses around Dallas.",
+    "work.ctaMeta": "View all work",
+    "pf.eyebrow": "Portfolio",
+    "pf.h1": "Work we've <em>printed and installed</em>",
+    "pf.sub": "Filter by the kind of work you need made, or by the kind of business you run.",
+    "pf.back": "Back to home",
+
+    "faq.label": "FAQ",
+    "faq.h2": "Questions we get <em>all the time</em>",
+    "faq.desc": "Still not sure about something? Just call or send us a note — we answer quickly.",
+
+    "form.label": "Get in touch",
+    "form.h2": "Tell us what you need <em>printed</em>",
+    "form.desc": "Fill this out and we'll get back to you with a quote. Quotes are free.",
+    "form.name": "Name",
+    "form.email": "Email",
+    "form.phone": "Phone (optional)",
+    "form.type": "What do you need?",
+    "form.typePick": "Choose one",
+    "form.msg": "Tell us a bit more",
+    "form.msgPh": "Quantity, size, deadline, anything you already have prepared…",
+    "form.send": "Send request",
+    "form.sending": "Sending…",
+    "form.ok": "Thanks — we got it. We'll reply to your email shortly.",
+    "form.err": "Something went wrong. Please email us directly at support@enuedesign.com.",
+    "form.types": ["Logo & branding","Business cards & stationery","Menus","Posters, brochures, flyers","Coupons & promotions","Window graphics","Wall graphics","Signs & banners","Something else"],
+
+    "loc.label": "Locations",
+    "loc.1": "Location 1",
+    "loc.2": "Location 2",
+    "foot.office": "Office",
+
+    "foot.locations": "Locations",
+
+    "legal.link": "Copyright & Usage",
+    "legal.title": "Copyright and Usage Policy",
+    "legal.short": "All designs, images, and text on this site are the property of e.NUE Design and may not be reproduced without written permission.",
+    "legal.updated": "Last updated: August 2026"
+  },
+  ko: {
+    "work.ctaTitle": "포트폴리오 보러 가기",
+    "work.ctaSub": "메뉴판, 사인, 윈도우 그래픽, 브랜딩까지 — 달라스 지역 카페, 레스토랑, 치과, 교회 등의 실제 작업물입니다.",
+    "work.ctaMeta": "전체 작업 보기",
+    "pf.eyebrow": "포트폴리오",
+    "pf.h1": "직접 <em>디자인하고 제작한</em> 작업들",
+    "pf.sub": "필요한 인쇄물 종류로, 또는 운영하시는 업종으로 골라보실 수 있습니다.",
+    "pf.back": "홈으로 돌아가기",
+
+    "faq.label": "자주 묻는 질문",
+    "faq.h2": "가장 <em>많이 받는 질문</em>들",
+    "faq.desc": "궁금한 게 더 있으시면 전화나 메일 주세요. 빠르게 답변드립니다.",
+
+    "form.label": "문의하기",
+    "form.h2": "어떤 인쇄물이 <em>필요하신가요?</em>",
+    "form.desc": "남겨주시면 견적과 함께 연락드리겠습니다. 견적은 무료입니다.",
+    "form.name": "이름",
+    "form.email": "이메일",
+    "form.phone": "연락처 (선택)",
+    "form.type": "필요한 작업",
+    "form.typePick": "선택해 주세요",
+    "form.msg": "내용을 알려주세요",
+    "form.msgPh": "수량, 사이즈, 희망 일정, 이미 준비된 자료가 있다면 함께 적어주세요…",
+    "form.send": "문의 보내기",
+    "form.sending": "보내는 중…",
+    "form.ok": "접수되었습니다. 남겨주신 이메일로 곧 회신드리겠습니다.",
+    "form.err": "전송에 실패했습니다. support@enuedesign.com 로 직접 보내주세요.",
+    "form.types": ["로고 & 브랜딩","명함 & 문구류","메뉴판","포스터·브로셔·플라이어","쿠폰 & 프로모션","윈도우 그래픽","월 그래픽","사인 & 배너","기타"],
+
+    "loc.label": "오시는 길",
+    "loc.1": "1호점",
+    "loc.2": "2호점",
+    "foot.office": "사무실",
+
+    "foot.locations": "오시는 길",
+
+    "legal.link": "저작권 안내",
+    "legal.title": "저작권 및 이용 안내",
+    "legal.short": "본 사이트의 모든 디자인, 이미지, 문구에 대한 권리는 e.NUE Design에 있으며, 사전 서면 동의 없이 사용할 수 없습니다.",
+    "legal.updated": "최종 수정: 2026년 8월"
+  }
+};
+
+/* ---- 저작권 안내 전문 ----
+   실제 분쟁 시 근거가 되는 문서라, 소유·허용·금지·문의를 분명히 나눠 적는다.
+   포트폴리오에는 고객사 상표가 함께 노출되므로 그 권리 귀속도 명시한다. */
+const LEGAL = {
+  en: [
+    ['Ownership of design work',
+     'All design work shown on this site — including layouts, illustrations, typography, photographs, and the arrangement of this website itself — was created by e.NUE Design and remains the intellectual property of e.NUE Design unless a separate written agreement states otherwise.'],
+    ['Client trademarks',
+     'Portfolio pieces may display the names, logos, and trademarks of our clients. Those marks remain the property of their respective owners and are shown here solely to document work performed by e.NUE Design. Their appearance does not imply endorsement, nor does it transfer any right to use those marks.'],
+    ['Permitted use',
+     'You may view this site and share links to it. You may reference our work when discussing a project with us.'],
+    ['Prohibited use',
+     'Without prior written permission from e.NUE Design, you may not copy, download, reproduce, modify, redistribute, publish, or use any material from this site — in whole or in part — for any commercial or public purpose. This includes reuse in portfolios, advertising, social media, print, or AI training datasets.'],
+    ['Purchased work',
+     'When a client commissions and pays for a project, usage rights for the final deliverable are granted as specified in the accompanying quote or agreement. Working files, source files, and unused concepts remain the property of e.NUE Design unless purchased separately.'],
+    ['Requesting permission',
+     'To license or reuse any material shown here, contact us at support@enuedesign.com. We respond to reasonable requests and are generally glad to help.'],
+    ['Reporting misuse',
+     'If you believe material from this site has been used without authorization, please notify us at support@enuedesign.com so we can address it.']
+  ],
+  ko: [
+    ['디자인 저작물의 권리',
+     '본 사이트에 게시된 모든 디자인 작업물 — 레이아웃, 일러스트, 타이포그래피, 사진, 그리고 웹사이트 구성 자체를 포함합니다 — 은 e.NUE Design이 제작한 것으로, 별도의 서면 합의가 없는 한 저작권은 e.NUE Design에 있습니다.'],
+    ['고객사 상표에 관하여',
+     '포트폴리오에는 고객사의 상호, 로고, 상표가 함께 노출될 수 있습니다. 해당 표장의 권리는 각 소유자에게 있으며, e.NUE Design이 수행한 작업을 보여주기 위한 목적으로만 게시합니다. 게시 사실이 해당 업체의 추천이나 보증을 뜻하지 않으며, 표장에 대한 사용 권리를 이전하지도 않습니다.'],
+    ['허용되는 이용',
+     '사이트를 열람하고 링크를 공유하실 수 있습니다. 저희와 프로젝트를 논의하실 때 게시된 작업물을 참고 자료로 언급하셔도 됩니다.'],
+    ['금지되는 이용',
+     'e.NUE Design의 사전 서면 동의 없이 본 사이트의 자료를 전부 또는 일부라도 복제, 다운로드, 변형, 재배포, 게시하거나 상업적·공개적 목적으로 사용할 수 없습니다. 타 업체의 포트폴리오, 광고, 소셜미디어, 인쇄물, AI 학습 데이터에 활용하는 경우를 포함합니다.'],
+    ['의뢰하신 작업물의 권리',
+     '고객이 의뢰하고 대금을 지급하신 프로젝트의 최종 결과물에 대한 사용 권한은 견적서 또는 계약서에 명시된 범위에 따라 부여됩니다. 작업 파일, 원본 소스 파일, 채택되지 않은 시안은 별도로 구매하지 않는 한 e.NUE Design에 귀속됩니다.'],
+    ['사용 문의',
+     '게시된 자료의 사용이나 라이선스가 필요하시면 support@enuedesign.com 으로 연락 주세요. 합당한 요청에는 대부분 협조해 드립니다.'],
+    ['무단 사용 제보',
+     '본 사이트의 자료가 허가 없이 사용되고 있다면 support@enuedesign.com 으로 알려주시기 바랍니다.']
+  ]
+};
+
+/* ---- FAQ (7) ---- */
+const FAQ = {
+  en: [
+    { q: "Do you handle both the design and the printing?",
+      a: "We do. Most of it happens right here in our shop, which is why the color you approve is the color you get.<br><br>If your piece is oversized or you need a big quantity, we hand it to a printer we trust. Those jobs take a little longer — but we'll let you know before we start, so there are no surprises." },
+    { q: "How long will my job take?",
+      a: "Usually 3–5 business days once you've approved the final proof.<br><br>Designing it takes some time before that, and it really depends on what we're making. If your job goes out to a larger printer, add a few more days. Working against a deadline? Tell us early and we'll work it out." },
+    { q: "I already have a design. What file should I send?",
+      a: "A print-ready PDF is ideal — CMYK, 300 DPI, fonts embedded, with 1/8\" bleed around the edges.<br><br>If that sounds like a foreign language, don't worry about it. Send whatever you have: a JPG, a Canva link, even a photo of your old menu. We'll take a look and tell you what we can work with." },
+    { q: "Will I see it before you print it?",
+      a: "Always. Nothing goes on press until you've seen a proof and said yes.<br><br>When color really matters — your brand colors, packaging, a big storefront sign — we'll suggest printing a physical proof first so you can hold it in your hand." },
+    { q: "Is there a minimum order?",
+      a: "For anything we print ourselves, usually not. One sign or a handful of menus is completely fine.<br><br>Outside printers have their own minimums, so if your job goes that route, let's talk it through and land on a number that makes sense for you." },
+    { q: "How many rounds of changes do I get?",
+      a: "Three rounds are included, and that's plenty for most projects. If you need more after that, we'll just let you know what it adds.<br><br>One small favor: before you give the final okay, give everything a careful read — spelling, phone number, address, prices, quantities, sizes. Once it's printed, we can't take it back." },
+    { q: "Do you install window and wall graphics?",
+      a: "Yes — we measure at your space, make the graphics, and put them up ourselves.<br><br>That means no back-and-forth between a designer, a printer, and an installer who've never spoken to each other. We cover the Dallas–Fort Worth area." }
+  ],
+  ko: [
+    { q: "디자인과 인쇄를 모두 해주시나요?",
+      a: "네, 둘 다 합니다. 대부분 저희 작업실에서 직접 인쇄해요. 그래서 화면에서 보신 색이 종이에서도 그대로 나옵니다.<br><br>다만 사이즈가 크거나 수량이 많아지면 믿고 맡기는 인쇄 업체로 보냅니다. 그런 작업은 시간이 조금 더 걸리는데, 시작 전에 미리 말씀드리니 걱정 안 하셔도 돼요." },
+    { q: "작업 기간은 얼마나 걸리나요?",
+      a: "최종 시안을 승인해 주시면, 보통 영업일 기준 <strong>3~5일</strong> 걸립니다.<br><br>그 전에 시안 만드는 기간이 따로 있는데, 이건 작업 종류에 따라 달라요. 외부 인쇄 업체를 거치면 며칠 더 봐주셔야 하고요. 급한 일정이 있으시면 미리 말씀해 주세요. 최대한 맞춰봅니다." },
+    { q: "이미 디자인이 있는데, 어떤 파일로 보내면 되나요?",
+      a: "인쇄용 PDF가 제일 좋습니다. CMYK에 300 DPI, 폰트 포함, 사방 1/8인치 재단 여백이면 완벽해요.<br><br>무슨 말인지 모르시겠어도 괜찮습니다. 그냥 갖고 계신 걸 보내주세요. JPG든 Canva 링크든, 예전 메뉴판 사진이라도요. 저희가 보고 어떤 걸 쓸 수 있는지 알려드립니다." },
+    { q: "인쇄 전에 시안을 볼 수 있나요?",
+      a: "항상 보여드립니다. 시안 보시고 좋다고 하시기 전까지는 인쇄에 안 들어갑니다.<br><br>브랜드 컬러나 패키지, 큰 매장 사인처럼 색이 중요한 작업은 실물로 한 장 뽑아보시길 권해드려요. 직접 손에 들고 보시는 게 확실하니까요." },
+    { q: "최소 수량이 있나요?",
+      a: "저희가 직접 인쇄하는 건 대부분 없습니다. 사인 한 장, 메뉴판 몇 부도 괜찮아요.<br><br>외부 업체는 각자 최소 수량이 있어서, 그쪽으로 넘어가는 작업이면 상의해서 적당한 수량을 함께 정하시면 됩니다." },
+    { q: "시안 수정은 몇 번까지 되나요?",
+      a: "3회까지 포함되고, 대부분의 작업은 그 안에서 충분히 마무리됩니다. 더 필요하시면 추가 비용을 미리 알려드릴게요.<br><br>한 가지만 부탁드려요. 최종 승인 전에 오타, 연락처, 주소, 가격, 수량, 사이즈를 한 번씩만 꼼꼼히 봐주세요. 인쇄가 끝나면 되돌릴 수가 없어서요." },
+    { q: "윈도우 그래픽이나 월 그래픽 시공도 하시나요?",
+      a: "네. 현장에 가서 직접 재고, 제작하고, 저희가 붙여드립니다.<br><br>디자이너 따로 인쇄소 따로 시공팀 따로면 중간에서 말이 새기 쉬운데, 그럴 일이 없어요. 달라스–포트워스 지역 다닙니다." }
+  ]
+};
+Object.keys(EXTRA).forEach(l => Object.assign(T[l], EXTRA[l]));
+
+const $ = id => document.getElementById(id);
+let lang = new URLSearchParams(location.search).get('lang') === 'ko' ? 'ko' : 'en';
+const t = k => T[lang][k];
+
+function syncLinks(){
+  document.querySelectorAll('[data-link]').forEach(a=>{
+    const raw = a.getAttribute('href').split('?')[0];
+    const [path, hash] = raw.split('#');
+    a.href = lang==='ko' ? (path||'') + '?lang=ko' + (hash ? '#'+hash : '') : raw;
+  });
+}
+function setLang(l){
+  lang = l;
+  document.documentElement.lang = l;
+  document.body.classList.toggle('ko', l==='ko');
+  $('langEn').classList.toggle('on', l==='en');
+  $('langKo').classList.toggle('on', l==='ko');
+  if (typeof onLangChange === 'function') onLangChange();
+  renderAll(); syncLinks();
+}
+function renderFooter(){
+  $('footCols').innerHTML = `
+    <div class="f-col"><h5>${t('foot.locations')}</h5>
+      <div class="f-contact">
+        <div class="cc-line"><strong>${t('loc.1')}</strong><a class="cc-addr" href="https://www.google.com/maps/search/?api=1&query=1012%20Macarthur%20Dr.%20Ste%20164%2C%20Carrollton%2C%20TX%2075007" target="_blank" rel="noopener">1012 Macarthur Dr. Ste 164<br>Carrollton, TX 75007</a></div>
+        <div class="cc-line"><strong>${t('loc.2')}</strong><a class="cc-addr" href="https://www.google.com/maps/search/?api=1&query=1420%20Valwood%20Pkwy.%20Ste%20175%2C%20Carrollton%2C%20TX%2075006" target="_blank" rel="noopener">1420 Valwood Pkwy. Ste 175<br>Carrollton, TX 75006</a></div>
+      </div></div>
+    <div class="f-col"><h5>${t('foot.touch')}</h5>
+      <div class="f-contact">
+        <div class="cc-line"><strong>${t('foot.office')}</strong><a href="tel:+14697797250">469-779-7250</a></div>
+        <div class="cc-line"><a href="mailto:support@enuedesign.com">support@enuedesign.com</a></div>
+      </div></div>
+    <div class="f-col"><h5>${t('foot.company')}</h5>
+      <a href="index.html#services" data-link>${t('nav.services')}</a>
+      <a href="portfolio.html" data-link>${t('nav.work')}</a>
+      <a href="index.html#about" data-link>${t('nav.about')}</a>
+      <a href="index.html#faq" data-link>${t('faq.label')}</a>
+      <a href="index.html#contact" data-link>${t('nav.quote')}</a></div>`;
+  renderLegal();
+}
+
+/* ---- 저작권 안내 ---- (LEGAL 은 EXTRA 블록에서 이미 선언됨) */
+function renderLegal(){
+  const b = $('legalBody');
+  if (!b) return;
+  b.innerHTML = LEGAL[lang].map(([h,p]) =>
+    `<section><h4>${h}</h4><p>${p}</p></section>`).join('')
+    + `<p class="legal-meta">${t('legal.updated')} · support@enuedesign.com</p>`;
+}
+(function(){
+  const ov = $('legalOv');
+  if (!ov) return;
+  const open = () => { ov.classList.add('on'); document.body.style.overflow='hidden'; };
+  const shut = () => { ov.classList.remove('on'); document.body.style.overflow=''; };
+  $('legalOpen').onclick = open;
+  $('legalClose').onclick = shut;
+  ov.addEventListener('click', e => { if (e.target === ov) shut(); });
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') shut(); });
+})();
+
+/* ---- 이미지 보호 ----
+   완전한 차단은 불가능하다. 개발자도구·스크린샷·소스보기로 언제든 받아갈 수 있다.
+   여기서 막는 것은 "우클릭 → 이미지 저장"과 드래그, 즉 무심코 가져가는 경로뿐이다.
+   전체 페이지가 아니라 이미지에만 걸어 전화번호 복사나 링크 새 탭 열기는 그대로 둔다. */
+(function(){
+  const isImg = el => el && (el.tagName === 'IMG' || el.closest('.thumb, .modal-img'));
+  document.addEventListener('contextmenu', e => { if (isImg(e.target)) e.preventDefault(); });
+  document.addEventListener('dragstart',   e => { if (isImg(e.target)) e.preventDefault(); });
+})();
+document.querySelector('.menu-toggle').onclick = ()=>{
+  const n = document.querySelector('.nav-links');
+  const open = n.style.display === 'flex';
+  n.style.cssText = open ? '' :
+    'display:flex;position:absolute;top:74px;left:0;right:0;background:var(--beige);flex-direction:column;padding:24px var(--pad);gap:18px;border-bottom:1px solid var(--line)';
+};
+
+/* Projects come from data/projects.json (edited in the CMS at /admin).
+   The inline copy below is only a fallback so this page still previews
+   when opened directly from disk (file:// blocks fetch). */
+const FALLBACK_DATA = {"projects":[{"title":"Acupressure Clinic Business Card","client":"Accupressure","image":"assets/portfolio/acupressure-clinic-business-card.webp","alt":"Acupressure Clinic Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Medical & Dental"],"industryKo":["메디컬 & 덴탈"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":1},{"title":"Logistics Logo & Brochure","client":"Dalex Logistics","image":"assets/portfolio/logistics-logo-brochure.webp","alt":"Logistics Logo & Brochure designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Industrial & Logistics"],"industryKo":["산업 & 물류"],"descEn":"Logo and company brochure for a logistics firm, from brand development through print.","descKo":"물류회사 로고와 회사소개 브로슈어. 브랜드 개발부터 인쇄물까지 일괄 진행.","order":2},{"title":"K-Pop Goods Store Window Graphic","client":"10x10","image":"assets/portfolio/k-pop-goods-store-window-graphic.webp","alt":"K-Pop Goods Store Window Graphic designed and printed by e.NUE Design","serviceEn":["Window Graphic"],"serviceKo":["윈도우 그래픽"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Full storefront window graphics for a K-pop goods shop, wrapping the entire facade.","descKo":"K-POP 굿즈샵 매장 전면 창문 그래픽. 전체 파사드 래핑.","order":3},{"title":"Real Estate Yard Sign — Coming Soon","client":"TX Legacy","image":"assets/portfolio/real-estate-yard-sign-coming-soon.webp","alt":"Real Estate Yard Sign — Coming Soon designed and printed by e.NUE Design","serviceEn":["Yard Sign"],"serviceKo":["야드사인"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Real estate yard sign with a Coming Soon panel and H-stake frame.","descKo":"부동산 야드사인. Coming Soon 문구, H형 스탠드 포함.","order":4},{"title":"Dental Clinic Flyer","client":"Clinica Dental","image":"assets/portfolio/dental-clinic-flyer.webp","alt":"Dental Clinic Flyer designed and printed by e.NUE Design","serviceEn":["Flyer"],"serviceKo":["전단지"],"industryEn":["Medical & Dental"],"industryKo":["메디컬 & 덴탈"],"descEn":"Dental clinic flyer covering services and current promotions.","descKo":"치과 홍보 전단지. 진료 항목과 프로모션 안내.","order":5},{"title":"Real Estate Presentation Folder","client":"Sample","image":"assets/portfolio/real-estate-presentation-folder.webp","alt":"Real Estate Presentation Folder designed and printed by e.NUE Design","serviceEn":["Presentation Folder"],"serviceKo":["프레젠테이션 폴더"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Real estate presentation folder with pockets for contract documents.","descKo":"부동산 프레젠테이션 폴더. 계약 서류 보관용 포켓 구성.","order":6},{"title":"Logistics Car Decal","client":"Dalex Logistics","image":"assets/portfolio/logistics-car-decal.webp","alt":"Logistics Car Decal designed and printed by e.NUE Design","serviceEn":["Vehicle Decal"],"serviceKo":["차량 데칼"],"industryEn":["Industrial & Logistics"],"industryKo":["산업 & 물류"],"descEn":"Vehicle decal for a logistics company, cut vinyl application.","descKo":"물류회사 차량 데칼. 컷팅 시트 시공.","order":7},{"title":"Spa Service Menu","client":"Spa Shop","image":"assets/portfolio/spa-service-menu.webp","alt":"Spa Service Menu designed and printed by e.NUE Design","serviceEn":["Table Menu"],"serviceKo":["테이블 메뉴"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Spa service menu, 8.5\"x11\".","descKo":"스파 서비스 메뉴 8.5\"x11\".","order":8},{"title":"Church X-Banner","client":"Church","image":"assets/portfolio/church-x-banner.webp","alt":"Church X-Banner designed and printed by e.NUE Design","serviceEn":["X-Banner"],"serviceKo":["X배너"],"industryEn":["Church & Nonprofit"],"industryKo":["교회 & 비영리"],"descEn":"X-banner for a church.","descKo":"교회 X배너.","order":9},{"title":"Beauty Supply Roll-Up Banner","client":"Valley Beauty","image":"assets/portfolio/beauty-supply-roll-up-banner.webp","alt":"Beauty Supply Roll-Up Banner designed and printed by e.NUE Design","serviceEn":["Standing Banner"],"serviceKo":["스탠딩 배너"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Roll-up banner for a beauty supplier, built for both trade shows and in-store display.","descKo":"뷰티 공급업체 롤업 배너. 전시회와 매장 양쪽에 쓸 수 있는 스탠드형.","order":10},{"title":"Church Weekly Bulletin","client":"Church","image":"assets/portfolio/church-weekly-bulletin.webp","alt":"Church Weekly Bulletin designed and printed by e.NUE Design","serviceEn":["Bulletin"],"serviceKo":["주보"],"industryEn":["Church & Nonprofit"],"industryKo":["교회 & 비영리"],"descEn":"Weekly church bulletin, laid out for recurring in-house printing.","descKo":"교회 주보. 매주 발행에 맞춘 레이아웃.","order":11},{"title":"Corporate Envelope","client":"Mockup","image":"assets/portfolio/corporate-envelope.webp","alt":"Corporate Envelope designed and printed by e.NUE Design","serviceEn":["Envelope"],"serviceKo":["봉투"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Corporate envelope designed as a set with the matching letterhead.","descKo":"기업 봉투. 레터헤드와 세트로 구성.","order":12},{"title":"Beauty Salon Gift Certificate","client":"Grace Beauty","image":"assets/portfolio/beauty-salon-gift-certificate.webp","alt":"Beauty Salon Gift Certificate designed and printed by e.NUE Design","serviceEn":["Gift Card"],"serviceKo":["기프트카드"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Gift certificate for a beauty salon, 6\"x3\".","descKo":"뷰티살롱 기프트 상품권 6\"x3\".","order":13},{"title":"Church Keyring","client":"Church","image":"assets/portfolio/church-keyring.webp","alt":"Church Keyring designed and printed by e.NUE Design","serviceEn":["Sublimation Goods"],"serviceKo":["승화 굿즈"],"industryEn":["Church & Nonprofit"],"industryKo":["교회 & 비영리"],"descEn":"Commemorative keyring for a church, produced as a sublimation item.","descKo":"교회 기념 키링. 승화 인쇄 굿즈.","order":14},{"title":"Preschool Letterhead","client":"Sample","image":"assets/portfolio/preschool-letterhead.webp","alt":"Preschool Letterhead designed and printed by e.NUE Design","serviceEn":["Letterhead"],"serviceKo":["레터헤드"],"industryEn":["Education"],"industryKo":["교육"],"descEn":"Preschool letterhead for notices and official correspondence.","descKo":"유치원 레터헤드. 안내문과 공문서용 서식.","order":15},{"title":"Corporate Name Badge","client":"NameBadge Sample","image":"assets/portfolio/corporate-name-badge.webp","alt":"Corporate Name Badge designed and printed by e.NUE Design","serviceEn":["Name Badge"],"serviceKo":["명찰"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Corporate name badge sample.","descKo":"기업용 명찰 샘플.","order":16},{"title":"Golf Apparel Indoor Sign & Window Decal","client":"JDX","image":"assets/portfolio/golf-apparel-indoor-sign-window-decal.webp","alt":"Golf Apparel Indoor Sign & Window Decal designed and printed by e.NUE Design","serviceEn":["Signage","Window Decal"],"serviceKo":["사이니지","윈도우 데칼"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Indoor sign and window decal for a golf apparel store, installed as one graphics package.","descKo":"골프웨어 매장 실내 사인과 창문 데칼. 매장 전체 그래픽 일괄 시공.","order":17},{"title":"Commercial Development Outdoor Mesh Banner","client":"Goodseed","image":"assets/portfolio/commercial-development-outdoor-mesh-banner.webp","alt":"Commercial Development Outdoor Mesh Banner designed and printed by e.NUE Design","serviceEn":["Outdoor Banner"],"serviceKo":["외부 배너"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Large mesh banner for a commercial development site, made for long-term outdoor installation.","descKo":"상가 개발 현장용 대형 메시 배너. 야외 장기 시공에 맞춘 통풍 소재.","order":18},{"title":"Industrial Materials Brochure","client":"Eslin","image":"assets/portfolio/industrial-materials-brochure.webp","alt":"Industrial Materials Brochure designed and printed by e.NUE Design","serviceEn":["Brochure"],"serviceKo":["브로슈어"],"industryEn":["Industrial & Logistics"],"industryKo":["산업 & 물류"],"descEn":"Tri-fold brochure for an industrial materials supplier, with specification and performance data.","descKo":"산업용 소재 브로슈어. 물성표와 규격 데이터를 담은 3단 접지.","order":19},{"title":"Beauty Salon Coupon","client":"Grace Beauty","image":"assets/portfolio/beauty-salon-coupon.webp","alt":"Beauty Salon Coupon designed and printed by e.NUE Design","serviceEn":["Coupon"],"serviceKo":["쿠폰"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Salon coupon on matte stock with a perforated tear line.","descKo":"뷰티살롱 쿠폰. 무광 코팅, 절취선 구성.","order":20},{"title":"Pet Grooming EDDM Postcard","client":"Grooming Shop","image":"assets/portfolio/pet-grooming-eddm-postcard.webp","alt":"Pet Grooming EDDM Postcard designed and printed by e.NUE Design","serviceEn":["EDDM"],"serviceKo":["EDDM 우편광고"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"EDDM postcard for a pet grooming shop, sized to USPS specifications for local mailing.","descKo":"펫 그루밍샵 EDDM 우편광고. 우체국 규격에 맞춘 지역 발송용.","order":21},{"title":"Pet Grooming Menu Board","client":"Groome","image":"assets/portfolio/pet-grooming-menu-board.webp","alt":"Pet Grooming Menu Board designed and printed by e.NUE Design","serviceEn":["Menu Board"],"serviceKo":["메뉴보드"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Menu board for a pet grooming shop listing services and pricing.","descKo":"펫 그루밍샵 메뉴보드. 서비스 항목과 가격 구성.","order":22},{"title":"HVAC Service NCR Form","client":"Magicool","image":"assets/portfolio/hvac-service-ncr-form.webp","alt":"HVAC Service NCR Form designed and printed by e.NUE Design","serviceEn":["Invoice"],"serviceKo":["인보이스"],"industryEn":["Industrial & Logistics"],"industryKo":["산업 & 물류"],"descEn":"Carbonless NCR form for an HVAC contractor, doubling as estimate and work order.","descKo":"HVAC 업체 NCR 복사 전표. 견적과 작업지시 겸용 양식.","order":23},{"title":"Orchestra Concert Poster","client":"Milal Orchestra","image":"assets/portfolio/orchestra-concert-poster.webp","alt":"Orchestra Concert Poster designed and printed by e.NUE Design","serviceEn":["Poster"],"serviceKo":["포스터"],"industryEn":["Church & Nonprofit"],"industryKo":["교회 & 비영리"],"descEn":"Concert poster for an orchestra, 12\"x28\".","descKo":"오케스트라 공연 포스터 12\"x28\".","order":24},{"title":"Church Digital Ad","client":"Church","image":"assets/portfolio/church-digital-ad.webp","alt":"Church Digital Ad designed and printed by e.NUE Design","serviceEn":["Digital Ad"],"serviceKo":["디지털 광고"],"industryEn":["Church & Nonprofit"],"industryKo":["교회 & 비영리"],"descEn":"Digital ad banner for a church, sized for online placement.","descKo":"교회 디지털 광고 배너. 온라인 게시용.","order":25},{"title":"Hair Salon Business Card","client":"Chungdam","image":"assets/portfolio/hair-salon-business-card.webp","alt":"Hair Salon Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":26},{"title":"Head Spa Logo","client":"Aoki Head Spa","image":"assets/portfolio/head-spa-logo.webp","alt":"Head Spa Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Head spa logo, built to work on both signage and print.","descKo":"헤드스파 로고. 간판과 인쇄물 양쪽에 쓸 수 있는 형태.","order":27},{"title":"Stationery Store Window Graphic","client":"Artbox","image":"assets/portfolio/stationery-store-window-graphic.webp","alt":"Stationery Store Window Graphic designed and printed by e.NUE Design","serviceEn":["Window Graphic"],"serviceKo":["윈도우 그래픽"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Window graphics for a stationery store.","descKo":"문구점 창문 그래픽.","order":28},{"title":"Real Estate Yard Sign — For Lease","client":"","image":"assets/portfolio/real-estate-yard-sign-for-lease.webp","alt":"Real Estate Yard Sign — For Lease designed and printed by e.NUE Design","serviceEn":["Yard Sign"],"serviceKo":["야드사인"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Real estate yard sign for lease listings, with rider panel.","descKo":"부동산 임대 야드사인. For Lease 라이더 포함.","order":29},{"title":"Real Estate Flyer","client":"Win Realty","image":"assets/portfolio/real-estate-flyer.webp","alt":"Real Estate Flyer designed and printed by e.NUE Design","serviceEn":["Flyer"],"serviceKo":["전단지"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Real estate listing flyer with property photos and agent contact block.","descKo":"부동산 매물 전단지. 매물 사진과 담당자 정보 구성.","order":30},{"title":"Preschool Presentation Folder","client":"Sample","image":"assets/portfolio/preschool-presentation-folder.webp","alt":"Preschool Presentation Folder designed and printed by e.NUE Design","serviceEn":["Presentation Folder"],"serviceKo":["프레젠테이션 폴더"],"industryEn":["Education"],"industryKo":["교육"],"descEn":"Preschool folder for distributing enrollment materials.","descKo":"유치원 안내 폴더. 입학 자료 배포용.","order":31},{"title":"Pet Grooming Car Decal","client":"Grooming Shop","image":"assets/portfolio/pet-grooming-car-decal.webp","alt":"Pet Grooming Car Decal designed and printed by e.NUE Design","serviceEn":["Vehicle Decal"],"serviceKo":["차량 데칼"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Vehicle decal for a pet grooming shop.","descKo":"펫 그루밍샵 차량 데칼.","order":32},{"title":"Hair Salon Table Menu","client":"Ponytail Hair","image":"assets/portfolio/hair-salon-table-menu.webp","alt":"Hair Salon Table Menu designed and printed by e.NUE Design","serviceEn":["Table Menu"],"serviceKo":["테이블 메뉴"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Table menu for a hair salon listing services and prices.","descKo":"미용실 테이블 메뉴. 시술 항목과 가격 안내.","order":33},{"title":"Health & Beauty Retail X-Banner","client":"Atomy","image":"assets/portfolio/health-beauty-retail-x-banner.webp","alt":"Health & Beauty Retail X-Banner designed and printed by e.NUE Design","serviceEn":["X-Banner"],"serviceKo":["X배너"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"X-banner for a health and beauty retailer.","descKo":"헬스&뷰티 매장 X배너.","order":34},{"title":"Golf Shop Table Banner","client":"Golf","image":"assets/portfolio/golf-shop-table-banner.webp","alt":"Golf Shop Table Banner designed and printed by e.NUE Design","serviceEn":["Standing Banner"],"serviceKo":["스탠딩 배너"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Tabletop banner for a golf shop, sized for event booths.","descKo":"골프샵 테이블 배너. 행사 부스용 소형 스탠드.","order":35},{"title":"Church Service Bulletin","client":"Church","image":"assets/portfolio/church-service-bulletin.webp","alt":"Church Service Bulletin designed and printed by e.NUE Design","serviceEn":["Bulletin"],"serviceKo":["주보"],"industryEn":["Church & Nonprofit"],"industryKo":["교회 & 비영리"],"descEn":"Church service bulletin with order of worship and announcement sections.","descKo":"교회 예배 주보. 순서지와 공지 지면 구성.","order":36},{"title":"Law Office Envelope","client":"Law Office","image":"assets/portfolio/law-office-envelope.webp","alt":"Law Office Envelope designed and printed by e.NUE Design","serviceEn":["Envelope"],"serviceKo":["봉투"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"No. 10 business envelope for a law office.","descKo":"법률사무소 봉투 #10 규격.","order":37},{"title":"Beauty Salon Gift Certificate — Silver Foil","client":"Grace Beauty","image":"assets/portfolio/beauty-salon-gift-certificate-silver-foil.webp","alt":"Beauty Salon Gift Certificate — Silver Foil designed and printed by e.NUE Design","serviceEn":["Gift Card"],"serviceKo":["기프트카드"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Gift certificate with silk lamination and silver foil stamping.","descKo":"기프트 상품권. 실크 라미네이트에 은박 후가공.","order":38},{"title":"Church T-Shirt","client":"Church","image":"assets/portfolio/church-t-shirt.webp","alt":"Church T-Shirt designed and printed by e.NUE Design","serviceEn":["Sublimation Goods"],"serviceKo":["승화 굿즈"],"industryEn":["Church & Nonprofit"],"industryKo":["교회 & 비영리"],"descEn":"Group T-shirts for a church, sublimation printed.","descKo":"교회 단체 티셔츠. 승화 인쇄.","order":39},{"title":"Real Estate Letterhead","client":"Sample","image":"assets/portfolio/real-estate-letterhead.webp","alt":"Real Estate Letterhead designed and printed by e.NUE Design","serviceEn":["Letterhead"],"serviceKo":["레터헤드"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Real estate letterhead matching the envelope and folder set.","descKo":"부동산 레터헤드. 봉투·폴더와 통일한 브랜드 서식.","order":40},{"title":"Hair Salon Name Badge","client":"Cheongdam","image":"assets/portfolio/hair-salon-name-badge.webp","alt":"Hair Salon Name Badge designed and printed by e.NUE Design","serviceEn":["Name Badge"],"serviceKo":["명찰"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Staff name badge for a hair salon.","descKo":"미용실 직원 명찰.","order":41},{"title":"Hair Salon Indoor Sign","client":"Chungdam","image":"assets/portfolio/hair-salon-indoor-sign.webp","alt":"Hair Salon Indoor Sign designed and printed by e.NUE Design","serviceEn":["Signage"],"serviceKo":["사이니지"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Indoor sign for a hair salon.","descKo":"미용실 실내 사인.","order":42},{"title":"CPA Office Business Card","client":"YoungSookLee CPA","image":"assets/portfolio/cpa-office-business-card.webp","alt":"CPA Office Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Business Card 3.5\"x2\" Silk Laminate and Round Corner","descKo":"명함 3.5\"x2\" 실크 라미네이트 · 라운드 코너","order":43},{"title":"Home Builder Logo","client":"AS","image":"assets/portfolio/home-builder-logo.webp","alt":"Home Builder Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Home builder logo using a gold serif mark for a premium tone.","descKo":"주택건설사 로고. 골드 세리프로 프리미엄 톤 구성.","order":44},{"title":"Health & Beauty Retail Window Graphic","client":"Atomy","image":"assets/portfolio/health-beauty-retail-window-graphic.webp","alt":"Health & Beauty Retail Window Graphic designed and printed by e.NUE Design","serviceEn":["Window Graphic"],"serviceKo":["윈도우 그래픽"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Window graphics for a health and beauty retailer.","descKo":"헬스&뷰티 매장 창문 그래픽.","order":45},{"title":"Real Estate Yard Sign — For Sale","client":"","image":"assets/portfolio/real-estate-yard-sign-for-sale.webp","alt":"Real Estate Yard Sign — For Sale designed and printed by e.NUE Design","serviceEn":["Yard Sign"],"serviceKo":["야드사인"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Real estate for-sale yard sign, 24\"x18\", with agent photo.","descKo":"부동산 매매 야드사인 24\"x18\". 담당자 사진 포함.","order":46},{"title":"Church Invitation Flyer","client":"Church","image":"assets/portfolio/church-invitation-flyer.webp","alt":"Church Invitation Flyer designed and printed by e.NUE Design","serviceEn":["Flyer"],"serviceKo":["전단지"],"industryEn":["Church & Nonprofit"],"industryKo":["교회 & 비영리"],"descEn":"Church invitation flyer in a square format for event outreach.","descKo":"교회 초청 전단지. 행사 안내용 정사각 포맷.","order":47},{"title":"Home Builder Presentation Folder","client":"AS","image":"assets/portfolio/home-builder-presentation-folder.webp","alt":"Home Builder Presentation Folder designed and printed by e.NUE Design","serviceEn":["Presentation Folder"],"serviceKo":["프레젠테이션 폴더"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Presentation folder for a home builder.","descKo":"주택건설사 프레젠테이션 폴더.","order":48},{"title":"Trucking Truck Decal","client":"Central Valley","image":"assets/portfolio/trucking-truck-decal.webp","alt":"Trucking Truck Decal designed and printed by e.NUE Design","serviceEn":["Vehicle Decal"],"serviceKo":["차량 데칼"],"industryEn":["Industrial & Logistics"],"industryKo":["산업 & 물류"],"descEn":"Truck decal for a trucking company, including DOT number lettering.","descKo":"운송회사 트럭 데칼. DOT 번호 표기 포함.","order":49},{"title":"Golf Shop Table Menu","client":"Golf","image":"assets/portfolio/golf-shop-table-menu.webp","alt":"Golf Shop Table Menu designed and printed by e.NUE Design","serviceEn":["Table Menu"],"serviceKo":["테이블 메뉴"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Table menu for a golf shop.","descKo":"골프샵 테이블 메뉴.","order":50},{"title":"Church Event X-Banner","client":"Church","image":"assets/portfolio/church-event-x-banner.webp","alt":"Church Event X-Banner designed and printed by e.NUE Design","serviceEn":["X-Banner"],"serviceKo":["X배너"],"industryEn":["Church & Nonprofit"],"industryKo":["교회 & 비영리"],"descEn":"Event X-banner for a church.","descKo":"교회 행사 X배너.","order":51},{"title":"Law Office Business Card","client":"Law Office","image":"assets/portfolio/law-office-business-card.webp","alt":"Law Office Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":52},{"title":"Telecom Logo","client":"Alliancetel","image":"assets/portfolio/telecom-logo.webp","alt":"Telecom Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Industrial & Logistics"],"industryKo":["산업 & 물류"],"descEn":"Logo for a telecommunications company.","descKo":"통신업체 로고.","order":53},{"title":"Spa Window Graphic","client":"Spa Shop","image":"assets/portfolio/spa-window-graphic.webp","alt":"Spa Window Graphic designed and printed by e.NUE Design","serviceEn":["Window Graphic"],"serviceKo":["윈도우 그래픽"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Window graphics for a spa.","descKo":"스파 창문 그래픽.","order":54},{"title":"Real Estate Agent Yard Sign","client":"","image":"assets/portfolio/real-estate-agent-yard-sign.webp","alt":"Real Estate Agent Yard Sign designed and printed by e.NUE Design","serviceEn":["Yard Sign"],"serviceKo":["야드사인"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Real estate agent yard sign, 24\"x18\".","descKo":"부동산 에이전트 야드사인 24\"x18\".","order":55},{"title":"Pet Grooming Gloss Book Flyer","client":"Groome","image":"assets/portfolio/pet-grooming-gloss-book-flyer.webp","alt":"Pet Grooming Gloss Book Flyer designed and printed by e.NUE Design","serviceEn":["Flyer"],"serviceKo":["전단지"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Pet grooming flyer printed on gloss book stock.","descKo":"펫 그루밍샵 전단지. 유광 북지 인쇄.","order":56},{"title":"Design Studio Presentation Folder","client":"e.NUE Design","image":"assets/portfolio/design-studio-presentation-folder.webp","alt":"Design Studio Presentation Folder designed and printed by e.NUE Design","serviceEn":["Presentation Folder"],"serviceKo":["프레젠테이션 폴더"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"In-house presentation folder for e.NUE Design.","descKo":"e.NUE Design 자사 프레젠테이션 폴더.","order":57},{"title":"Trucking Truck Lettering","client":"","image":"assets/portfolio/trucking-truck-lettering.webp","alt":"Trucking Truck Lettering designed and printed by e.NUE Design","serviceEn":["Vehicle Decal"],"serviceKo":["차량 데칼"],"industryEn":["Industrial & Logistics"],"industryKo":["산업 & 물류"],"descEn":"Truck lettering in cut vinyl for regulatory markings.","descKo":"트럭 레터링. 규정 표기용 컷팅 시트.","order":58},{"title":"Supplier Business Card","client":"Manning ICS","image":"assets/portfolio/supplier-business-card.webp","alt":"Supplier Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Industrial & Logistics"],"industryKo":["산업 & 물류"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":59},{"title":"Window Blinds Logo","client":"Blind Shop","image":"assets/portfolio/window-blinds-logo.webp","alt":"Window Blinds Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Final logo for a window blinds retailer.","descKo":"블라인드 전문점 로고 최종안.","order":60},{"title":"Hair Salon Window Ad Graphic","client":"Chungdam","image":"assets/portfolio/hair-salon-window-ad-graphic.webp","alt":"Hair Salon Window Ad Graphic designed and printed by e.NUE Design","serviceEn":["Window Graphic"],"serviceKo":["윈도우 그래픽"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Window advertising graphics for a hair salon promoting current services.","descKo":"미용실 창문 광고 그래픽. 시술 프로모션 게시.","order":61},{"title":"Real Estate Yard Sign 36x24","client":"Limvesting","image":"assets/portfolio/real-estate-yard-sign-36x24.webp","alt":"Real Estate Yard Sign 36x24 designed and printed by e.NUE Design","serviceEn":["Yard Sign"],"serviceKo":["야드사인"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Real estate yard sign, 36\"x24\".","descKo":"부동산 야드사인 36\"x24\".","order":62},{"title":"Ballet Studio Business Card","client":"Ballet Studio","image":"assets/portfolio/ballet-studio-business-card.webp","alt":"Ballet Studio Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Education"],"industryKo":["교육"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":63},{"title":"Beauty Brand Logo","client":"Fa Belle","image":"assets/portfolio/beauty-brand-logo.webp","alt":"Beauty Brand Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Beauty brand logo, presented as an acrylic sign mockup.","descKo":"뷰티 브랜드 로고. 아크릴 사인으로 제작한 시안.","order":64},{"title":"Preschool Frosted Window Film","client":"Bright Mind","image":"assets/portfolio/preschool-frosted-window-film.webp","alt":"Preschool Frosted Window Film designed and printed by e.NUE Design","serviceEn":["Window Graphic"],"serviceKo":["윈도우 그래픽"],"industryEn":["Education"],"industryKo":["교육"],"descEn":"Frosted window film for a preschool, keeping daylight while blocking sightlines.","descKo":"유치원 창문 무광 시트. 채광은 살리고 시선은 차단.","order":65},{"title":"Dental Clinic Business Card","client":"Clinica Dental","image":"assets/portfolio/dental-clinic-business-card.webp","alt":"Dental Clinic Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Medical & Dental"],"industryKo":["메디컬 & 덴탈"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":66},{"title":"Construction Logo","client":"G1","image":"assets/portfolio/construction-logo.webp","alt":"Construction Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Real Estate & Construction"],"industryKo":["부동산 & 건설"],"descEn":"Construction company logo built from the initials as a structural mark.","descKo":"건설사 로고. 이니셜을 구조물 형태로 구성.","order":67},{"title":"Hair Salon Frosted Window Film","client":"Chungdam","image":"assets/portfolio/hair-salon-frosted-window-film.webp","alt":"Hair Salon Frosted Window Film designed and printed by e.NUE Design","serviceEn":["Window Graphic"],"serviceKo":["윈도우 그래픽"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Frosted window film for a hair salon.","descKo":"미용실 창문 무광 시트.","order":68},{"title":"Pet Grooming Business Card","client":"Grooming Shop","image":"assets/portfolio/pet-grooming-business-card.webp","alt":"Pet Grooming Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":69},{"title":"Corporate Logo","client":"SDMJ","image":"assets/portfolio/corporate-logo.webp","alt":"Corporate Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Corporate logo shown applied to business cards.","descKo":"기업 로고. 명함 적용 시안.","order":70},{"title":"Hair Salon Frosted Window Graphic","client":"Hair Shop","image":"assets/portfolio/hair-salon-frosted-window-graphic.webp","alt":"Hair Salon Frosted Window Graphic designed and printed by e.NUE Design","serviceEn":["Window Graphic"],"serviceKo":["윈도우 그래픽"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Frosted window graphics for a hair salon with the logo reversed out clear.","descKo":"미용실 창문 무광 그래픽. 로고 부분만 투명 처리.","order":71},{"title":"Nail Salon Business Card","client":"Mini Nail","image":"assets/portfolio/nail-salon-business-card.webp","alt":"Nail Salon Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":72},{"title":"Window Blinds Logo Concept","client":"Blind Shop","image":"assets/portfolio/window-blinds-logo-concept.webp","alt":"Window Blinds Logo Concept designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Early logo concept for a window blinds retailer.","descKo":"블라인드 전문점 로고 초기안.","order":73},{"title":"Hair Salon Window Poster","client":"Chungdam","image":"assets/portfolio/hair-salon-window-poster.webp","alt":"Hair Salon Window Poster designed and printed by e.NUE Design","serviceEn":["Window Graphic"],"serviceKo":["윈도우 그래픽"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Window poster for a hair salon.","descKo":"미용실 창문 포스터.","order":74},{"title":"Hair Salon Business Card","client":"Ponytail Hair","image":"assets/portfolio/hair-salon-business-card-2.webp","alt":"Hair Salon Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":75},{"title":"Dental Clinic Logo","client":"Dental","image":"assets/portfolio/dental-clinic-logo.webp","alt":"Dental Clinic Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Medical & Dental"],"industryKo":["메디컬 & 덴탈"],"descEn":"Logo for a dental clinic.","descKo":"치과 로고.","order":76},{"title":"Auto Body Shop Business Card","client":"Procollision","image":"assets/portfolio/auto-body-shop-business-card.webp","alt":"Auto Body Shop Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":77},{"title":"Golf Shop Logo","client":"Golf","image":"assets/portfolio/golf-shop-logo.webp","alt":"Golf Shop Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Logo for a golf shop.","descKo":"골프샵 로고.","order":78},{"title":"Tailor Shop Business Card","client":"CC Tailor","image":"assets/portfolio/tailor-shop-business-card.webp","alt":"Tailor Shop Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":79},{"title":"Medical Clinic Logo","client":"Medical","image":"assets/portfolio/medical-clinic-logo.webp","alt":"Medical Clinic Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Medical & Dental"],"industryKo":["메디컬 & 덴탈"],"descEn":"Logo for a medical clinic.","descKo":"메디컬 클리닉 로고.","order":80},{"title":"Cleaning Service Business Card","client":"Cleaning Shop","image":"assets/portfolio/cleaning-service-business-card.webp","alt":"Cleaning Service Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Professional Services"],"industryKo":["서비스업"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":81},{"title":"Nail Salon Logo","client":"Nail Shop","image":"assets/portfolio/nail-salon-logo.webp","alt":"Nail Salon Logo designed and printed by e.NUE Design","serviceEn":["Logo"],"serviceKo":["로고"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Logo for a nail salon.","descKo":"네일샵 로고.","order":82},{"title":"Cosmetics Store Business Card","client":"Cosmetic","image":"assets/portfolio/cosmetics-store-business-card.webp","alt":"Cosmetics Store Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":83},{"title":"Hair Salon Business Card","client":"Hair Shop","image":"assets/portfolio/hair-salon-business-card-3.webp","alt":"Hair Salon Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Beauty & Wellness"],"industryKo":["뷰티 & 웰니스"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":84},{"title":"Retail Store Business Card","client":"KEP21","image":"assets/portfolio/retail-store-business-card.webp","alt":"Retail Store Business Card designed and printed by e.NUE Design","serviceEn":["Business Card"],"serviceKo":["명함"],"industryEn":["Retail"],"industryKo":["리테일"],"descEn":"Business Card 3.5\"x2\" Matte Finish","descKo":"명함 3.5\"x2\" 무광 코팅","order":85}]};
+
+let WORKS = [];
+let activeProduct = null, activeIndustry = null;
+function onLangChange(){ activeProduct = null; activeIndustry = null; showAllProd = false; }
+
+const prodOf = w => lang==='en' ? w.serviceEn  : w.serviceKo;
+const indOf  = w => lang==='en' ? w.industryEn : w.industryKo;
+const descOf = w => lang==='en' ? w.descEn     : w.descKo;
+
+async function loadProjects(){
+  try{
+    const r = await fetch('data/projects.json', {cache:'no-store'});
+    if(!r.ok) throw 0;
+    const d = await r.json();
+    WORKS = (d.projects||[]).slice();
+  }catch(e){
+    WORKS = FALLBACK_DATA.projects.slice();
+  }
+  WORKS.sort((a,b)=>(a.order??999)-(b.order??999));
+}
+
+function renderAll(){
+  document.querySelectorAll('[data-i]').forEach(el=>{ el.textContent = t(el.dataset.i); });
+  $('pfH1').innerHTML = t('pf.h1');
+  renderFooter(); buildFilters(); renderGrid(); syncLinks();
+}
+
+/* canonical service order, injected at build time so EN and KO sort identically */
+const SVC_ORDER = {"en":["2D/3D Rendering","Branding","Brochure","Bulletin","Business Card","Coupon","Digital Ad","Digital Menu","EDDM","Envelope","Flyer","Gift Card","Invoice","Letterhead","Logo","Menu Board","Name Badge","Outdoor Banner","Picture Board","Poster","Presentation Folder","Reception Sign","Signage","Standing Banner","Sticker","Sublimation Goods","Table Menu","To-go Menu","Vehicle Decal","Wall Graphic","Website","Window Decal","Window Graphic","Window Poster","X-Banner","Yard Sign"],"ko":["2D/3D 렌더링","브랜딩","브로슈어","주보","명함","쿠폰","디지털 광고","디지털 메뉴","EDDM 우편광고","봉투","전단지","기프트카드","인보이스","레터헤드","로고","메뉴보드","명찰","외부 배너","픽처보드","포스터","프레젠테이션 폴더","리셉션 사인","사이니지","스탠딩 배너","스티커","승화 굿즈","테이블 메뉴","투고 메뉴","차량 데칼","월 그래픽","웹사이트","윈도우 데칼","윈도우 그래픽","윈도우 포스터","X배너","야드사인"]};
+const svcRank = v => { const i = (SVC_ORDER[lang]||[]).indexOf(v); return i < 0 ? 9999 : i; };
+
+/* how many service pills to show before collapsing behind a "more" button */
+const PROD_LIMIT = 12;
+let showAllProd = false;
+
+function buildFilters(){
+  const prods = [...new Set(WORKS.flatMap(prodOf))]
+                  .sort((a,b)=> svcRank(a)-svcRank(b) || a.localeCompare(b));
+  const inds  = [...new Set(WORKS.flatMap(indOf))];
+
+  /* keep an active-but-hidden pill visible, otherwise the user loses their filter */
+  const overflow = prods.length - PROD_LIMIT;
+  const canCollapse = overflow > 2;          // hiding 1-2 pills isn't worth a button
+  const collapse = canCollapse && !showAllProd;
+  let shown = collapse ? prods.slice(0, PROD_LIMIT) : prods;
+  if (collapse && activeProduct && !shown.includes(activeProduct)) shown = shown.concat(activeProduct);
+
+  $('filtersProduct').innerHTML =
+    [`<button class="filter${activeProduct===null?' active':''}" data-v="">${t('work.all')}</button>`]
+    .concat(shown.map(p=>`<button class="filter${activeProduct===p?' active':''}" data-v="${p}">${p}</button>`))
+    .concat(canCollapse
+      ? [`<button class="filter filter-more" id="prodMore" type="button">${
+           showAllProd ? (lang==='ko' ? '접기' : 'Show less')
+                       : (lang==='ko' ? '+ '+overflow+'개 더보기' : '+ '+overflow+' more')}</button>`]
+      : []).join('');
+  $('filtersIndustry').innerHTML =
+    [`<button class="filter${activeIndustry===null?' active':''}" data-v="">${t('work.all')}</button>`]
+    .concat(inds.map(p=>`<button class="filter${activeIndustry===p?' active':''}" data-v="${p}">${p}</button>`)).join('');
+  $('filtersProduct').querySelectorAll('.filter:not(.filter-more)').forEach(b=>{
+    b.onclick = ()=>{ activeProduct = b.dataset.v || null; buildFilters(); renderGrid(); }; });
+  const moreBtn = $('prodMore');
+  if (moreBtn) moreBtn.onclick = ()=>{ showAllProd = !showAllProd; buildFilters(); };
+  $('filtersIndustry').querySelectorAll('.filter').forEach(b=>{
+    b.onclick = ()=>{ activeIndustry = b.dataset.v || null; buildFilters(); renderGrid(); }; });
+}
+
+function renderGrid(){
+  const list = WORKS.filter(w =>
+    (!activeProduct  || prodOf(w).includes(activeProduct)) &&
+    (!activeIndustry || indOf(w).includes(activeIndustry)));
+  $('count').textContent = t('work.count')(list.length);
+  $('grid').innerHTML = list.length ? list.map((w,i)=>`
+    <button class="card" style="animation-delay:${i*38}ms" onclick="openModal(${WORKS.indexOf(w)})">
+      <div class="thumb"><span class="tag">${prodOf(w)[0]}</span>
+        <img src="${w.image}" alt="${w.alt||w.title}" loading="lazy"></div>
+      <div class="card-body"><h4>${w.title}</h4><p>${prodOf(w).join(' · ')}</p></div>
+    </button>`).join('')
+    : `<div class="empty">${t('work.empty')}</div>`;
+}
+
+const modal = $('modal');
+function openModal(i){
+  const w = WORKS[i];
+  $('mThumb').innerHTML = `<img src="${w.image}" alt="${w.alt||w.title}">`;
+  $('mCat').textContent   = prodOf(w).join(' · ');
+  $('mTitle').textContent = w.title;
+  $('mDesc').textContent  = descOf(w);
+  $('mMeta').textContent  = indOf(w).join(' · ');
+  modal.classList.add('open');
+}
+function closeModal(){ modal.classList.remove('open'); }
+modal.onclick = e => { if(e.target===modal) closeModal(); };
+document.onkeydown = e => { if(e.key==='Escape') closeModal(); };
+
+if (lang === 'ko'){ document.body.classList.add('ko'); document.documentElement.lang='ko';
+  $('langKo').classList.add('on'); $('langEn').classList.remove('on'); }
+loadProjects().then(renderAll);
+</script>
+</body>
+</html>

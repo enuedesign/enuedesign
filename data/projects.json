@@ -1,0 +1,1791 @@
+{
+  "projects": [
+    {
+      "title": "Acupressure Clinic Business Card",
+      "client": "Accupressure",
+      "image": "assets/portfolio/acupressure-clinic-business-card.webp",
+      "alt": "Acupressure Clinic Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Medical & Dental"
+      ],
+      "industryKo": [
+        "메디컬 & 덴탈"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 1
+    },
+    {
+      "title": "Logistics Logo & Brochure",
+      "client": "Dalex Logistics",
+      "image": "assets/portfolio/logistics-logo-brochure.webp",
+      "alt": "Logistics Logo & Brochure designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Industrial & Logistics"
+      ],
+      "industryKo": [
+        "산업 & 물류"
+      ],
+      "descEn": "Logo and company brochure for a logistics firm, from brand development through print.",
+      "descKo": "물류회사 로고와 회사소개 브로슈어. 브랜드 개발부터 인쇄물까지 일괄 진행.",
+      "order": 2
+    },
+    {
+      "title": "K-Pop Goods Store Window Graphic",
+      "client": "10x10",
+      "image": "assets/portfolio/k-pop-goods-store-window-graphic.webp",
+      "alt": "K-Pop Goods Store Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Full storefront window graphics for a K-pop goods shop, wrapping the entire facade.",
+      "descKo": "K-POP 굿즈샵 매장 전면 창문 그래픽. 전체 파사드 래핑.",
+      "order": 3
+    },
+    {
+      "title": "Real Estate Yard Sign — Coming Soon",
+      "client": "TX Legacy",
+      "image": "assets/portfolio/real-estate-yard-sign-coming-soon.webp",
+      "alt": "Real Estate Yard Sign — Coming Soon designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Yard Sign"
+      ],
+      "serviceKo": [
+        "야드사인"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Real estate yard sign with a Coming Soon panel and H-stake frame.",
+      "descKo": "부동산 야드사인. Coming Soon 문구, H형 스탠드 포함.",
+      "order": 4
+    },
+    {
+      "title": "Dental Clinic Flyer",
+      "client": "Clinica Dental",
+      "image": "assets/portfolio/dental-clinic-flyer.webp",
+      "alt": "Dental Clinic Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Medical & Dental"
+      ],
+      "industryKo": [
+        "메디컬 & 덴탈"
+      ],
+      "descEn": "Dental clinic flyer covering services and current promotions.",
+      "descKo": "치과 홍보 전단지. 진료 항목과 프로모션 안내.",
+      "order": 5
+    },
+    {
+      "title": "Real Estate Presentation Folder",
+      "client": "Sample",
+      "image": "assets/portfolio/real-estate-presentation-folder.webp",
+      "alt": "Real Estate Presentation Folder designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Presentation Folder"
+      ],
+      "serviceKo": [
+        "프레젠테이션 폴더"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Real estate presentation folder with pockets for contract documents.",
+      "descKo": "부동산 프레젠테이션 폴더. 계약 서류 보관용 포켓 구성.",
+      "order": 6
+    },
+    {
+      "title": "Logistics Car Decal",
+      "client": "Dalex Logistics",
+      "image": "assets/portfolio/logistics-car-decal.webp",
+      "alt": "Logistics Car Decal designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Vehicle Decal"
+      ],
+      "serviceKo": [
+        "차량 데칼"
+      ],
+      "industryEn": [
+        "Industrial & Logistics"
+      ],
+      "industryKo": [
+        "산업 & 물류"
+      ],
+      "descEn": "Vehicle decal for a logistics company, cut vinyl application.",
+      "descKo": "물류회사 차량 데칼. 컷팅 시트 시공.",
+      "order": 7
+    },
+    {
+      "title": "Spa Service Menu",
+      "client": "Spa Shop",
+      "image": "assets/portfolio/spa-service-menu.webp",
+      "alt": "Spa Service Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Spa service menu, 8.5\"x11\".",
+      "descKo": "스파 서비스 메뉴 8.5\"x11\".",
+      "order": 8
+    },
+    {
+      "title": "Church X-Banner",
+      "client": "Church",
+      "image": "assets/portfolio/church-x-banner.webp",
+      "alt": "Church X-Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "X-Banner"
+      ],
+      "serviceKo": [
+        "X배너"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "X-banner for a church.",
+      "descKo": "교회 X배너.",
+      "order": 9
+    },
+    {
+      "title": "Beauty Supply Roll-Up Banner",
+      "client": "Valley Beauty",
+      "image": "assets/portfolio/beauty-supply-roll-up-banner.webp",
+      "alt": "Beauty Supply Roll-Up Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Standing Banner"
+      ],
+      "serviceKo": [
+        "스탠딩 배너"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Roll-up banner for a beauty supplier, built for both trade shows and in-store display.",
+      "descKo": "뷰티 공급업체 롤업 배너. 전시회와 매장 양쪽에 쓸 수 있는 스탠드형.",
+      "order": 10
+    },
+    {
+      "title": "Church Weekly Bulletin",
+      "client": "Church",
+      "image": "assets/portfolio/church-weekly-bulletin.webp",
+      "alt": "Church Weekly Bulletin designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Bulletin"
+      ],
+      "serviceKo": [
+        "주보"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "Weekly church bulletin, laid out for recurring in-house printing.",
+      "descKo": "교회 주보. 매주 발행에 맞춘 레이아웃.",
+      "order": 11
+    },
+    {
+      "title": "Corporate Envelope",
+      "client": "Mockup",
+      "image": "assets/portfolio/corporate-envelope.webp",
+      "alt": "Corporate Envelope designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Envelope"
+      ],
+      "serviceKo": [
+        "봉투"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Corporate envelope designed as a set with the matching letterhead.",
+      "descKo": "기업 봉투. 레터헤드와 세트로 구성.",
+      "order": 12
+    },
+    {
+      "title": "Beauty Salon Gift Certificate",
+      "client": "Grace Beauty",
+      "image": "assets/portfolio/beauty-salon-gift-certificate.webp",
+      "alt": "Beauty Salon Gift Certificate designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Gift Card"
+      ],
+      "serviceKo": [
+        "기프트카드"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Gift certificate for a beauty salon, 6\"x3\".",
+      "descKo": "뷰티살롱 기프트 상품권 6\"x3\".",
+      "order": 13
+    },
+    {
+      "title": "Church Keyring",
+      "client": "Church",
+      "image": "assets/portfolio/church-keyring.webp",
+      "alt": "Church Keyring designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sublimation Goods"
+      ],
+      "serviceKo": [
+        "승화 굿즈"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "Commemorative keyring for a church, produced as a sublimation item.",
+      "descKo": "교회 기념 키링. 승화 인쇄 굿즈.",
+      "order": 14
+    },
+    {
+      "title": "Preschool Letterhead",
+      "client": "Sample",
+      "image": "assets/portfolio/preschool-letterhead.webp",
+      "alt": "Preschool Letterhead designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Letterhead"
+      ],
+      "serviceKo": [
+        "레터헤드"
+      ],
+      "industryEn": [
+        "Education"
+      ],
+      "industryKo": [
+        "교육"
+      ],
+      "descEn": "Preschool letterhead for notices and official correspondence.",
+      "descKo": "유치원 레터헤드. 안내문과 공문서용 서식.",
+      "order": 15
+    },
+    {
+      "title": "Corporate Name Badge",
+      "client": "NameBadge Sample",
+      "image": "assets/portfolio/corporate-name-badge.webp",
+      "alt": "Corporate Name Badge designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Name Badge"
+      ],
+      "serviceKo": [
+        "명찰"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Corporate name badge sample.",
+      "descKo": "기업용 명찰 샘플.",
+      "order": 16
+    },
+    {
+      "title": "Golf Apparel Indoor Sign & Window Decal",
+      "client": "JDX",
+      "image": "assets/portfolio/golf-apparel-indoor-sign-window-decal.webp",
+      "alt": "Golf Apparel Indoor Sign & Window Decal designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage",
+        "Window Decal"
+      ],
+      "serviceKo": [
+        "사이니지",
+        "윈도우 데칼"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Indoor sign and window decal for a golf apparel store, installed as one graphics package.",
+      "descKo": "골프웨어 매장 실내 사인과 창문 데칼. 매장 전체 그래픽 일괄 시공.",
+      "order": 17
+    },
+    {
+      "title": "Commercial Development Outdoor Mesh Banner",
+      "client": "Goodseed",
+      "image": "assets/portfolio/commercial-development-outdoor-mesh-banner.webp",
+      "alt": "Commercial Development Outdoor Mesh Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Outdoor Banner"
+      ],
+      "serviceKo": [
+        "외부 배너"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Large mesh banner for a commercial development site, made for long-term outdoor installation.",
+      "descKo": "상가 개발 현장용 대형 메시 배너. 야외 장기 시공에 맞춘 통풍 소재.",
+      "order": 18
+    },
+    {
+      "title": "Industrial Materials Brochure",
+      "client": "Eslin",
+      "image": "assets/portfolio/industrial-materials-brochure.webp",
+      "alt": "Industrial Materials Brochure designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Brochure"
+      ],
+      "serviceKo": [
+        "브로슈어"
+      ],
+      "industryEn": [
+        "Industrial & Logistics"
+      ],
+      "industryKo": [
+        "산업 & 물류"
+      ],
+      "descEn": "Tri-fold brochure for an industrial materials supplier, with specification and performance data.",
+      "descKo": "산업용 소재 브로슈어. 물성표와 규격 데이터를 담은 3단 접지.",
+      "order": 19
+    },
+    {
+      "title": "Beauty Salon Coupon",
+      "client": "Grace Beauty",
+      "image": "assets/portfolio/beauty-salon-coupon.webp",
+      "alt": "Beauty Salon Coupon designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Coupon"
+      ],
+      "serviceKo": [
+        "쿠폰"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Salon coupon on matte stock with a perforated tear line.",
+      "descKo": "뷰티살롱 쿠폰. 무광 코팅, 절취선 구성.",
+      "order": 20
+    },
+    {
+      "title": "Pet Grooming EDDM Postcard",
+      "client": "Grooming Shop",
+      "image": "assets/portfolio/pet-grooming-eddm-postcard.webp",
+      "alt": "Pet Grooming EDDM Postcard designed and printed by e.NUE Design",
+      "serviceEn": [
+        "EDDM"
+      ],
+      "serviceKo": [
+        "EDDM 우편광고"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "EDDM postcard for a pet grooming shop, sized to USPS specifications for local mailing.",
+      "descKo": "펫 그루밍샵 EDDM 우편광고. 우체국 규격에 맞춘 지역 발송용.",
+      "order": 21
+    },
+    {
+      "title": "Pet Grooming Menu Board",
+      "client": "Groome",
+      "image": "assets/portfolio/pet-grooming-menu-board.webp",
+      "alt": "Pet Grooming Menu Board designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Menu Board"
+      ],
+      "serviceKo": [
+        "메뉴보드"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Menu board for a pet grooming shop listing services and pricing.",
+      "descKo": "펫 그루밍샵 메뉴보드. 서비스 항목과 가격 구성.",
+      "order": 22
+    },
+    {
+      "title": "HVAC Service NCR Form",
+      "client": "Magicool",
+      "image": "assets/portfolio/hvac-service-ncr-form.webp",
+      "alt": "HVAC Service NCR Form designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Invoice"
+      ],
+      "serviceKo": [
+        "인보이스"
+      ],
+      "industryEn": [
+        "Industrial & Logistics"
+      ],
+      "industryKo": [
+        "산업 & 물류"
+      ],
+      "descEn": "Carbonless NCR form for an HVAC contractor, doubling as estimate and work order.",
+      "descKo": "HVAC 업체 NCR 복사 전표. 견적과 작업지시 겸용 양식.",
+      "order": 23
+    },
+    {
+      "title": "Orchestra Concert Poster",
+      "client": "Milal Orchestra",
+      "image": "assets/portfolio/orchestra-concert-poster.webp",
+      "alt": "Orchestra Concert Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "Concert poster for an orchestra, 12\"x28\".",
+      "descKo": "오케스트라 공연 포스터 12\"x28\".",
+      "order": 24
+    },
+    {
+      "title": "Church Digital Ad",
+      "client": "Church",
+      "image": "assets/portfolio/church-digital-ad.webp",
+      "alt": "Church Digital Ad designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Ad"
+      ],
+      "serviceKo": [
+        "디지털 광고"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "Digital ad banner for a church, sized for online placement.",
+      "descKo": "교회 디지털 광고 배너. 온라인 게시용.",
+      "order": 25
+    },
+    {
+      "title": "Hair Salon Business Card",
+      "client": "Chungdam",
+      "image": "assets/portfolio/hair-salon-business-card.webp",
+      "alt": "Hair Salon Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 26
+    },
+    {
+      "title": "Head Spa Logo",
+      "client": "Aoki Head Spa",
+      "image": "assets/portfolio/head-spa-logo.webp",
+      "alt": "Head Spa Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Head spa logo, built to work on both signage and print.",
+      "descKo": "헤드스파 로고. 간판과 인쇄물 양쪽에 쓸 수 있는 형태.",
+      "order": 27
+    },
+    {
+      "title": "Stationery Store Window Graphic",
+      "client": "Artbox",
+      "image": "assets/portfolio/stationery-store-window-graphic.webp",
+      "alt": "Stationery Store Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Window graphics for a stationery store.",
+      "descKo": "문구점 창문 그래픽.",
+      "order": 28
+    },
+    {
+      "title": "Real Estate Yard Sign — For Lease",
+      "client": "",
+      "image": "assets/portfolio/real-estate-yard-sign-for-lease.webp",
+      "alt": "Real Estate Yard Sign — For Lease designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Yard Sign"
+      ],
+      "serviceKo": [
+        "야드사인"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Real estate yard sign for lease listings, with rider panel.",
+      "descKo": "부동산 임대 야드사인. For Lease 라이더 포함.",
+      "order": 29
+    },
+    {
+      "title": "Real Estate Flyer",
+      "client": "Win Realty",
+      "image": "assets/portfolio/real-estate-flyer.webp",
+      "alt": "Real Estate Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Real estate listing flyer with property photos and agent contact block.",
+      "descKo": "부동산 매물 전단지. 매물 사진과 담당자 정보 구성.",
+      "order": 30
+    },
+    {
+      "title": "Preschool Presentation Folder",
+      "client": "Sample",
+      "image": "assets/portfolio/preschool-presentation-folder.webp",
+      "alt": "Preschool Presentation Folder designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Presentation Folder"
+      ],
+      "serviceKo": [
+        "프레젠테이션 폴더"
+      ],
+      "industryEn": [
+        "Education"
+      ],
+      "industryKo": [
+        "교육"
+      ],
+      "descEn": "Preschool folder for distributing enrollment materials.",
+      "descKo": "유치원 안내 폴더. 입학 자료 배포용.",
+      "order": 31
+    },
+    {
+      "title": "Pet Grooming Car Decal",
+      "client": "Grooming Shop",
+      "image": "assets/portfolio/pet-grooming-car-decal.webp",
+      "alt": "Pet Grooming Car Decal designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Vehicle Decal"
+      ],
+      "serviceKo": [
+        "차량 데칼"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Vehicle decal for a pet grooming shop.",
+      "descKo": "펫 그루밍샵 차량 데칼.",
+      "order": 32
+    },
+    {
+      "title": "Hair Salon Table Menu",
+      "client": "Ponytail Hair",
+      "image": "assets/portfolio/hair-salon-table-menu.webp",
+      "alt": "Hair Salon Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Table menu for a hair salon listing services and prices.",
+      "descKo": "미용실 테이블 메뉴. 시술 항목과 가격 안내.",
+      "order": 33
+    },
+    {
+      "title": "Health & Beauty Retail X-Banner",
+      "client": "Atomy",
+      "image": "assets/portfolio/health-beauty-retail-x-banner.webp",
+      "alt": "Health & Beauty Retail X-Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "X-Banner"
+      ],
+      "serviceKo": [
+        "X배너"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "X-banner for a health and beauty retailer.",
+      "descKo": "헬스&뷰티 매장 X배너.",
+      "order": 34
+    },
+    {
+      "title": "Golf Shop Table Banner",
+      "client": "Golf",
+      "image": "assets/portfolio/golf-shop-table-banner.webp",
+      "alt": "Golf Shop Table Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Standing Banner"
+      ],
+      "serviceKo": [
+        "스탠딩 배너"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Tabletop banner for a golf shop, sized for event booths.",
+      "descKo": "골프샵 테이블 배너. 행사 부스용 소형 스탠드.",
+      "order": 35
+    },
+    {
+      "title": "Church Service Bulletin",
+      "client": "Church",
+      "image": "assets/portfolio/church-service-bulletin.webp",
+      "alt": "Church Service Bulletin designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Bulletin"
+      ],
+      "serviceKo": [
+        "주보"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "Church service bulletin with order of worship and announcement sections.",
+      "descKo": "교회 예배 주보. 순서지와 공지 지면 구성.",
+      "order": 36
+    },
+    {
+      "title": "Law Office Envelope",
+      "client": "Law Office",
+      "image": "assets/portfolio/law-office-envelope.webp",
+      "alt": "Law Office Envelope designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Envelope"
+      ],
+      "serviceKo": [
+        "봉투"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "No. 10 business envelope for a law office.",
+      "descKo": "법률사무소 봉투 #10 규격.",
+      "order": 37
+    },
+    {
+      "title": "Beauty Salon Gift Certificate — Silver Foil",
+      "client": "Grace Beauty",
+      "image": "assets/portfolio/beauty-salon-gift-certificate-silver-foil.webp",
+      "alt": "Beauty Salon Gift Certificate — Silver Foil designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Gift Card"
+      ],
+      "serviceKo": [
+        "기프트카드"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Gift certificate with silk lamination and silver foil stamping.",
+      "descKo": "기프트 상품권. 실크 라미네이트에 은박 후가공.",
+      "order": 38
+    },
+    {
+      "title": "Church T-Shirt",
+      "client": "Church",
+      "image": "assets/portfolio/church-t-shirt.webp",
+      "alt": "Church T-Shirt designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sublimation Goods"
+      ],
+      "serviceKo": [
+        "승화 굿즈"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "Group T-shirts for a church, sublimation printed.",
+      "descKo": "교회 단체 티셔츠. 승화 인쇄.",
+      "order": 39
+    },
+    {
+      "title": "Real Estate Letterhead",
+      "client": "Sample",
+      "image": "assets/portfolio/real-estate-letterhead.webp",
+      "alt": "Real Estate Letterhead designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Letterhead"
+      ],
+      "serviceKo": [
+        "레터헤드"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Real estate letterhead matching the envelope and folder set.",
+      "descKo": "부동산 레터헤드. 봉투·폴더와 통일한 브랜드 서식.",
+      "order": 40
+    },
+    {
+      "title": "Hair Salon Name Badge",
+      "client": "Cheongdam",
+      "image": "assets/portfolio/hair-salon-name-badge.webp",
+      "alt": "Hair Salon Name Badge designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Name Badge"
+      ],
+      "serviceKo": [
+        "명찰"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Staff name badge for a hair salon.",
+      "descKo": "미용실 직원 명찰.",
+      "order": 41
+    },
+    {
+      "title": "Hair Salon Indoor Sign",
+      "client": "Chungdam",
+      "image": "assets/portfolio/hair-salon-indoor-sign.webp",
+      "alt": "Hair Salon Indoor Sign designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Indoor sign for a hair salon.",
+      "descKo": "미용실 실내 사인.",
+      "order": 42
+    },
+    {
+      "title": "CPA Office Business Card",
+      "client": "YoungSookLee CPA",
+      "image": "assets/portfolio/cpa-office-business-card.webp",
+      "alt": "CPA Office Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Silk Laminate and Round Corner",
+      "descKo": "명함 3.5\"x2\" 실크 라미네이트 · 라운드 코너",
+      "order": 43
+    },
+    {
+      "title": "Home Builder Logo",
+      "client": "AS",
+      "image": "assets/portfolio/home-builder-logo.webp",
+      "alt": "Home Builder Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Home builder logo using a gold serif mark for a premium tone.",
+      "descKo": "주택건설사 로고. 골드 세리프로 프리미엄 톤 구성.",
+      "order": 44
+    },
+    {
+      "title": "Health & Beauty Retail Window Graphic",
+      "client": "Atomy",
+      "image": "assets/portfolio/health-beauty-retail-window-graphic.webp",
+      "alt": "Health & Beauty Retail Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Window graphics for a health and beauty retailer.",
+      "descKo": "헬스&뷰티 매장 창문 그래픽.",
+      "order": 45
+    },
+    {
+      "title": "Real Estate Yard Sign — For Sale",
+      "client": "",
+      "image": "assets/portfolio/real-estate-yard-sign-for-sale.webp",
+      "alt": "Real Estate Yard Sign — For Sale designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Yard Sign"
+      ],
+      "serviceKo": [
+        "야드사인"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Real estate for-sale yard sign, 24\"x18\", with agent photo.",
+      "descKo": "부동산 매매 야드사인 24\"x18\". 담당자 사진 포함.",
+      "order": 46
+    },
+    {
+      "title": "Church Invitation Flyer",
+      "client": "Church",
+      "image": "assets/portfolio/church-invitation-flyer.webp",
+      "alt": "Church Invitation Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "Church invitation flyer in a square format for event outreach.",
+      "descKo": "교회 초청 전단지. 행사 안내용 정사각 포맷.",
+      "order": 47
+    },
+    {
+      "title": "Home Builder Presentation Folder",
+      "client": "AS",
+      "image": "assets/portfolio/home-builder-presentation-folder.webp",
+      "alt": "Home Builder Presentation Folder designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Presentation Folder"
+      ],
+      "serviceKo": [
+        "프레젠테이션 폴더"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Presentation folder for a home builder.",
+      "descKo": "주택건설사 프레젠테이션 폴더.",
+      "order": 48
+    },
+    {
+      "title": "Trucking Truck Decal",
+      "client": "Central Valley",
+      "image": "assets/portfolio/trucking-truck-decal.webp",
+      "alt": "Trucking Truck Decal designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Vehicle Decal"
+      ],
+      "serviceKo": [
+        "차량 데칼"
+      ],
+      "industryEn": [
+        "Industrial & Logistics"
+      ],
+      "industryKo": [
+        "산업 & 물류"
+      ],
+      "descEn": "Truck decal for a trucking company, including DOT number lettering.",
+      "descKo": "운송회사 트럭 데칼. DOT 번호 표기 포함.",
+      "order": 49
+    },
+    {
+      "title": "Golf Shop Table Menu",
+      "client": "Golf",
+      "image": "assets/portfolio/golf-shop-table-menu.webp",
+      "alt": "Golf Shop Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Table menu for a golf shop.",
+      "descKo": "골프샵 테이블 메뉴.",
+      "order": 50
+    },
+    {
+      "title": "Church Event X-Banner",
+      "client": "Church",
+      "image": "assets/portfolio/church-event-x-banner.webp",
+      "alt": "Church Event X-Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "X-Banner"
+      ],
+      "serviceKo": [
+        "X배너"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "Event X-banner for a church.",
+      "descKo": "교회 행사 X배너.",
+      "order": 51
+    },
+    {
+      "title": "Law Office Business Card",
+      "client": "Law Office",
+      "image": "assets/portfolio/law-office-business-card.webp",
+      "alt": "Law Office Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 52
+    },
+    {
+      "title": "Telecom Logo",
+      "client": "Alliancetel",
+      "image": "assets/portfolio/telecom-logo.webp",
+      "alt": "Telecom Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Industrial & Logistics"
+      ],
+      "industryKo": [
+        "산업 & 물류"
+      ],
+      "descEn": "Logo for a telecommunications company.",
+      "descKo": "통신업체 로고.",
+      "order": 53
+    },
+    {
+      "title": "Spa Window Graphic",
+      "client": "Spa Shop",
+      "image": "assets/portfolio/spa-window-graphic.webp",
+      "alt": "Spa Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Window graphics for a spa.",
+      "descKo": "스파 창문 그래픽.",
+      "order": 54
+    },
+    {
+      "title": "Real Estate Agent Yard Sign",
+      "client": "",
+      "image": "assets/portfolio/real-estate-agent-yard-sign.webp",
+      "alt": "Real Estate Agent Yard Sign designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Yard Sign"
+      ],
+      "serviceKo": [
+        "야드사인"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Real estate agent yard sign, 24\"x18\".",
+      "descKo": "부동산 에이전트 야드사인 24\"x18\".",
+      "order": 55
+    },
+    {
+      "title": "Pet Grooming Gloss Book Flyer",
+      "client": "Groome",
+      "image": "assets/portfolio/pet-grooming-gloss-book-flyer.webp",
+      "alt": "Pet Grooming Gloss Book Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Pet grooming flyer printed on gloss book stock.",
+      "descKo": "펫 그루밍샵 전단지. 유광 북지 인쇄.",
+      "order": 56
+    },
+    {
+      "title": "Design Studio Presentation Folder",
+      "client": "e.NUE Design",
+      "image": "assets/portfolio/design-studio-presentation-folder.webp",
+      "alt": "Design Studio Presentation Folder designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Presentation Folder"
+      ],
+      "serviceKo": [
+        "프레젠테이션 폴더"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "In-house presentation folder for e.NUE Design.",
+      "descKo": "e.NUE Design 자사 프레젠테이션 폴더.",
+      "order": 57
+    },
+    {
+      "title": "Trucking Truck Lettering",
+      "client": "",
+      "image": "assets/portfolio/trucking-truck-lettering.webp",
+      "alt": "Trucking Truck Lettering designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Vehicle Decal"
+      ],
+      "serviceKo": [
+        "차량 데칼"
+      ],
+      "industryEn": [
+        "Industrial & Logistics"
+      ],
+      "industryKo": [
+        "산업 & 물류"
+      ],
+      "descEn": "Truck lettering in cut vinyl for regulatory markings.",
+      "descKo": "트럭 레터링. 규정 표기용 컷팅 시트.",
+      "order": 58
+    },
+    {
+      "title": "Supplier Business Card",
+      "client": "Manning ICS",
+      "image": "assets/portfolio/supplier-business-card.webp",
+      "alt": "Supplier Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Industrial & Logistics"
+      ],
+      "industryKo": [
+        "산업 & 물류"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 59
+    },
+    {
+      "title": "Window Blinds Logo",
+      "client": "Blind Shop",
+      "image": "assets/portfolio/window-blinds-logo.webp",
+      "alt": "Window Blinds Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Final logo for a window blinds retailer.",
+      "descKo": "블라인드 전문점 로고 최종안.",
+      "order": 60
+    },
+    {
+      "title": "Hair Salon Window Ad Graphic",
+      "client": "Chungdam",
+      "image": "assets/portfolio/hair-salon-window-ad-graphic.webp",
+      "alt": "Hair Salon Window Ad Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Window advertising graphics for a hair salon promoting current services.",
+      "descKo": "미용실 창문 광고 그래픽. 시술 프로모션 게시.",
+      "order": 61
+    },
+    {
+      "title": "Real Estate Yard Sign 36x24",
+      "client": "Limvesting",
+      "image": "assets/portfolio/real-estate-yard-sign-36x24.webp",
+      "alt": "Real Estate Yard Sign 36x24 designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Yard Sign"
+      ],
+      "serviceKo": [
+        "야드사인"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Real estate yard sign, 36\"x24\".",
+      "descKo": "부동산 야드사인 36\"x24\".",
+      "order": 62
+    },
+    {
+      "title": "Ballet Studio Business Card",
+      "client": "Ballet Studio",
+      "image": "assets/portfolio/ballet-studio-business-card.webp",
+      "alt": "Ballet Studio Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Education"
+      ],
+      "industryKo": [
+        "교육"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 63
+    },
+    {
+      "title": "Beauty Brand Logo",
+      "client": "Fa Belle",
+      "image": "assets/portfolio/beauty-brand-logo.webp",
+      "alt": "Beauty Brand Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Beauty brand logo, presented as an acrylic sign mockup.",
+      "descKo": "뷰티 브랜드 로고. 아크릴 사인으로 제작한 시안.",
+      "order": 64
+    },
+    {
+      "title": "Preschool Frosted Window Film",
+      "client": "Bright Mind",
+      "image": "assets/portfolio/preschool-frosted-window-film.webp",
+      "alt": "Preschool Frosted Window Film designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Education"
+      ],
+      "industryKo": [
+        "교육"
+      ],
+      "descEn": "Frosted window film for a preschool, keeping daylight while blocking sightlines.",
+      "descKo": "유치원 창문 무광 시트. 채광은 살리고 시선은 차단.",
+      "order": 65
+    },
+    {
+      "title": "Dental Clinic Business Card",
+      "client": "Clinica Dental",
+      "image": "assets/portfolio/dental-clinic-business-card.webp",
+      "alt": "Dental Clinic Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Medical & Dental"
+      ],
+      "industryKo": [
+        "메디컬 & 덴탈"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 66
+    },
+    {
+      "title": "Construction Logo",
+      "client": "G1",
+      "image": "assets/portfolio/construction-logo.webp",
+      "alt": "Construction Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Construction company logo built from the initials as a structural mark.",
+      "descKo": "건설사 로고. 이니셜을 구조물 형태로 구성.",
+      "order": 67
+    },
+    {
+      "title": "Hair Salon Frosted Window Film",
+      "client": "Chungdam",
+      "image": "assets/portfolio/hair-salon-frosted-window-film.webp",
+      "alt": "Hair Salon Frosted Window Film designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Frosted window film for a hair salon.",
+      "descKo": "미용실 창문 무광 시트.",
+      "order": 68
+    },
+    {
+      "title": "Pet Grooming Business Card",
+      "client": "Grooming Shop",
+      "image": "assets/portfolio/pet-grooming-business-card.webp",
+      "alt": "Pet Grooming Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 69
+    },
+    {
+      "title": "Corporate Logo",
+      "client": "SDMJ",
+      "image": "assets/portfolio/corporate-logo.webp",
+      "alt": "Corporate Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Corporate logo shown applied to business cards.",
+      "descKo": "기업 로고. 명함 적용 시안.",
+      "order": 70
+    },
+    {
+      "title": "Hair Salon Frosted Window Graphic",
+      "client": "Hair Shop",
+      "image": "assets/portfolio/hair-salon-frosted-window-graphic.webp",
+      "alt": "Hair Salon Frosted Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Frosted window graphics for a hair salon with the logo reversed out clear.",
+      "descKo": "미용실 창문 무광 그래픽. 로고 부분만 투명 처리.",
+      "order": 71
+    },
+    {
+      "title": "Nail Salon Business Card",
+      "client": "Mini Nail",
+      "image": "assets/portfolio/nail-salon-business-card.webp",
+      "alt": "Nail Salon Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 72
+    },
+    {
+      "title": "Window Blinds Logo Concept",
+      "client": "Blind Shop",
+      "image": "assets/portfolio/window-blinds-logo-concept.webp",
+      "alt": "Window Blinds Logo Concept designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Early logo concept for a window blinds retailer.",
+      "descKo": "블라인드 전문점 로고 초기안.",
+      "order": 73
+    },
+    {
+      "title": "Hair Salon Window Poster",
+      "client": "Chungdam",
+      "image": "assets/portfolio/hair-salon-window-poster.webp",
+      "alt": "Hair Salon Window Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Window poster for a hair salon.",
+      "descKo": "미용실 창문 포스터.",
+      "order": 74
+    },
+    {
+      "title": "Hair Salon Business Card",
+      "client": "Ponytail Hair",
+      "image": "assets/portfolio/hair-salon-business-card-2.webp",
+      "alt": "Hair Salon Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 75
+    },
+    {
+      "title": "Dental Clinic Logo",
+      "client": "Dental",
+      "image": "assets/portfolio/dental-clinic-logo.webp",
+      "alt": "Dental Clinic Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Medical & Dental"
+      ],
+      "industryKo": [
+        "메디컬 & 덴탈"
+      ],
+      "descEn": "Logo for a dental clinic.",
+      "descKo": "치과 로고.",
+      "order": 76
+    },
+    {
+      "title": "Auto Body Shop Business Card",
+      "client": "Procollision",
+      "image": "assets/portfolio/auto-body-shop-business-card.webp",
+      "alt": "Auto Body Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 77
+    },
+    {
+      "title": "Golf Shop Logo",
+      "client": "Golf",
+      "image": "assets/portfolio/golf-shop-logo.webp",
+      "alt": "Golf Shop Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Logo for a golf shop.",
+      "descKo": "골프샵 로고.",
+      "order": 78
+    },
+    {
+      "title": "Tailor Shop Business Card",
+      "client": "CC Tailor",
+      "image": "assets/portfolio/tailor-shop-business-card.webp",
+      "alt": "Tailor Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 79
+    },
+    {
+      "title": "Medical Clinic Logo",
+      "client": "Medical",
+      "image": "assets/portfolio/medical-clinic-logo.webp",
+      "alt": "Medical Clinic Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Medical & Dental"
+      ],
+      "industryKo": [
+        "메디컬 & 덴탈"
+      ],
+      "descEn": "Logo for a medical clinic.",
+      "descKo": "메디컬 클리닉 로고.",
+      "order": 80
+    },
+    {
+      "title": "Cleaning Service Business Card",
+      "client": "Cleaning Shop",
+      "image": "assets/portfolio/cleaning-service-business-card.webp",
+      "alt": "Cleaning Service Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 81
+    },
+    {
+      "title": "Nail Salon Logo",
+      "client": "Nail Shop",
+      "image": "assets/portfolio/nail-salon-logo.webp",
+      "alt": "Nail Salon Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Logo for a nail salon.",
+      "descKo": "네일샵 로고.",
+      "order": 82
+    },
+    {
+      "title": "Cosmetics Store Business Card",
+      "client": "Cosmetic",
+      "image": "assets/portfolio/cosmetics-store-business-card.webp",
+      "alt": "Cosmetics Store Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 83
+    },
+    {
+      "title": "Hair Salon Business Card",
+      "client": "Hair Shop",
+      "image": "assets/portfolio/hair-salon-business-card-3.webp",
+      "alt": "Hair Salon Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 84
+    },
+    {
+      "title": "Retail Store Business Card",
+      "client": "KEP21",
+      "image": "assets/portfolio/retail-store-business-card.webp",
+      "alt": "Retail Store Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Business Card 3.5\"x2\" Matte Finish",
+      "descKo": "명함 3.5\"x2\" 무광 코팅",
+      "order": 85
+    }
+  ]
+}
