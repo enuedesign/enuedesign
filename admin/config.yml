@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/enuedesign        # <- change after creating the repo
+  repo: enuedesign/enuedesign        # <- change after creating the repo
   branch: main
 
 # where uploaded images are stored / how the site refers to them
