@@ -1786,6 +1786,2172 @@
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
       "order": 85
+    },
+    {
+      "title": "Dessert Shop Business Card",
+      "client": "Dulcet",
+      "image": "assets/portfolio/dessert-shop-business-card.webp",
+      "alt": "Dessert Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dulcet — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Dulcet — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 86
+    },
+    {
+      "title": "Dessert Shop Logo",
+      "client": "Cafe Snowbean",
+      "image": "assets/portfolio/dessert-shop-logo.webp",
+      "alt": "Dessert Shop Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Cafe Snowbean — Logo design",
+      "descKo": "Cafe Snowbean — 로고 디자인",
+      "order": 87
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Mdonuts",
+      "image": "assets/portfolio/donut-shop-window-graphic.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mdonuts — Storefront window graphics",
+      "descKo": "Mdonuts — 매장 창문 그래픽",
+      "order": 88
+    },
+    {
+      "title": "Restaurant Apparel",
+      "client": "Banchannara",
+      "image": "assets/portfolio/restaurant-apparel.webp",
+      "alt": "Restaurant Apparel designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Apparel"
+      ],
+      "serviceKo": [
+        "의류"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Banchannara — Custom T-shirts",
+      "descKo": "Banchannara — 단체 티셔츠",
+      "order": 89
+    },
+    {
+      "title": "Donut Shop Digital Ad",
+      "client": "Video 1",
+      "image": "assets/portfolio/donut-shop-digital-ad.webp",
+      "alt": "Donut Shop Digital Ad designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Ad"
+      ],
+      "serviceKo": [
+        "디지털 광고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Video 1 — Digital ad video",
+      "descKo": "Video 1 — 디지털 광고 영상",
+      "video": "assets/portfolio/donut-shop-digital-ad.mp4",
+      "order": 90
+    },
+    {
+      "title": "Donut Shop Sublimation Goods",
+      "client": "Donuthut",
+      "image": "assets/portfolio/donut-shop-sublimation-goods.webp",
+      "alt": "Donut Shop Sublimation Goods designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sublimation Goods"
+      ],
+      "serviceKo": [
+        "승화 굿즈"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donuthut — Sublimation printed merchandise",
+      "descKo": "Donuthut — 승화 인쇄 굿즈",
+      "order": 91
+    },
+    {
+      "title": "Restaurant Packaging",
+      "client": "Pizza Delight",
+      "image": "assets/portfolio/restaurant-packaging.webp",
+      "alt": "Restaurant Packaging designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Packaging"
+      ],
+      "serviceKo": [
+        "패키지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Pizza Delight — Packaging design",
+      "descKo": "Pizza Delight — 패키지 디자인",
+      "order": 92
+    },
+    {
+      "title": "Donut Shop Poster",
+      "client": "",
+      "image": "assets/portfolio/donut-shop-poster.webp",
+      "alt": "Donut Shop Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Poster",
+      "descKo": "포스터",
+      "order": 93
+    },
+    {
+      "title": "Restaurant Sticker",
+      "client": "Banchannara",
+      "image": "assets/portfolio/restaurant-sticker.webp",
+      "alt": "Restaurant Sticker designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sticker"
+      ],
+      "serviceKo": [
+        "스티커"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Banchannara — Sticker",
+      "descKo": "Banchannara — 스티커",
+      "order": 94
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Donutstation",
+      "image": "assets/portfolio/donut-shop-business-card.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donutstation — Business Card 3.5\"x2\" · Glossy Finish",
+      "descKo": "Donutstation — 명함 3.5\"x2\" · 유광 코팅",
+      "order": 95
+    },
+    {
+      "title": "Dessert Shop Logo",
+      "client": "Golden Crown",
+      "image": "assets/portfolio/dessert-shop-logo-2.webp",
+      "alt": "Dessert Shop Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Golden Crown — Logo design",
+      "descKo": "Golden Crown — 로고 디자인",
+      "order": 96
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Bk",
+      "image": "assets/portfolio/donut-shop-window-graphic-2.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bk — Storefront window graphics",
+      "descKo": "Bk — 매장 창문 그래픽",
+      "order": 97
+    },
+    {
+      "title": "Restaurant Apparel",
+      "client": "Burnin 92",
+      "image": "assets/portfolio/restaurant-apparel-2.webp",
+      "alt": "Restaurant Apparel designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Apparel"
+      ],
+      "serviceKo": [
+        "의류"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Burnin 92 — Custom T-shirts",
+      "descKo": "Burnin 92 — 단체 티셔츠",
+      "order": 98
+    },
+    {
+      "title": "Donut Shop Digital Ad",
+      "client": "Video 2",
+      "image": "assets/portfolio/donut-shop-digital-ad-2.webp",
+      "alt": "Donut Shop Digital Ad designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Ad"
+      ],
+      "serviceKo": [
+        "디지털 광고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Video 2 — Digital ad video",
+      "descKo": "Video 2 — 디지털 광고 영상",
+      "video": "assets/portfolio/donut-shop-digital-ad-2.mp4",
+      "order": 99
+    },
+    {
+      "title": "Donut Shop Sublimation Goods",
+      "client": "Donut Hut",
+      "image": "assets/portfolio/donut-shop-sublimation-goods-2.webp",
+      "alt": "Donut Shop Sublimation Goods designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sublimation Goods"
+      ],
+      "serviceKo": [
+        "승화 굿즈"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donut Hut — Sublimation printed merchandise",
+      "descKo": "Donut Hut — 승화 인쇄 굿즈",
+      "order": 100
+    },
+    {
+      "title": "Restaurant Packaging",
+      "client": "Pizza Delight",
+      "image": "assets/portfolio/restaurant-packaging-2.webp",
+      "alt": "Restaurant Packaging designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Packaging"
+      ],
+      "serviceKo": [
+        "패키지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Pizza Delight — Packaging design",
+      "descKo": "Pizza Delight — 패키지 디자인",
+      "order": 101
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Bs Donuts",
+      "image": "assets/portfolio/donut-shop-business-card-2.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bs Donuts — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Bs Donuts — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 102
+    },
+    {
+      "title": "Donut Shop Logo",
+      "client": "Chans Donut",
+      "image": "assets/portfolio/donut-shop-logo.webp",
+      "alt": "Donut Shop Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chans Donut — Logo design",
+      "descKo": "Chans Donut — 로고 디자인",
+      "order": 103
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "",
+      "image": "assets/portfolio/donut-shop-window-graphic-3.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Storefront window graphics",
+      "descKo": "매장 창문 그래픽",
+      "order": 104
+    },
+    {
+      "title": "Restaurant Apparel",
+      "client": "Imura",
+      "image": "assets/portfolio/restaurant-apparel-3.webp",
+      "alt": "Restaurant Apparel designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Apparel"
+      ],
+      "serviceKo": [
+        "의류"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Imura — Custom T-shirts",
+      "descKo": "Imura — 단체 티셔츠",
+      "order": 105
+    },
+    {
+      "title": "Donut Shop Digital Ad",
+      "client": "Video 3",
+      "image": "assets/portfolio/donut-shop-digital-ad-3.webp",
+      "alt": "Donut Shop Digital Ad designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Ad"
+      ],
+      "serviceKo": [
+        "디지털 광고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Video 3 — Digital ad video",
+      "descKo": "Video 3 — 디지털 광고 영상",
+      "video": "assets/portfolio/donut-shop-digital-ad-3.mp4",
+      "order": 106
+    },
+    {
+      "title": "Real Estate Sublimation Goods",
+      "client": "",
+      "image": "assets/portfolio/real-estate-sublimation-goods.webp",
+      "alt": "Real Estate Sublimation Goods designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sublimation Goods"
+      ],
+      "serviceKo": [
+        "승화 굿즈"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Sublimation printed merchandise",
+      "descKo": "승화 인쇄 굿즈",
+      "order": 107
+    },
+    {
+      "title": "Dessert Shop Packaging",
+      "client": "Golden Crown",
+      "image": "assets/portfolio/dessert-shop-packaging.webp",
+      "alt": "Dessert Shop Packaging designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Packaging"
+      ],
+      "serviceKo": [
+        "패키지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Golden Crown — Packaging design",
+      "descKo": "Golden Crown — 패키지 디자인",
+      "order": 108
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Donut Express",
+      "image": "assets/portfolio/donut-shop-business-card-3.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donut Express — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Donut Express — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 109
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "99pocha",
+      "image": "assets/portfolio/restaurant-logo.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "99pocha — Logo design",
+      "descKo": "99pocha — 로고 디자인",
+      "order": 110
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "",
+      "image": "assets/portfolio/donut-shop-window-graphic-4.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Storefront window graphics",
+      "descKo": "매장 창문 그래픽",
+      "order": 111
+    },
+    {
+      "title": "Restaurant Apparel",
+      "client": "KBBQ Austin",
+      "image": "assets/portfolio/restaurant-apparel-4.webp",
+      "alt": "Restaurant Apparel designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Apparel"
+      ],
+      "serviceKo": [
+        "의류"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "KBBQ Austin — Custom T-shirts",
+      "descKo": "KBBQ Austin — 단체 티셔츠",
+      "order": 112
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Hot Donuts",
+      "image": "assets/portfolio/donut-shop-business-card-4.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hot Donuts — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Hot Donuts — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 113
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Agiteu",
+      "image": "assets/portfolio/restaurant-logo-2.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Agiteu — Logo design",
+      "descKo": "Agiteu — 로고 디자인",
+      "order": 114
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "",
+      "image": "assets/portfolio/donut-shop-window-graphic-5.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Storefront window graphics",
+      "descKo": "매장 창문 그래픽",
+      "order": 115
+    },
+    {
+      "title": "Restaurant Apparel",
+      "client": "The Jinkook",
+      "image": "assets/portfolio/restaurant-apparel-5.webp",
+      "alt": "Restaurant Apparel designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Apparel"
+      ],
+      "serviceKo": [
+        "의류"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "The Jinkook — Custom T-shirts",
+      "descKo": "The Jinkook — 단체 티셔츠",
+      "order": 116
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Parkway Donuts",
+      "image": "assets/portfolio/donut-shop-business-card-5.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Parkway Donuts — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Parkway Donuts — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 117
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Donsarang",
+      "image": "assets/portfolio/restaurant-logo-3.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donsarang — Logo design",
+      "descKo": "Donsarang — 로고 디자인",
+      "order": 118
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "",
+      "image": "assets/portfolio/donut-shop-window-graphic-6.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Storefront window graphics",
+      "descKo": "매장 창문 그래픽",
+      "order": 119
+    },
+    {
+      "title": "Restaurant Apparel",
+      "client": "Don Sarang",
+      "image": "assets/portfolio/restaurant-apparel-6.webp",
+      "alt": "Restaurant Apparel designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Apparel"
+      ],
+      "serviceKo": [
+        "의류"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Don Sarang — Custom T-shirts",
+      "descKo": "Don Sarang — 단체 티셔츠",
+      "order": 120
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Bakersdonuts",
+      "image": "assets/portfolio/donut-shop-business-card-6.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bakersdonuts — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Bakersdonuts — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 121
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Gguiggui",
+      "image": "assets/portfolio/restaurant-logo-4.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Gguiggui — Logo design",
+      "descKo": "Gguiggui — 로고 디자인",
+      "order": 122
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Devisdonut",
+      "image": "assets/portfolio/donut-shop-window-graphic-7.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Devisdonut — Storefront window graphics",
+      "descKo": "Devisdonut — 매장 창문 그래픽",
+      "order": 123
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Hd",
+      "image": "assets/portfolio/donut-shop-business-card-7.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hd — Business Card 3.5\"x2\" · Glossy Finish",
+      "descKo": "Hd — 명함 3.5\"x2\" · 유광 코팅",
+      "order": 124
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Pixa X",
+      "image": "assets/portfolio/restaurant-logo-5.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Pixa X — Logo design",
+      "descKo": "Pixa X — 로고 디자인",
+      "order": 125
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Donutspalace",
+      "image": "assets/portfolio/donut-shop-window-graphic-8.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donutspalace — Storefront window graphics",
+      "descKo": "Donutspalace — 매장 창문 그래픽",
+      "order": 126
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Eldo Donuts",
+      "image": "assets/portfolio/donut-shop-business-card-8.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Eldo Donuts — Business Card 3.5\"x2\" · Glossy Finish",
+      "descKo": "Eldo Donuts — 명함 3.5\"x2\" · 유광 코팅",
+      "order": 127
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Seatravel",
+      "image": "assets/portfolio/restaurant-logo-6.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Seatravel — Logo design",
+      "descKo": "Seatravel — 로고 디자인",
+      "order": 128
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "HONEYBEE",
+      "image": "assets/portfolio/donut-shop-window-graphic-9.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "HONEYBEE — Storefront window graphics",
+      "descKo": "HONEYBEE — 매장 창문 그래픽",
+      "order": 129
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Donuts House",
+      "image": "assets/portfolio/donut-shop-business-card-9.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donuts House — Business Card 3.5\"x2\" · Glossy Finish",
+      "descKo": "Donuts House — 명함 3.5\"x2\" · 유광 코팅",
+      "order": 130
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "The Jinkook",
+      "image": "assets/portfolio/restaurant-logo-7.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "The Jinkook — Logo design",
+      "descKo": "The Jinkook — 로고 디자인",
+      "order": 131
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Hot Ncreamy Donuts",
+      "image": "assets/portfolio/donut-shop-window-graphic-10.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hot Ncreamy Donuts — Storefront window graphics",
+      "descKo": "Hot Ncreamy Donuts — 매장 창문 그래픽",
+      "order": 132
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Hesed Coffee & Donut",
+      "image": "assets/portfolio/donut-shop-business-card-10.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hesed Coffee & Donut — Business Card 3.5\"x2\" · Glossy Finish",
+      "descKo": "Hesed Coffee & Donut — 명함 3.5\"x2\" · 유광 코팅",
+      "order": 133
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Crackedncrepe",
+      "image": "assets/portfolio/restaurant-logo-8.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Crackedncrepe — Logo design",
+      "descKo": "Crackedncrepe — 로고 디자인",
+      "order": 134
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Sonny Donuts",
+      "image": "assets/portfolio/donut-shop-window-graphic-11.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Sonny Donuts — Storefront window graphics",
+      "descKo": "Sonny Donuts — 매장 창문 그래픽",
+      "order": 135
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Doshirock",
+      "image": "assets/portfolio/restaurant-business-card.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Doshirock — Business Card 3.5\"x2\" · Glossy Finish",
+      "descKo": "Doshirock — 명함 3.5\"x2\" · 유광 코팅",
+      "order": 136
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Kome",
+      "image": "assets/portfolio/restaurant-logo-9.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Kome — Logo design",
+      "descKo": "Kome — 로고 디자인",
+      "order": 137
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Donutpalace",
+      "image": "assets/portfolio/donut-shop-window-graphic-12.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donutpalace — Storefront window graphics",
+      "descKo": "Donutpalace — 매장 창문 그래픽",
+      "order": 138
+    },
+    {
+      "title": "Dessert Shop Business Card",
+      "client": "Goldencrown",
+      "image": "assets/portfolio/dessert-shop-business-card-2.webp",
+      "alt": "Dessert Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Goldencrown — Business Card 3.5\"x2\" · Gold Foil Finish",
+      "descKo": "Goldencrown — 명함 3.5\"x2\" · 금박",
+      "order": 139
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Yukai",
+      "image": "assets/portfolio/restaurant-logo-10.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Yukai — Logo design",
+      "descKo": "Yukai — 로고 디자인",
+      "order": 140
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Donutparty",
+      "image": "assets/portfolio/donut-shop-window-graphic-13.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donutparty — Storefront window graphics",
+      "descKo": "Donutparty — 매장 창문 그래픽",
+      "order": 141
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Bon KBBQ",
+      "image": "assets/portfolio/restaurant-business-card-2.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bon KBBQ — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Bon KBBQ — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 142
+    },
+    {
+      "title": "Retail Logo",
+      "client": "Cyfood",
+      "image": "assets/portfolio/retail-logo.webp",
+      "alt": "Retail Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Cyfood — Logo design",
+      "descKo": "Cyfood — 로고 디자인",
+      "order": 143
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Eldodonuts",
+      "image": "assets/portfolio/donut-shop-window-graphic-14.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Eldodonuts — Storefront window graphics",
+      "descKo": "Eldodonuts — 매장 창문 그래픽",
+      "order": 144
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Capt Loui",
+      "image": "assets/portfolio/restaurant-business-card-3.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Capt Loui — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Capt Loui — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 145
+    },
+    {
+      "title": "Dessert Shop Logo",
+      "client": "Mari",
+      "image": "assets/portfolio/dessert-shop-logo-3.webp",
+      "alt": "Dessert Shop Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mari — Logo design",
+      "descKo": "Mari — 로고 디자인",
+      "order": 146
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Innout",
+      "image": "assets/portfolio/donut-shop-window-graphic-15.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Innout — Storefront window graphics",
+      "descKo": "Innout — 매장 창문 그래픽",
+      "order": 147
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Jjan Pocha",
+      "image": "assets/portfolio/restaurant-business-card-4.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjan Pocha — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Jjan Pocha — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 148
+    },
+    {
+      "title": "Tech Logo",
+      "client": "Robocrisp",
+      "image": "assets/portfolio/tech-logo.webp",
+      "alt": "Tech Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Industrial & Logistics"
+      ],
+      "industryKo": [
+        "산업 & 물류"
+      ],
+      "descEn": "Robocrisp — Logo design",
+      "descKo": "Robocrisp — 로고 디자인",
+      "order": 149
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Lakewooddonut",
+      "image": "assets/portfolio/donut-shop-window-graphic-16.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Lakewooddonut — Storefront window graphics",
+      "descKo": "Lakewooddonut — 매장 창문 그래픽",
+      "order": 150
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Sushi Kadan",
+      "image": "assets/portfolio/restaurant-business-card-5.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Sushi Kadan — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Sushi Kadan — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 151
+    },
+    {
+      "title": "Dessert Shop Logo",
+      "client": "Ice Cabin",
+      "image": "assets/portfolio/dessert-shop-logo-4.webp",
+      "alt": "Dessert Shop Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ice Cabin — Logo design",
+      "descKo": "Ice Cabin — 로고 디자인",
+      "order": 152
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Morrisdonuts",
+      "image": "assets/portfolio/donut-shop-window-graphic-17.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Morrisdonuts — Storefront window graphics",
+      "descKo": "Morrisdonuts — 매장 창문 그래픽",
+      "order": 153
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Rakko Sushi",
+      "image": "assets/portfolio/restaurant-business-card-6.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Rakko Sushi — Business Card 3.5\"x2\" · Uncoated Finish",
+      "descKo": "Rakko Sushi — 명함 3.5\"x2\" · 비코팅",
+      "order": 154
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "",
+      "image": "assets/portfolio/restaurant-logo-11.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Logo design",
+      "descKo": "로고 디자인",
+      "order": 155
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Oakcliffdonuts",
+      "image": "assets/portfolio/donut-shop-window-graphic-18.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Oakcliffdonuts — Storefront window graphics",
+      "descKo": "Oakcliffdonuts — 매장 창문 그래픽",
+      "order": 156
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Bestdonuts",
+      "image": "assets/portfolio/donut-shop-business-card-11.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bestdonuts — Business Card 3.5\"x2\" · Glossy Finish",
+      "descKo": "Bestdonuts — 명함 3.5\"x2\" · 유광 코팅",
+      "order": 157
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Chanmaru",
+      "image": "assets/portfolio/restaurant-logo-12.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chanmaru — Logo design",
+      "descKo": "Chanmaru — 로고 디자인",
+      "order": 158
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Papainsdonuts",
+      "image": "assets/portfolio/donut-shop-window-graphic-19.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Papainsdonuts — Storefront window graphics",
+      "descKo": "Papainsdonuts — 매장 창문 그래픽",
+      "order": 159
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Donuthouse",
+      "image": "assets/portfolio/donut-shop-business-card-12.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donuthouse — Business Card 3.5\"x2\" · Glossy Finish",
+      "descKo": "Donuthouse — 명함 3.5\"x2\" · 유광 코팅",
+      "order": 160
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Imura",
+      "image": "assets/portfolio/restaurant-logo-13.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Imura — Logo design",
+      "descKo": "Imura — 로고 디자인",
+      "order": 161
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Qdonuts",
+      "image": "assets/portfolio/donut-shop-window-graphic-20.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Qdonuts — Storefront window graphics",
+      "descKo": "Qdonuts — 매장 창문 그래픽",
+      "order": 162
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Chans Donut",
+      "image": "assets/portfolio/donut-shop-business-card-13.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chans Donut — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Chans Donut — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 163
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Jjan Pocha",
+      "image": "assets/portfolio/restaurant-logo-14.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjan Pocha — Logo design",
+      "descKo": "Jjan Pocha — 로고 디자인",
+      "order": 164
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Vintage",
+      "image": "assets/portfolio/donut-shop-window-graphic-21.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Vintage — Storefront window graphics",
+      "descKo": "Vintage — 매장 창문 그래픽",
+      "order": 165
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Shins Donut Palace",
+      "image": "assets/portfolio/donut-shop-business-card-14.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Shins Donut Palace — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Shins Donut Palace — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 166
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Jjang BBQ",
+      "image": "assets/portfolio/restaurant-logo-15.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjang BBQ — Logo design",
+      "descKo": "Jjang BBQ — 로고 디자인",
+      "order": 167
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "",
+      "image": "assets/portfolio/donut-shop-window-graphic-22.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Storefront window graphics",
+      "descKo": "매장 창문 그래픽",
+      "order": 168
+    },
+    {
+      "title": "Donut Shop Business Card",
+      "client": "Alta Mesa Donuts",
+      "image": "assets/portfolio/donut-shop-business-card-15.webp",
+      "alt": "Donut Shop Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Alta Mesa Donuts — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Alta Mesa Donuts — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 169
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Sojublues",
+      "image": "assets/portfolio/restaurant-logo-16.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Sojublues — Logo design",
+      "descKo": "Sojublues — 로고 디자인",
+      "order": 170
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Dandydonuts",
+      "image": "assets/portfolio/donut-shop-window-graphic-23.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dandydonuts — Storefront window graphics",
+      "descKo": "Dandydonuts — 매장 창문 그래픽",
+      "order": 171
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Songskfood",
+      "image": "assets/portfolio/restaurant-business-card-7.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Songskfood — Business Card 3.5\"x2\" · Glossy Finish",
+      "descKo": "Songskfood — 명함 3.5\"x2\" · 유광 코팅",
+      "order": 172
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Won BBQ",
+      "image": "assets/portfolio/restaurant-logo-17.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Won BBQ — Logo design",
+      "descKo": "Won BBQ — 로고 디자인",
+      "order": 173
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Chicken",
+      "image": "assets/portfolio/restaurant-window-graphic.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chicken — Storefront window graphics",
+      "descKo": "Chicken — 매장 창문 그래픽",
+      "order": 174
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Donchicken",
+      "image": "assets/portfolio/restaurant-business-card-8.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donchicken — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Donchicken — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 175
+    },
+    {
+      "title": "Restaurant Logo",
+      "client": "Dalbeer",
+      "image": "assets/portfolio/restaurant-logo-18.webp",
+      "alt": "Restaurant Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dalbeer — Logo design",
+      "descKo": "Dalbeer — 로고 디자인",
+      "order": 176
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Edohana",
+      "image": "assets/portfolio/restaurant-business-card-9.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Edohana — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Edohana — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 177
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Eggsquisite Cafe",
+      "image": "assets/portfolio/restaurant-business-card-10.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Eggsquisite Cafe — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Eggsquisite Cafe — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 178
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Jjang BBQ",
+      "image": "assets/portfolio/restaurant-business-card-11.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjang BBQ — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Jjang BBQ — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 179
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Manna BBQ",
+      "image": "assets/portfolio/restaurant-business-card-12.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Manna BBQ — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Manna BBQ — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 180
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Oh K Dog",
+      "image": "assets/portfolio/restaurant-business-card-13.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Oh K Dog — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Oh K Dog — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 181
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Shabro",
+      "image": "assets/portfolio/restaurant-business-card-14.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Shabro — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Shabro — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 182
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Texan Wangbal",
+      "image": "assets/portfolio/restaurant-business-card-15.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Texan Wangbal — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Texan Wangbal — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 183
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "The Jinkook",
+      "image": "assets/portfolio/restaurant-business-card-16.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "The Jinkook — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "The Jinkook — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 184
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Tsunami",
+      "image": "assets/portfolio/restaurant-business-card-17.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Tsunami — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Tsunami — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 185
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Wonbbq",
+      "image": "assets/portfolio/restaurant-business-card-18.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Wonbbq — Business Card 3.5\"x2\" · Matte Finish",
+      "descKo": "Wonbbq — 명함 3.5\"x2\" · 무광 코팅",
+      "order": 186
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Shokunin",
+      "image": "assets/portfolio/restaurant-business-card-19.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Shokunin — Business Card 3.5\"x2\" · Spot UV Finish",
+      "descKo": "Shokunin — 명함 3.5\"x2\" · 부분 UV",
+      "order": 187
+    },
+    {
+      "title": "Restaurant Business Card",
+      "client": "Scramblercafe",
+      "image": "assets/portfolio/restaurant-business-card-20.webp",
+      "alt": "Restaurant Business Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Card"
+      ],
+      "serviceKo": [
+        "명함"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Scramblercafe — Business Card 3.5\"x2\" · Uncoated Finish",
+      "descKo": "Scramblercafe — 명함 3.5\"x2\" · 비코팅",
+      "order": 188
     }
   ]
 }

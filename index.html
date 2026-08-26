@@ -352,6 +352,32 @@ body.ko p,body.ko li,body.ko .faq-a-inner,body.ko .card-body p{word-break:keep-a
 /* 숫자와 영문 규격 표기는 라틴 폰트가 더 또렷하다 */
 body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
 
+/* ================= 영상 작업물 ================= */
+/* 카드에는 정지 이미지만 깔고 재생 배지를 얹는다 */
+.play-badge{
+  position:absolute;right:14px;bottom:14px;width:38px;height:38px;border-radius:50%;
+  background:rgba(20,18,16,.62);backdrop-filter:blur(2px);
+  display:flex;align-items:center;justify-content:center;pointer-events:none;
+  transition:background .22s,transform .22s;
+}
+.play-badge::before{
+  content:"";display:block;margin-left:3px;
+  border-style:solid;border-width:8px 0 8px 13px;
+  border-color:transparent transparent transparent #fff;
+}
+.card:hover .play-badge{background:var(--accent);transform:scale(1.08)}
+.modal-thumb video{display:block;width:100%;height:auto;max-height:74vh;background:#141210}
+
+/* ================= 더 보기 ================= */
+.more-wrap{display:flex;justify-content:center;margin-top:38px}
+.more-wrap:empty{margin-top:0}
+.load-more{
+  font-family:inherit;font-size:14.5px;font-weight:500;
+  padding:13px 34px;border-radius:100px;border:1px solid var(--line);
+  background:transparent;color:var(--ink);cursor:pointer;transition:.22s;
+}
+.load-more:hover{border-color:var(--ink);background:var(--ink);color:#fff}
+
 /* 언어 토글 — 세로 높이 고정.
    line-height 가 normal 이라 버튼 높이가 글자 metrics 를 따라갔다. 그래서
    (1) EN 버튼이 29px, 한국어 버튼이 33px 로 달라 EN 을 눌렀을 때 검은 박스가
@@ -540,7 +566,7 @@ body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
     <div class="form-wrap">
       <form id="quoteForm" novalidate>
         <!-- Web3Forms: replace with the access key emailed to support@enuedesign.com -->
-        <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_ACCESS_KEY">
+        <input type="hidden" name="access_key" value="c6f00d59-0fcf-40c1-9b7f-d7ba52757102">
         <input type="hidden" name="subject" value="New quote request from enuedesign.com">
         <input type="hidden" name="from_name" value="e.NUE Design website">
         <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
@@ -723,6 +749,7 @@ const EXTRA = {
     "pf.h1": "Work we've <em>printed and installed</em>",
     "pf.sub": "Filter by the kind of work you need made, or by the kind of business you run.",
     "pf.back": "Back to home",
+    "work.more": (n, left) => `Show ${n} more  (${left} remaining)`,
 
     "faq.label": "FAQ",
     "faq.h2": "Questions we get <em>all the time</em>",
@@ -764,6 +791,7 @@ const EXTRA = {
     "pf.h1": "직접 <em>디자인하고 제작한</em> 작업들",
     "pf.sub": "필요한 인쇄물 종류로, 또는 운영하시는 업종으로 골라보실 수 있습니다.",
     "pf.back": "홈으로 돌아가기",
+    "work.more": (n, left) => `${n}개 더 보기  (${left}개 남음)`,
 
     "faq.label": "자주 묻는 질문",
     "faq.h2": "가장 <em>많이 받는 질문</em>들",
