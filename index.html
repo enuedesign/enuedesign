@@ -352,6 +352,29 @@ body.ko p,body.ko li,body.ko .faq-a-inner,body.ko .card-body p{word-break:keep-a
 /* 숫자와 영문 규격 표기는 라틴 폰트가 더 또렷하다 */
 body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
 
+/* ================= 크게 보기(모달) =================
+   원래는 16:9 로 고정하고 object-fit:cover 라 명함·포스터처럼 세로가 긴 작업물이
+   위아래로 잘려 나갔다. 포트폴리오에서 작업물이 잘리면 볼 이유가 없다.
+   비율 고정을 풀고 전체가 들어오도록 contain 으로 바꾼다.
+   폭도 640 → 1000px. 1600px 원본을 넣어두고 640px 로 보여주고 있었다. */
+.modal-box{max-width:1000px}
+.modal-thumb{
+  aspect-ratio:auto;                      /* 비율 고정 해제 */
+  display:flex;align-items:center;justify-content:center;
+  background:var(--beige-deep);
+  max-height:74vh;
+}
+.modal-thumb img{
+  width:auto;height:auto;
+  max-width:100%;max-height:74vh;
+  object-fit:contain;                     /* 잘라내지 않고 전체를 담는다 */
+}
+.modal-thumb video{max-height:74vh;width:auto;max-width:100%}
+@media(max-width:1060px){ .modal-box{max-width:92vw} }
+@media(max-width:600px){
+  .modal-thumb,.modal-thumb img,.modal-thumb video{max-height:56vh}
+}
+
 /* ================= 영상 작업물 ================= */
 /* 카드에는 정지 이미지만 깔고 재생 배지를 얹는다 */
 .play-badge{

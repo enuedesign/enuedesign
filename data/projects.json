@@ -3952,6 +3952,2001 @@
       "descEn": "Scramblercafe — Business Card 3.5\"x2\" · Uncoated Finish",
       "descKo": "Scramblercafe — 명함 3.5\"x2\" · 비코팅",
       "order": 188
+    },
+    {
+      "title": "Dessert Shop Poster",
+      "client": "Heyyogurt",
+      "image": "assets/portfolio/dessert-shop-poster.webp",
+      "alt": "Dessert Shop Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Heyyogurt — Poster",
+      "descKo": "Heyyogurt — 포스터",
+      "order": 189
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Mannamenus",
+      "image": "assets/portfolio/restaurant-table-menu.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannamenus — Table menu · Standing",
+      "descKo": "Mannamenus — 테이블 메뉴 · 스탠딩형",
+      "order": 190
+    },
+    {
+      "title": "Restaurant Digital Menu",
+      "client": "A&D",
+      "image": "assets/portfolio/restaurant-digital-menu.webp",
+      "alt": "Restaurant Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "A&D — Digital menu board",
+      "descKo": "A&D — 디지털 메뉴보드",
+      "order": 191
+    },
+    {
+      "title": "Restaurant Stamp Card",
+      "client": "Oki",
+      "image": "assets/portfolio/restaurant-stamp-card.webp",
+      "alt": "Restaurant Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Oki — Stamp card",
+      "descKo": "Oki — 스탬프 카드",
+      "order": 192
+    },
+    {
+      "title": "Restaurant Drink Menu",
+      "client": "99pocha",
+      "image": "assets/portfolio/restaurant-drink-menu.webp",
+      "alt": "Restaurant Drink Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Drink Menu"
+      ],
+      "serviceKo": [
+        "음료 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "99pocha — Drink menu",
+      "descKo": "99pocha — 음료 메뉴",
+      "order": 193
+    },
+    {
+      "title": "Dessert Shop Flyer",
+      "client": "Bubble Jipangi",
+      "image": "assets/portfolio/dessert-shop-flyer.webp",
+      "alt": "Dessert Shop Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bubble Jipangi — Flyer",
+      "descKo": "Bubble Jipangi — 전단지",
+      "order": 194
+    },
+    {
+      "title": "Donut Shop Gift Card",
+      "client": "Coit Donuts",
+      "image": "assets/portfolio/donut-shop-gift-card.webp",
+      "alt": "Donut Shop Gift Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Gift Card"
+      ],
+      "serviceKo": [
+        "기프트카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Coit Donuts — Gift certificate · Gloss Book",
+      "descKo": "Coit Donuts — 기프트 상품권 · 유광 북지",
+      "order": 195
+    },
+    {
+      "title": "Dessert Shop EDDM",
+      "client": "Hey Yogurt",
+      "image": "assets/portfolio/dessert-shop-eddm.webp",
+      "alt": "Dessert Shop EDDM designed and printed by e.NUE Design",
+      "serviceEn": [
+        "EDDM"
+      ],
+      "serviceKo": [
+        "EDDM 우편광고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hey Yogurt — EDDM postcard",
+      "descKo": "Hey Yogurt — EDDM 우편광고",
+      "order": 196
+    },
+    {
+      "title": "Restaurant Table Tent",
+      "client": "The Jinkook",
+      "image": "assets/portfolio/restaurant-table-tent.webp",
+      "alt": "Restaurant Table Tent designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Tent"
+      ],
+      "serviceKo": [
+        "테이블 텐트"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "The Jinkook — Table tent",
+      "descKo": "The Jinkook — 테이블 텐트",
+      "order": 197
+    },
+    {
+      "title": "Restaurant Canvas",
+      "client": "Thejinkook",
+      "image": "assets/portfolio/restaurant-canvas.webp",
+      "alt": "Restaurant Canvas designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Canvas"
+      ],
+      "serviceKo": [
+        "캔버스"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Thejinkook — Canvas print",
+      "descKo": "Thejinkook — 캔버스 액자",
+      "order": 198
+    },
+    {
+      "title": "Restaurant Picture Board",
+      "client": "Won BBQ",
+      "image": "assets/portfolio/restaurant-picture-board.webp",
+      "alt": "Restaurant Picture Board designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Picture Board"
+      ],
+      "serviceKo": [
+        "픽처보드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Won BBQ — Picture board",
+      "descKo": "Won BBQ — 픽처보드",
+      "order": 199
+    },
+    {
+      "title": "Dessert Shop Poster",
+      "client": "Heyyogurt",
+      "image": "assets/portfolio/dessert-shop-poster-2.webp",
+      "alt": "Dessert Shop Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Heyyogurt — Poster",
+      "descKo": "Heyyogurt — 포스터",
+      "order": 200
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Chanmaru",
+      "image": "assets/portfolio/restaurant-table-menu-2.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chanmaru — Table menu · Book",
+      "descKo": "Chanmaru — 테이블 메뉴 · 책자형",
+      "order": 201
+    },
+    {
+      "title": "Dessert Shop Digital Menu",
+      "client": "Cafe Sonowbean",
+      "image": "assets/portfolio/dessert-shop-digital-menu.webp",
+      "alt": "Dessert Shop Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Cafe Sonowbean — Digital menu board",
+      "descKo": "Cafe Sonowbean — 디지털 메뉴보드",
+      "order": 202
+    },
+    {
+      "title": "Dessert Shop Stamp Card",
+      "client": "Cafe Bom Bom",
+      "image": "assets/portfolio/dessert-shop-stamp-card.webp",
+      "alt": "Dessert Shop Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Cafe Bom Bom — Stamp card",
+      "descKo": "Cafe Bom Bom — 스탬프 카드",
+      "order": 203
+    },
+    {
+      "title": "Restaurant Drink Menu",
+      "client": "Rokko Sushi",
+      "image": "assets/portfolio/restaurant-drink-menu-2.webp",
+      "alt": "Restaurant Drink Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Drink Menu"
+      ],
+      "serviceKo": [
+        "음료 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Rokko Sushi — Drink menu",
+      "descKo": "Rokko Sushi — 음료 메뉴",
+      "order": 204
+    },
+    {
+      "title": "Donut Shop Flyer",
+      "client": "Hesed Donuts",
+      "image": "assets/portfolio/donut-shop-flyer.webp",
+      "alt": "Donut Shop Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hesed Donuts — Flyer",
+      "descKo": "Hesed Donuts — 전단지",
+      "order": 205
+    },
+    {
+      "title": "Restaurant Gift Card",
+      "client": "Manna Lewisville",
+      "image": "assets/portfolio/restaurant-gift-card.webp",
+      "alt": "Restaurant Gift Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Gift Card"
+      ],
+      "serviceKo": [
+        "기프트카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Manna Lewisville — Gift certificate",
+      "descKo": "Manna Lewisville — 기프트 상품권",
+      "order": 206
+    },
+    {
+      "title": "Donut Shop EDDM",
+      "client": "Joy Donuts",
+      "image": "assets/portfolio/donut-shop-eddm.webp",
+      "alt": "Donut Shop EDDM designed and printed by e.NUE Design",
+      "serviceEn": [
+        "EDDM"
+      ],
+      "serviceKo": [
+        "EDDM 우편광고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Joy Donuts — EDDM postcard",
+      "descKo": "Joy Donuts — EDDM 우편광고",
+      "order": 207
+    },
+    {
+      "title": "Restaurant Table Tent",
+      "client": "Imura",
+      "image": "assets/portfolio/restaurant-table-tent-2.webp",
+      "alt": "Restaurant Table Tent designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Tent"
+      ],
+      "serviceKo": [
+        "테이블 텐트"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Imura — Table tent",
+      "descKo": "Imura — 테이블 텐트",
+      "order": 208
+    },
+    {
+      "title": "Dessert Shop Poster",
+      "client": "Cheesecake",
+      "image": "assets/portfolio/dessert-shop-poster-3.webp",
+      "alt": "Dessert Shop Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Cheesecake — Poster",
+      "descKo": "Cheesecake — 포스터",
+      "order": 209
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Kbbq",
+      "image": "assets/portfolio/restaurant-table-menu-3.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Kbbq — Table menu · Book",
+      "descKo": "Kbbq — 테이블 메뉴 · 책자형",
+      "order": 210
+    },
+    {
+      "title": "Restaurant Digital Menu",
+      "client": "Chanmaru",
+      "image": "assets/portfolio/restaurant-digital-menu-2.webp",
+      "alt": "Restaurant Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chanmaru — Digital menu board",
+      "descKo": "Chanmaru — 디지털 메뉴보드",
+      "order": 211
+    },
+    {
+      "title": "Dessert Shop Stamp Card",
+      "client": "Hey Yogurt",
+      "image": "assets/portfolio/dessert-shop-stamp-card-2.webp",
+      "alt": "Dessert Shop Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hey Yogurt — Stamp card · Uncoated",
+      "descKo": "Hey Yogurt — 스탬프 카드 · 비코팅",
+      "order": 212
+    },
+    {
+      "title": "Restaurant Drink Menu",
+      "client": "Tokyo Samurai",
+      "image": "assets/portfolio/restaurant-drink-menu-3.webp",
+      "alt": "Restaurant Drink Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Drink Menu"
+      ],
+      "serviceKo": [
+        "음료 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Tokyo Samurai — Drink menu",
+      "descKo": "Tokyo Samurai — 음료 메뉴",
+      "order": 213
+    },
+    {
+      "title": "Donut Shop Flyer",
+      "client": "Honey Donuts",
+      "image": "assets/portfolio/donut-shop-flyer-2.webp",
+      "alt": "Donut Shop Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Honey Donuts — Flyer",
+      "descKo": "Honey Donuts — 전단지",
+      "order": 214
+    },
+    {
+      "title": "Restaurant Gift Card",
+      "client": "Bbqchicken",
+      "image": "assets/portfolio/restaurant-gift-card-2.webp",
+      "alt": "Restaurant Gift Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Gift Card"
+      ],
+      "serviceKo": [
+        "기프트카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bbqchicken — Gift certificate",
+      "descKo": "Bbqchicken — 기프트 상품권",
+      "order": 215
+    },
+    {
+      "title": "Restaurant EDDM",
+      "client": "Sushi Kadan",
+      "image": "assets/portfolio/restaurant-eddm.webp",
+      "alt": "Restaurant EDDM designed and printed by e.NUE Design",
+      "serviceEn": [
+        "EDDM"
+      ],
+      "serviceKo": [
+        "EDDM 우편광고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Sushi Kadan — EDDM postcard",
+      "descKo": "Sushi Kadan — EDDM 우편광고",
+      "order": 216
+    },
+    {
+      "title": "Dessert Shop Poster",
+      "client": "Stamp",
+      "image": "assets/portfolio/dessert-shop-poster-4.webp",
+      "alt": "Dessert Shop Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Stamp — Poster",
+      "descKo": "Stamp — 포스터",
+      "order": 217
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Imura",
+      "image": "assets/portfolio/restaurant-table-menu-4.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Imura — Table menu · Book",
+      "descKo": "Imura — 테이블 메뉴 · 책자형",
+      "order": 218
+    },
+    {
+      "title": "Restaurant Digital Menu",
+      "client": "Doldolmara",
+      "image": "assets/portfolio/restaurant-digital-menu-3.webp",
+      "alt": "Restaurant Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Doldolmara — Digital menu board",
+      "descKo": "Doldolmara — 디지털 메뉴보드",
+      "order": 219
+    },
+    {
+      "title": "Donut Shop Stamp Card",
+      "client": "Donuts Plus",
+      "image": "assets/portfolio/donut-shop-stamp-card.webp",
+      "alt": "Donut Shop Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donuts Plus — Stamp card · Uncoated",
+      "descKo": "Donuts Plus — 스탬프 카드 · 비코팅",
+      "order": 220
+    },
+    {
+      "title": "Restaurant Drink Menu",
+      "client": "Eggsquisite Cafe",
+      "image": "assets/portfolio/restaurant-drink-menu-4.webp",
+      "alt": "Restaurant Drink Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Drink Menu"
+      ],
+      "serviceKo": [
+        "음료 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Eggsquisite Cafe — Drink menu · Acrylic Stand",
+      "descKo": "Eggsquisite Cafe — 음료 메뉴 · 아크릴 스탠드",
+      "order": 221
+    },
+    {
+      "title": "Donut Shop Flyer",
+      "client": "Rich Donuts",
+      "image": "assets/portfolio/donut-shop-flyer-3.webp",
+      "alt": "Donut Shop Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Rich Donuts — Flyer",
+      "descKo": "Rich Donuts — 전단지",
+      "order": 222
+    },
+    {
+      "title": "Restaurant Gift Card",
+      "client": "Honey Teriyaki",
+      "image": "assets/portfolio/restaurant-gift-card-3.webp",
+      "alt": "Restaurant Gift Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Gift Card"
+      ],
+      "serviceKo": [
+        "기프트카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Honey Teriyaki — Gift certificate · Matte",
+      "descKo": "Honey Teriyaki — 기프트 상품권 · 무광 코팅",
+      "order": 223
+    },
+    {
+      "title": "Restaurant EDDM",
+      "client": "Tsunami",
+      "image": "assets/portfolio/restaurant-eddm-2.webp",
+      "alt": "Restaurant EDDM designed and printed by e.NUE Design",
+      "serviceEn": [
+        "EDDM"
+      ],
+      "serviceKo": [
+        "EDDM 우편광고"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Tsunami — EDDM postcard",
+      "descKo": "Tsunami — EDDM 우편광고",
+      "order": 224
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Oki",
+      "image": "assets/portfolio/restaurant-poster.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Oki — Poster",
+      "descKo": "Oki — 포스터",
+      "order": 225
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "1stgamja",
+      "image": "assets/portfolio/restaurant-table-menu-5.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "1stgamja — Table menu · Gloss Book",
+      "descKo": "1stgamja — 테이블 메뉴 · 유광 북지",
+      "order": 226
+    },
+    {
+      "title": "Dessert Shop Digital Menu",
+      "client": "Doldolsweet",
+      "image": "assets/portfolio/dessert-shop-digital-menu-2.webp",
+      "alt": "Dessert Shop Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Doldolsweet — Digital menu board",
+      "descKo": "Doldolsweet — 디지털 메뉴보드",
+      "order": 227
+    },
+    {
+      "title": "Donut Shop Stamp Card",
+      "client": "Manna Donuts",
+      "image": "assets/portfolio/donut-shop-stamp-card-2.webp",
+      "alt": "Donut Shop Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Manna Donuts — Stamp card · Uncoated",
+      "descKo": "Manna Donuts — 스탬프 카드 · 비코팅",
+      "order": 228
+    },
+    {
+      "title": "Restaurant Drink Menu",
+      "client": "Soju Blues",
+      "image": "assets/portfolio/restaurant-drink-menu-5.webp",
+      "alt": "Restaurant Drink Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Drink Menu"
+      ],
+      "serviceKo": [
+        "음료 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Soju Blues — Drink menu · Acrylic Stand",
+      "descKo": "Soju Blues — 음료 메뉴 · 아크릴 스탠드",
+      "order": 229
+    },
+    {
+      "title": "Restaurant Flyer",
+      "client": "Don Chicken",
+      "image": "assets/portfolio/restaurant-flyer.webp",
+      "alt": "Restaurant Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Don Chicken — Flyer",
+      "descKo": "Don Chicken — 전단지",
+      "order": 230
+    },
+    {
+      "title": "Restaurant Gift Card",
+      "client": "Sushi Kadan",
+      "image": "assets/portfolio/restaurant-gift-card-4.webp",
+      "alt": "Restaurant Gift Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Gift Card"
+      ],
+      "serviceKo": [
+        "기프트카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Sushi Kadan — Gift certificate · Matte",
+      "descKo": "Sushi Kadan — 기프트 상품권 · 무광 코팅",
+      "order": 231
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Oki",
+      "image": "assets/portfolio/restaurant-poster-2.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Oki — Poster",
+      "descKo": "Oki — 포스터",
+      "order": 232
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Happydaysoju",
+      "image": "assets/portfolio/restaurant-table-menu-6.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Happydaysoju — Table menu · Paper",
+      "descKo": "Happydaysoju — 테이블 메뉴 · 종이",
+      "order": 233
+    },
+    {
+      "title": "Donut Shop Digital Menu",
+      "client": "Manna Donuts",
+      "image": "assets/portfolio/donut-shop-digital-menu.webp",
+      "alt": "Donut Shop Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Manna Donuts — Digital menu board",
+      "descKo": "Manna Donuts — 디지털 메뉴보드",
+      "order": 234
+    },
+    {
+      "title": "Restaurant Stamp Card",
+      "client": "Riverstone Cafe",
+      "image": "assets/portfolio/restaurant-stamp-card-2.webp",
+      "alt": "Restaurant Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Riverstone Cafe — Stamp card · Glossy Front",
+      "descKo": "Riverstone Cafe — 스탬프 카드 · 앞면 유광",
+      "order": 235
+    },
+    {
+      "title": "Restaurant Drink Menu",
+      "client": "Edohana",
+      "image": "assets/portfolio/restaurant-drink-menu-6.webp",
+      "alt": "Restaurant Drink Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Drink Menu"
+      ],
+      "serviceKo": [
+        "음료 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Edohana — Drink menu",
+      "descKo": "Edohana — 음료 메뉴",
+      "order": 236
+    },
+    {
+      "title": "Restaurant Flyer",
+      "client": "Shabro",
+      "image": "assets/portfolio/restaurant-flyer-2.webp",
+      "alt": "Restaurant Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Shabro — Flyer",
+      "descKo": "Shabro — 전단지",
+      "order": 237
+    },
+    {
+      "title": "Restaurant Gift Card",
+      "client": "The Jinkook",
+      "image": "assets/portfolio/restaurant-gift-card-5.webp",
+      "alt": "Restaurant Gift Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Gift Card"
+      ],
+      "serviceKo": [
+        "기프트카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "The Jinkook — Gift certificate · Matte",
+      "descKo": "The Jinkook — 기프트 상품권 · 무광 코팅",
+      "order": 238
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Nagasaki Champon",
+      "image": "assets/portfolio/restaurant-poster-3.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Nagasaki Champon — Poster",
+      "descKo": "Nagasaki Champon — 포스터",
+      "order": 239
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Tokyosamurai",
+      "image": "assets/portfolio/restaurant-table-menu-7.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Tokyosamurai — Table menu · Paper",
+      "descKo": "Tokyosamurai — 테이블 메뉴 · 종이",
+      "order": 240
+    },
+    {
+      "title": "Donut Shop Digital Menu",
+      "client": "Manna Donuts",
+      "image": "assets/portfolio/donut-shop-digital-menu-2.webp",
+      "alt": "Donut Shop Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Manna Donuts — Digital menu board",
+      "descKo": "Manna Donuts — 디지털 메뉴보드",
+      "order": 241
+    },
+    {
+      "title": "Restaurant Stamp Card",
+      "client": "Honey Teriyaki",
+      "image": "assets/portfolio/restaurant-stamp-card-3.webp",
+      "alt": "Restaurant Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Honey Teriyaki — Stamp card · Uncoated",
+      "descKo": "Honey Teriyaki — 스탬프 카드 · 비코팅",
+      "order": 242
+    },
+    {
+      "title": "Restaurant Drink Menu",
+      "client": "Imura",
+      "image": "assets/portfolio/restaurant-drink-menu-7.webp",
+      "alt": "Restaurant Drink Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Drink Menu"
+      ],
+      "serviceKo": [
+        "음료 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Imura — Drink menu",
+      "descKo": "Imura — 음료 메뉴",
+      "order": 243
+    },
+    {
+      "title": "Restaurant Flyer",
+      "client": "Sojublues",
+      "image": "assets/portfolio/restaurant-flyer-3.webp",
+      "alt": "Restaurant Flyer designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flyer"
+      ],
+      "serviceKo": [
+        "전단지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Sojublues — Flyer",
+      "descKo": "Sojublues — 전단지",
+      "order": 244
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Nagasaki Champon",
+      "image": "assets/portfolio/restaurant-poster-4.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Nagasaki Champon — Poster",
+      "descKo": "Nagasaki Champon — 포스터",
+      "order": 245
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "99pocha",
+      "image": "assets/portfolio/restaurant-table-menu-8.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "99pocha — Table menu · Sealed Laminate",
+      "descKo": "99pocha — 테이블 메뉴 · 실링 라미네이트",
+      "order": 246
+    },
+    {
+      "title": "Donut Shop Digital Menu",
+      "client": "Morris Donuts",
+      "image": "assets/portfolio/donut-shop-digital-menu-3.webp",
+      "alt": "Donut Shop Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Morris Donuts — Digital menu board",
+      "descKo": "Morris Donuts — 디지털 메뉴보드",
+      "order": 247
+    },
+    {
+      "title": "Restaurant Stamp Card",
+      "client": "Jjang BBQ",
+      "image": "assets/portfolio/restaurant-stamp-card-4.webp",
+      "alt": "Restaurant Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjang BBQ — Stamp card · Uncoated",
+      "descKo": "Jjang BBQ — 스탬프 카드 · 비코팅",
+      "order": 248
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Songgane",
+      "image": "assets/portfolio/restaurant-poster-5.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Songgane — Poster",
+      "descKo": "Songgane — 포스터",
+      "order": 249
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Don Sarang",
+      "image": "assets/portfolio/restaurant-table-menu-9.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Don Sarang — Table menu · Sealed Laminate",
+      "descKo": "Don Sarang — 테이블 메뉴 · 실링 라미네이트",
+      "order": 250
+    },
+    {
+      "title": "Restaurant Digital Menu",
+      "client": "Sushi Haru",
+      "image": "assets/portfolio/restaurant-digital-menu-4.webp",
+      "alt": "Restaurant Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Sushi Haru — Digital menu board",
+      "descKo": "Sushi Haru — 디지털 메뉴보드",
+      "order": 251
+    },
+    {
+      "title": "Restaurant Stamp Card",
+      "client": "Subroc",
+      "image": "assets/portfolio/restaurant-stamp-card-5.webp",
+      "alt": "Restaurant Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Subroc — Stamp card · Uncoated",
+      "descKo": "Subroc — 스탬프 카드 · 비코팅",
+      "order": 252
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Songs K Food",
+      "image": "assets/portfolio/restaurant-poster-6.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Songs K Food — Poster",
+      "descKo": "Songs K Food — 포스터",
+      "order": 253
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Edohana",
+      "image": "assets/portfolio/restaurant-table-menu-10.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Edohana — Table menu · Sealed Laminate",
+      "descKo": "Edohana — 테이블 메뉴 · 실링 라미네이트",
+      "order": 254
+    },
+    {
+      "title": "Restaurant Digital Menu",
+      "client": "The Jinkook",
+      "image": "assets/portfolio/restaurant-digital-menu-5.webp",
+      "alt": "Restaurant Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "The Jinkook — Digital menu board",
+      "descKo": "The Jinkook — 디지털 메뉴보드",
+      "order": 255
+    },
+    {
+      "title": "Restaurant Stamp Card",
+      "client": "Jjang Pocha",
+      "image": "assets/portfolio/restaurant-stamp-card-6.webp",
+      "alt": "Restaurant Stamp Card designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Stamp Card"
+      ],
+      "serviceKo": [
+        "스탬프 카드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjang Pocha — Stamp card · Uncoated",
+      "descKo": "Jjang Pocha — 스탬프 카드 · 비코팅",
+      "order": 256
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Songs K Food",
+      "image": "assets/portfolio/restaurant-poster-7.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Songs K Food — Poster",
+      "descKo": "Songs K Food — 포스터",
+      "order": 257
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Bonkbbq",
+      "image": "assets/portfolio/restaurant-table-menu-11.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bonkbbq — Table menu · Sealed Laminate",
+      "descKo": "Bonkbbq — 테이블 메뉴 · 실링 라미네이트",
+      "order": 258
+    },
+    {
+      "title": "Donut Shop Digital Menu",
+      "client": "Vintage Donuts",
+      "image": "assets/portfolio/donut-shop-digital-menu-4.webp",
+      "alt": "Donut Shop Digital Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Digital Menu"
+      ],
+      "serviceKo": [
+        "디지털 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Vintage Donuts — Digital menu board",
+      "descKo": "Vintage Donuts — 디지털 메뉴보드",
+      "order": 259
+    },
+    {
+      "title": "Dessert Shop Poster",
+      "client": "Wicked Snow",
+      "image": "assets/portfolio/dessert-shop-poster-5.webp",
+      "alt": "Dessert Shop Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Wicked Snow — Poster",
+      "descKo": "Wicked Snow — 포스터",
+      "order": 260
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Dalbeer1",
+      "image": "assets/portfolio/restaurant-table-menu-12.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dalbeer1 — Table menu · Sealed Laminate",
+      "descKo": "Dalbeer1 — 테이블 메뉴 · 실링 라미네이트",
+      "order": 261
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Won BBQ",
+      "image": "assets/portfolio/restaurant-poster-8.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Won BBQ — Poster",
+      "descKo": "Won BBQ — 포스터",
+      "order": 262
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Dalbeer2",
+      "image": "assets/portfolio/restaurant-table-menu-13.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dalbeer2 — Table menu · Sealed Laminate",
+      "descKo": "Dalbeer2 — 테이블 메뉴 · 실링 라미네이트",
+      "order": 263
+    },
+    {
+      "title": "Dessert Shop Poster",
+      "client": "Golden Crown",
+      "image": "assets/portfolio/dessert-shop-poster-6.webp",
+      "alt": "Dessert Shop Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Golden Crown — Poster",
+      "descKo": "Golden Crown — 포스터",
+      "order": 264
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Dch",
+      "image": "assets/portfolio/restaurant-table-menu-14.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dch — Table menu · Sealed Laminate",
+      "descKo": "Dch — 테이블 메뉴 · 실링 라미네이트",
+      "order": 265
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Restaurant1",
+      "image": "assets/portfolio/restaurant-poster-9.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Restaurant1 — Poster",
+      "descKo": "Restaurant1 — 포스터",
+      "order": 266
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Donchicken",
+      "image": "assets/portfolio/restaurant-table-menu-15.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donchicken — Table menu · Sealed Laminate",
+      "descKo": "Donchicken — 테이블 메뉴 · 실링 라미네이트",
+      "order": 267
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Restaurant2",
+      "image": "assets/portfolio/restaurant-poster-10.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Restaurant2 — Poster",
+      "descKo": "Restaurant2 — 포스터",
+      "order": 268
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Donsaranglunch",
+      "image": "assets/portfolio/restaurant-table-menu-16.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donsaranglunch — Table menu · Sealed Laminate",
+      "descKo": "Donsaranglunch — 테이블 메뉴 · 실링 라미네이트",
+      "order": 269
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Bennys",
+      "image": "assets/portfolio/restaurant-poster-11.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bennys — Poster",
+      "descKo": "Bennys — 포스터",
+      "order": 270
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Eggsquisite",
+      "image": "assets/portfolio/restaurant-table-menu-17.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Eggsquisite — Table menu · Sealed Laminate",
+      "descKo": "Eggsquisite — 테이블 메뉴 · 실링 라미네이트",
+      "order": 271
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Bennys2",
+      "image": "assets/portfolio/restaurant-poster-12.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bennys2 — Poster",
+      "descKo": "Bennys2 — 포스터",
+      "order": 272
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "KBBQ",
+      "image": "assets/portfolio/restaurant-table-menu-18.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "KBBQ — Table menu · Paper",
+      "descKo": "KBBQ — 테이블 메뉴 · 종이",
+      "order": 273
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Chanmaru",
+      "image": "assets/portfolio/restaurant-poster-13.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chanmaru — Poster",
+      "descKo": "Chanmaru — 포스터",
+      "order": 274
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "DCH",
+      "image": "assets/portfolio/restaurant-poster-14.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "DCH — Poster",
+      "descKo": "DCH — 포스터",
+      "order": 275
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Dch2",
+      "image": "assets/portfolio/restaurant-poster-15.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dch2 — Poster",
+      "descKo": "Dch2 — 포스터",
+      "order": 276
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Jjang Pocha",
+      "image": "assets/portfolio/restaurant-poster-16.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjang Pocha — Poster",
+      "descKo": "Jjang Pocha — 포스터",
+      "order": 277
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Texan Wangbal",
+      "image": "assets/portfolio/restaurant-poster-17.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Texan Wangbal — Poster",
+      "descKo": "Texan Wangbal — 포스터",
+      "order": 278
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Bbqchicken",
+      "image": "assets/portfolio/restaurant-poster-18.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bbqchicken — Poster",
+      "descKo": "Bbqchicken — 포스터",
+      "order": 279
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Bbqchicken2",
+      "image": "assets/portfolio/restaurant-poster-19.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bbqchicken2 — Poster",
+      "descKo": "Bbqchicken2 — 포스터",
+      "order": 280
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Bbqchicken",
+      "image": "assets/portfolio/restaurant-poster-20.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bbqchicken — Poster",
+      "descKo": "Bbqchicken — 포스터",
+      "order": 281
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Washand Dry",
+      "image": "assets/portfolio/restaurant-poster-21.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Washand Dry — Poster",
+      "descKo": "Washand Dry — 포스터",
+      "order": 282
+    },
+    {
+      "title": "Restaurant Poster",
+      "client": "Dalbeer",
+      "image": "assets/portfolio/restaurant-poster-22.webp",
+      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dalbeer — Poster",
+      "descKo": "Dalbeer — 포스터",
+      "order": 283
     }
   ]
 }
