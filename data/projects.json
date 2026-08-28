@@ -337,10 +337,10 @@
       "order": 16
     },
     {
-      "title": "Golf Apparel Indoor Sign & Window Decal",
+      "title": "Blinds and Curtains Indoor Sign & Window Decal",
       "client": "JDX",
-      "image": "assets/portfolio/golf-apparel-indoor-sign-window-decal.webp",
-      "alt": "Golf Apparel Indoor Sign & Window Decal designed and printed by e.NUE Design",
+      "image": "assets/portfolio/blinds-and-curtains-indoor-sign-window-decal.webp",
+      "alt": "Blinds and Curtains Indoor Sign & Window Decal designed and printed by e.NUE Design",
       "serviceEn": [
         "Signage",
         "Window Decal"
@@ -355,8 +355,8 @@
       "industryKo": [
         "리테일"
       ],
-      "descEn": "Indoor sign and window decal for a golf apparel store, installed as one graphics package.",
-      "descKo": "골프웨어 매장 실내 사인과 창문 데칼. 매장 전체 그래픽 일괄 시공.",
+      "descEn": "Indoor sign and window decal for a blinds and curtains store, installed as one graphics package.",
+      "descKo": "블라인드·커튼 매장 실내 사인과 창문 데칼. 매장 전체 그래픽 일괄 시공.",
       "order": 17
     },
     {
@@ -1471,27 +1471,6 @@
       "descEn": "Corporate logo shown applied to business cards.",
       "descKo": "기업 로고. 명함 적용 시안.",
       "order": 70
-    },
-    {
-      "title": "Hair Salon Frosted Window Graphic",
-      "client": "Hair Shop",
-      "image": "assets/portfolio/hair-salon-frosted-window-graphic.webp",
-      "alt": "Hair Salon Frosted Window Graphic designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Window Graphic"
-      ],
-      "serviceKo": [
-        "윈도우 그래픽"
-      ],
-      "industryEn": [
-        "Beauty & Wellness"
-      ],
-      "industryKo": [
-        "뷰티 & 웰니스"
-      ],
-      "descEn": "Frosted window graphics for a hair salon with the logo reversed out clear.",
-      "descKo": "미용실 창문 무광 그래픽. 로고 부분만 투명 처리.",
-      "order": 71
     },
     {
       "title": "Nail Salon Business Card",
@@ -7799,7 +7778,7 @@
     {
       "title": "Restaurant Wall Graphic",
       "client": "Ohkdog",
-      "image": "assets/portfolio/restaurant-wall-graphic-12.webp",
+      "image": "assets/portfolio/restaurant-wall-graphic-12b.webp",
       "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
       "serviceEn": [
         "Wall Graphic"
