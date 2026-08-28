@@ -1242,27 +1242,6 @@
       "order": 59
     },
     {
-      "title": "Window Blinds Logo",
-      "client": "Blind Shop",
-      "image": "assets/portfolio/window-blinds-logo.webp",
-      "alt": "Window Blinds Logo designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Logo"
-      ],
-      "serviceKo": [
-        "로고"
-      ],
-      "industryEn": [
-        "Retail"
-      ],
-      "industryKo": [
-        "리테일"
-      ],
-      "descEn": "Final logo for a window blinds retailer.",
-      "descKo": "블라인드 전문점 로고 최종안.",
-      "order": 60
-    },
-    {
       "title": "Hair Salon Window Ad Graphic",
       "client": "Chungdam",
       "image": "assets/portfolio/hair-salon-window-ad-graphic.webp",
@@ -1324,27 +1303,6 @@
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
       "order": 63
-    },
-    {
-      "title": "Beauty Brand Logo",
-      "client": "Fa Belle",
-      "image": "assets/portfolio/beauty-brand-logo.webp",
-      "alt": "Beauty Brand Logo designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Logo"
-      ],
-      "serviceKo": [
-        "로고"
-      ],
-      "industryEn": [
-        "Beauty & Wellness"
-      ],
-      "industryKo": [
-        "뷰티 & 웰니스"
-      ],
-      "descEn": "Beauty brand logo, presented as an acrylic sign mockup.",
-      "descKo": "뷰티 브랜드 로고. 아크릴 사인으로 제작한 시안.",
-      "order": 64
     },
     {
       "title": "Preschool Frosted Window Film",
@@ -2124,27 +2082,6 @@
       "descEn": "Bs Donuts — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Bs Donuts — 명함 3.5\"x2\" · 무광 코팅",
       "order": 102
-    },
-    {
-      "title": "Donut Shop Logo",
-      "client": "Chans Donut",
-      "image": "assets/portfolio/donut-shop-logo.webp",
-      "alt": "Donut Shop Logo designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Logo"
-      ],
-      "serviceKo": [
-        "로고"
-      ],
-      "industryEn": [
-        "Donut Shop"
-      ],
-      "industryKo": [
-        "도넛샵"
-      ],
-      "descEn": "Chans Donut — Logo design",
-      "descKo": "Chans Donut — 로고 디자인",
-      "order": 103
     },
     {
       "title": "Donut Shop Window Graphic",
@@ -4164,27 +4101,6 @@
       "order": 199
     },
     {
-      "title": "Dessert Shop Poster",
-      "client": "Heyyogurt",
-      "image": "assets/portfolio/dessert-shop-poster-2.webp",
-      "alt": "Dessert Shop Poster designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Poster"
-      ],
-      "serviceKo": [
-        "포스터"
-      ],
-      "industryEn": [
-        "Dessert & Cafe"
-      ],
-      "industryKo": [
-        "디저트 & 카페"
-      ],
-      "descEn": "Heyyogurt — Poster",
-      "descKo": "Heyyogurt — 포스터",
-      "order": 200
-    },
-    {
       "title": "Restaurant Table Menu",
       "client": "Chanmaru",
       "image": "assets/portfolio/restaurant-table-menu-2.webp",
@@ -4353,27 +4269,6 @@
       "order": 208
     },
     {
-      "title": "Dessert Shop Poster",
-      "client": "Cheesecake",
-      "image": "assets/portfolio/dessert-shop-poster-3.webp",
-      "alt": "Dessert Shop Poster designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Poster"
-      ],
-      "serviceKo": [
-        "포스터"
-      ],
-      "industryEn": [
-        "Dessert & Cafe"
-      ],
-      "industryKo": [
-        "디저트 & 카페"
-      ],
-      "descEn": "Cheesecake — Poster",
-      "descKo": "Cheesecake — 포스터",
-      "order": 209
-    },
-    {
       "title": "Restaurant Table Menu",
       "client": "Kbbq",
       "image": "assets/portfolio/restaurant-table-menu-3.webp",
@@ -4519,27 +4414,6 @@
       "descEn": "Sushi Kadan — EDDM postcard",
       "descKo": "Sushi Kadan — EDDM 우편광고",
       "order": 216
-    },
-    {
-      "title": "Dessert Shop Poster",
-      "client": "Stamp",
-      "image": "assets/portfolio/dessert-shop-poster-4.webp",
-      "alt": "Dessert Shop Poster designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Poster"
-      ],
-      "serviceKo": [
-        "포스터"
-      ],
-      "industryEn": [
-        "Dessert & Cafe"
-      ],
-      "industryKo": [
-        "디저트 & 카페"
-      ],
-      "descEn": "Stamp — Poster",
-      "descKo": "Stamp — 포스터",
-      "order": 217
     },
     {
       "title": "Restaurant Table Menu",
@@ -5760,15 +5634,15 @@
       "order": 275
     },
     {
-      "title": "Restaurant Poster",
+      "title": "Restaurant Menu Board",
       "client": "Dch2",
       "image": "assets/portfolio/restaurant-poster-15.webp",
-      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "alt": "Restaurant Menu Board designed and printed by e.NUE Design",
       "serviceEn": [
-        "Poster"
+        "Menu Board"
       ],
       "serviceKo": [
-        "포스터"
+        "메뉴보드"
       ],
       "industryEn": [
         "Restaurant"
@@ -5776,8 +5650,8 @@
       "industryKo": [
         "레스토랑"
       ],
-      "descEn": "Dch2 — Poster",
-      "descKo": "Dch2 — 포스터",
+      "descEn": "Dch2 — Menu Board",
+      "descKo": "Dch2 — 메뉴보드",
       "order": 276
     },
     {
@@ -5802,15 +5676,15 @@
       "order": 277
     },
     {
-      "title": "Restaurant Poster",
+      "title": "Restaurant Menu Board",
       "client": "Texan Wangbal",
       "image": "assets/portfolio/restaurant-poster-17.webp",
-      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "alt": "Restaurant Menu Board designed and printed by e.NUE Design",
       "serviceEn": [
-        "Poster"
+        "Menu Board"
       ],
       "serviceKo": [
-        "포스터"
+        "메뉴보드"
       ],
       "industryEn": [
         "Restaurant"
@@ -5818,8 +5692,8 @@
       "industryKo": [
         "레스토랑"
       ],
-      "descEn": "Texan Wangbal — Poster",
-      "descKo": "Texan Wangbal — 포스터",
+      "descEn": "Texan Wangbal — Menu Board",
+      "descKo": "Texan Wangbal — 메뉴보드",
       "order": 278
     },
     {
@@ -7736,7 +7610,7 @@
     {
       "title": "Restaurant Wall Graphic",
       "client": "Ohkdog",
-      "image": "assets/portfolio/restaurant-wall-graphic-11.webp",
+      "image": "assets/portfolio/restaurant-wall-graphic-11b.webp",
       "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
       "serviceEn": [
         "Wall Graphic"
@@ -7862,7 +7736,7 @@
     {
       "title": "Restaurant Wall Graphic",
       "client": "Wonbbq",
-      "image": "assets/portfolio/restaurant-wall-graphic-14.webp",
+      "image": "assets/portfolio/restaurant-wall-graphic-14b.webp",
       "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
       "serviceEn": [
         "Wall Graphic"
@@ -8282,7 +8156,7 @@
     {
       "title": "Restaurant Wall Graphic",
       "client": "Ohkdog",
-      "image": "assets/portfolio/restaurant-wall-graphic-24.webp",
+      "image": "assets/portfolio/restaurant-wall-graphic-24b.webp",
       "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
       "serviceEn": [
         "Wall Graphic"
