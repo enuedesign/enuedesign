@@ -806,10 +806,10 @@
       "image": "assets/portfolio/church-t-shirt.webp",
       "alt": "Church T-Shirt designed and printed by e.NUE Design",
       "serviceEn": [
-        "Sublimation Goods"
+        "Apparel"
       ],
       "serviceKo": [
-        "승화 굿즈"
+        "의류"
       ],
       "industryEn": [
         "Church & Nonprofit"
@@ -817,8 +817,8 @@
       "industryKo": [
         "교회 & 비영리"
       ],
-      "descEn": "Group T-shirts for a church, sublimation printed.",
-      "descKo": "교회 단체 티셔츠. 승화 인쇄.",
+      "descEn": "Group T-shirts for a church, heat press printed.",
+      "descKo": "교회 단체 티셔츠. 열전사 인쇄.",
       "order": 39
     },
     {
@@ -5947,6 +5947,2673 @@
       "descEn": "Dalbeer — Poster",
       "descKo": "Dalbeer — 포스터",
       "order": 283
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Manna",
+      "image": "assets/portfolio/donut-shop-window-graphic-24.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Manna — Storefront window graphics",
+      "descKo": "Manna — 매장 창문 그래픽",
+      "order": 284
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Indoorsticker",
+      "image": "assets/portfolio/restaurant-wall-graphic.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Indoorsticker — Interior wall graphics",
+      "descKo": "Indoorsticker — 실내 월 그래픽",
+      "order": 285
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Wangjokbal",
+      "image": "assets/portfolio/restaurant-table-menu-19.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Wangjokbal — Table menu · Book",
+      "descKo": "Wangjokbal — 테이블 메뉴 · 책자형",
+      "order": 286
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Hikari",
+      "image": "assets/portfolio/restaurant-to-go-menu.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hikari — To-go menu",
+      "descKo": "Hikari — 투고 메뉴",
+      "order": 287
+    },
+    {
+      "title": "Restaurant Signage",
+      "client": "MOMO",
+      "image": "assets/portfolio/restaurant-signage.webp",
+      "alt": "Restaurant Signage designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "MOMO — Storefront signage",
+      "descKo": "MOMO — 매장 사인",
+      "order": 288
+    },
+    {
+      "title": "Restaurant Outdoor Banner",
+      "client": "Jjanpocha",
+      "image": "assets/portfolio/restaurant-outdoor-banner.webp",
+      "alt": "Restaurant Outdoor Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Outdoor Banner"
+      ],
+      "serviceKo": [
+        "외부 배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjanpocha — Exterior building banner",
+      "descKo": "Jjanpocha — 건물 외벽 배너",
+      "order": 289
+    },
+    {
+      "title": "Dessert Shop X-Banner",
+      "client": "Baebae",
+      "image": "assets/portfolio/dessert-shop-x-banner.webp",
+      "alt": "Dessert Shop X-Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "X-Banner"
+      ],
+      "serviceKo": [
+        "X배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Baebae — X-banner",
+      "descKo": "Baebae — X배너",
+      "order": 290
+    },
+    {
+      "title": "Dessert Shop Business Hours",
+      "client": "Dulcet",
+      "image": "assets/portfolio/dessert-shop-business-hours.webp",
+      "alt": "Dessert Shop Business Hours designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Hours"
+      ],
+      "serviceKo": [
+        "영업시간 안내"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dulcet — Business hours decal · Decal",
+      "descKo": "Dulcet — 영업시간 안내 데칼 · 데칼",
+      "order": 291
+    },
+    {
+      "title": "Restaurant Picture Board",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-picture-board-2.webp",
+      "alt": "Restaurant Picture Board designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Picture Board"
+      ],
+      "serviceKo": [
+        "픽처보드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Picture board",
+      "descKo": "Mannashabu — 픽처보드",
+      "order": 292
+    },
+    {
+      "title": "Dessert Shop A-Sign",
+      "client": "Hey Yogurt",
+      "image": "assets/portfolio/dessert-shop-a-sign.webp",
+      "alt": "Dessert Shop A-Sign designed and printed by e.NUE Design",
+      "serviceEn": [
+        "A-Sign"
+      ],
+      "serviceKo": [
+        "A형 입간판"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hey Yogurt — A-frame sign",
+      "descKo": "Hey Yogurt — A형 입간판",
+      "order": 293
+    },
+    {
+      "title": "Karaoke Bar Flag Banner",
+      "client": "Feather Flag",
+      "image": "assets/portfolio/karaoke-bar-flag-banner.webp",
+      "alt": "Karaoke Bar Flag Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flag Banner"
+      ],
+      "serviceKo": [
+        "깃발 배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Feather Flag — Feather flag",
+      "descKo": "Feather Flag — 깃발 배너",
+      "order": 294
+    },
+    {
+      "title": "Restaurant Sticker",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-sticker-2.webp",
+      "alt": "Restaurant Sticker designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sticker"
+      ],
+      "serviceKo": [
+        "스티커"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Sticker",
+      "descKo": "Mannashabu — 스티커",
+      "order": 295
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Snowflake",
+      "image": "assets/portfolio/donut-shop-window-graphic-25.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Snowflake — Storefront window graphics",
+      "descKo": "Snowflake — 매장 창문 그래픽",
+      "order": 296
+    },
+    {
+      "title": "Donut Shop Wall Graphic",
+      "client": "Chansdonuts",
+      "image": "assets/portfolio/donut-shop-wall-graphic.webp",
+      "alt": "Donut Shop Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chansdonuts — Interior wall graphics",
+      "descKo": "Chansdonuts — 실내 월 그래픽",
+      "order": 297
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Ggui Ggui",
+      "image": "assets/portfolio/restaurant-table-menu-20.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ggui Ggui — Table menu · Paper",
+      "descKo": "Ggui Ggui — 테이블 메뉴 · 종이",
+      "order": 298
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Oki",
+      "image": "assets/portfolio/restaurant-to-go-menu-2.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Oki — To-go menu",
+      "descKo": "Oki — 투고 메뉴",
+      "order": 299
+    },
+    {
+      "title": "Restaurant Signage",
+      "client": "Don Chicken",
+      "image": "assets/portfolio/restaurant-signage-2.webp",
+      "alt": "Restaurant Signage designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Don Chicken — Storefront signage",
+      "descKo": "Don Chicken — 매장 사인",
+      "order": 300
+    },
+    {
+      "title": "Restaurant Outdoor Banner",
+      "client": "Jjanpocha",
+      "image": "assets/portfolio/restaurant-outdoor-banner-2.webp",
+      "alt": "Restaurant Outdoor Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Outdoor Banner"
+      ],
+      "serviceKo": [
+        "외부 배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjanpocha — Exterior building banner",
+      "descKo": "Jjanpocha — 건물 외벽 배너",
+      "order": 301
+    },
+    {
+      "title": "Restaurant X-Banner",
+      "client": "Soju Blues",
+      "image": "assets/portfolio/restaurant-x-banner.webp",
+      "alt": "Restaurant X-Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "X-Banner"
+      ],
+      "serviceKo": [
+        "X배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Soju Blues — X-banner",
+      "descKo": "Soju Blues — X배너",
+      "order": 302
+    },
+    {
+      "title": "Restaurant Business Hours",
+      "client": "Gopchang",
+      "image": "assets/portfolio/restaurant-business-hours.webp",
+      "alt": "Restaurant Business Hours designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Hours"
+      ],
+      "serviceKo": [
+        "영업시간 안내"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Gopchang — Business hours decal · Decal",
+      "descKo": "Gopchang — 영업시간 안내 데칼 · 데칼",
+      "order": 303
+    },
+    {
+      "title": "Restaurant Picture Board",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-picture-board-3.webp",
+      "alt": "Restaurant Picture Board designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Picture Board"
+      ],
+      "serviceKo": [
+        "픽처보드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Picture board",
+      "descKo": "Mannashabu — 픽처보드",
+      "order": 304
+    },
+    {
+      "title": "Restaurant A-Sign",
+      "client": "Chanmaru",
+      "image": "assets/portfolio/restaurant-a-sign.webp",
+      "alt": "Restaurant A-Sign designed and printed by e.NUE Design",
+      "serviceEn": [
+        "A-Sign"
+      ],
+      "serviceKo": [
+        "A형 입간판"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chanmaru — A-frame sign",
+      "descKo": "Chanmaru — A형 입간판",
+      "order": 305
+    },
+    {
+      "title": "Restaurant Flag Banner",
+      "client": "Duet Ktown",
+      "image": "assets/portfolio/restaurant-flag-banner.webp",
+      "alt": "Restaurant Flag Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Flag Banner"
+      ],
+      "serviceKo": [
+        "깃발 배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Duet Ktown — Feather flag",
+      "descKo": "Duet Ktown — 깃발 배너",
+      "order": 306
+    },
+    {
+      "title": "Restaurant Sticker",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-sticker-3.webp",
+      "alt": "Restaurant Sticker designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sticker"
+      ],
+      "serviceKo": [
+        "스티커"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Sticker",
+      "descKo": "Mannashabu — 스티커",
+      "order": 307
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Snowflake",
+      "image": "assets/portfolio/donut-shop-window-graphic-26.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Snowflake — Storefront window graphics",
+      "descKo": "Snowflake — 매장 창문 그래픽",
+      "order": 308
+    },
+    {
+      "title": "Donut Shop Wall Graphic",
+      "client": "Donuts",
+      "image": "assets/portfolio/donut-shop-wall-graphic-2.webp",
+      "alt": "Donut Shop Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donuts — Interior wall graphics",
+      "descKo": "Donuts — 실내 월 그래픽",
+      "order": 309
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Rakko Sushi",
+      "image": "assets/portfolio/restaurant-table-menu-21.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Rakko Sushi — Table menu · Paper",
+      "descKo": "Rakko Sushi — 테이블 메뉴 · 종이",
+      "order": 310
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Seatravel",
+      "image": "assets/portfolio/restaurant-to-go-menu-3.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Seatravel — To-go menu",
+      "descKo": "Seatravel — 투고 메뉴",
+      "order": 311
+    },
+    {
+      "title": "Restaurant Signage",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-signage-3.webp",
+      "alt": "Restaurant Signage designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Storefront signage · Acrylic",
+      "descKo": "Mannashabu — 매장 사인 · 아크릴",
+      "order": 312
+    },
+    {
+      "title": "Restaurant Outdoor Banner",
+      "client": "Song",
+      "image": "assets/portfolio/restaurant-outdoor-banner-3.webp",
+      "alt": "Restaurant Outdoor Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Outdoor Banner"
+      ],
+      "serviceKo": [
+        "외부 배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Song — Exterior building banner",
+      "descKo": "Song — 건물 외벽 배너",
+      "order": 313
+    },
+    {
+      "title": "Restaurant X-Banner",
+      "client": "Soju",
+      "image": "assets/portfolio/restaurant-x-banner-2.webp",
+      "alt": "Restaurant X-Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "X-Banner"
+      ],
+      "serviceKo": [
+        "X배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Soju — X-banner",
+      "descKo": "Soju — X배너",
+      "order": 314
+    },
+    {
+      "title": "Restaurant Business Hours",
+      "client": "Kbbq",
+      "image": "assets/portfolio/restaurant-business-hours-2.webp",
+      "alt": "Restaurant Business Hours designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Business Hours"
+      ],
+      "serviceKo": [
+        "영업시간 안내"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Kbbq — Business hours decal · Decal",
+      "descKo": "Kbbq — 영업시간 안내 데칼 · 데칼",
+      "order": 315
+    },
+    {
+      "title": "Restaurant Picture Board",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-picture-board-4.webp",
+      "alt": "Restaurant Picture Board designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Picture Board"
+      ],
+      "serviceKo": [
+        "픽처보드"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Picture board",
+      "descKo": "Mannashabu — 픽처보드",
+      "order": 316
+    },
+    {
+      "title": "Dessert Shop Window Graphic",
+      "client": "Cafesnowbean",
+      "image": "assets/portfolio/dessert-shop-window-graphic.webp",
+      "alt": "Dessert Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Cafesnowbean — Storefront window graphics",
+      "descKo": "Cafesnowbean — 매장 창문 그래픽",
+      "order": 317
+    },
+    {
+      "title": "Hair Salon Wall Graphic",
+      "client": "Expert Clip",
+      "image": "assets/portfolio/hair-salon-wall-graphic.webp",
+      "alt": "Hair Salon Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Expert Clip — Interior wall graphics",
+      "descKo": "Expert Clip — 실내 월 그래픽",
+      "order": 318
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Rakko Sushi2",
+      "image": "assets/portfolio/restaurant-table-menu-22.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Rakko Sushi2 — Table menu · Paper",
+      "descKo": "Rakko Sushi2 — 테이블 메뉴 · 종이",
+      "order": 319
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Imura",
+      "image": "assets/portfolio/restaurant-to-go-menu-4.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Imura — To-go menu",
+      "descKo": "Imura — 투고 메뉴",
+      "order": 320
+    },
+    {
+      "title": "Restaurant Signage",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-signage-4.webp",
+      "alt": "Restaurant Signage designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Storefront signage · Acrylic",
+      "descKo": "Mannashabu — 매장 사인 · 아크릴",
+      "order": 321
+    },
+    {
+      "title": "Restaurant Outdoor Banner",
+      "client": "Chicken",
+      "image": "assets/portfolio/restaurant-outdoor-banner-4.webp",
+      "alt": "Restaurant Outdoor Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Outdoor Banner"
+      ],
+      "serviceKo": [
+        "외부 배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chicken — Exterior building banner",
+      "descKo": "Chicken — 건물 외벽 배너",
+      "order": 322
+    },
+    {
+      "title": "Restaurant X-Banner",
+      "client": "Texanwangbal",
+      "image": "assets/portfolio/restaurant-x-banner-3.webp",
+      "alt": "Restaurant X-Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "X-Banner"
+      ],
+      "serviceKo": [
+        "X배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Texanwangbal — X-banner",
+      "descKo": "Texanwangbal — X배너",
+      "order": 323
+    },
+    {
+      "title": "Dessert Shop Window Graphic",
+      "client": "Doldolsweet",
+      "image": "assets/portfolio/dessert-shop-window-graphic-2.webp",
+      "alt": "Dessert Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Doldolsweet — Storefront window graphics",
+      "descKo": "Doldolsweet — 매장 창문 그래픽",
+      "order": 324
+    },
+    {
+      "title": "Hair Salon Wall Graphic",
+      "client": "Expert Clip",
+      "image": "assets/portfolio/hair-salon-wall-graphic-2.webp",
+      "alt": "Hair Salon Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Beauty & Wellness"
+      ],
+      "industryKo": [
+        "뷰티 & 웰니스"
+      ],
+      "descEn": "Expert Clip — Interior wall graphics",
+      "descKo": "Expert Clip — 실내 월 그래픽",
+      "order": 325
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Won BBQ",
+      "image": "assets/portfolio/restaurant-table-menu-23.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Won BBQ — Table menu · Paper",
+      "descKo": "Won BBQ — 테이블 메뉴 · 종이",
+      "order": 326
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "DCH",
+      "image": "assets/portfolio/restaurant-to-go-menu-5.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "DCH — To-go menu",
+      "descKo": "DCH — 투고 메뉴",
+      "order": 327
+    },
+    {
+      "title": "Restaurant Signage",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-signage-5.webp",
+      "alt": "Restaurant Signage designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Storefront signage · Acrylic",
+      "descKo": "Mannashabu — 매장 사인 · 아크릴",
+      "order": 328
+    },
+    {
+      "title": "Restaurant Outdoor Banner",
+      "client": "Doldol",
+      "image": "assets/portfolio/restaurant-outdoor-banner-5.webp",
+      "alt": "Restaurant Outdoor Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Outdoor Banner"
+      ],
+      "serviceKo": [
+        "외부 배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Doldol — Exterior building banner",
+      "descKo": "Doldol — 건물 외벽 배너",
+      "order": 329
+    },
+    {
+      "title": "Dessert Shop Window Graphic",
+      "client": "Ice Cabin",
+      "image": "assets/portfolio/dessert-shop-window-graphic-3.webp",
+      "alt": "Dessert Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ice Cabin — Storefront window graphics",
+      "descKo": "Ice Cabin — 매장 창문 그래픽",
+      "order": 330
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Removinyl",
+      "image": "assets/portfolio/restaurant-wall-graphic-2.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Removinyl — Interior wall graphics",
+      "descKo": "Removinyl — 실내 월 그래픽",
+      "order": 331
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Jjang",
+      "image": "assets/portfolio/restaurant-table-menu-24.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjang — Table menu · Paper",
+      "descKo": "Jjang — 테이블 메뉴 · 종이",
+      "order": 332
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Don Chicken",
+      "image": "assets/portfolio/restaurant-to-go-menu-6.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Don Chicken — To-go menu",
+      "descKo": "Don Chicken — 투고 메뉴",
+      "order": 333
+    },
+    {
+      "title": "Market Signage",
+      "client": "Zion Market Fish",
+      "image": "assets/portfolio/market-signage.webp",
+      "alt": "Market Signage designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Zion Market Fish — Storefront signage · Board",
+      "descKo": "Zion Market Fish — 매장 사인 · 보드",
+      "order": 334
+    },
+    {
+      "title": "Restaurant Outdoor Banner",
+      "client": "Manna Grandopening",
+      "image": "assets/portfolio/restaurant-outdoor-banner-6.webp",
+      "alt": "Restaurant Outdoor Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Outdoor Banner"
+      ],
+      "serviceKo": [
+        "외부 배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Manna Grandopening — Exterior building banner",
+      "descKo": "Manna Grandopening — 건물 외벽 배너",
+      "order": 335
+    },
+    {
+      "title": "Dessert Shop Window Graphic",
+      "client": "Dulcet",
+      "image": "assets/portfolio/dessert-shop-window-graphic-4.webp",
+      "alt": "Dessert Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dulcet — Storefront window graphics",
+      "descKo": "Dulcet — 매장 창문 그래픽",
+      "order": 336
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Bon Kbbq",
+      "image": "assets/portfolio/restaurant-wall-graphic-3.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bon Kbbq — Interior wall graphics",
+      "descKo": "Bon Kbbq — 실내 월 그래픽",
+      "order": 337
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Thejinkook",
+      "image": "assets/portfolio/restaurant-table-menu-25.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Thejinkook — Table menu · Paper",
+      "descKo": "Thejinkook — 테이블 메뉴 · 종이",
+      "order": 338
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Ilovesushi",
+      "image": "assets/portfolio/restaurant-to-go-menu-7.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ilovesushi — To-go menu",
+      "descKo": "Ilovesushi — 투고 메뉴",
+      "order": 339
+    },
+    {
+      "title": "Restaurant Signage",
+      "client": "Banchan Sign",
+      "image": "assets/portfolio/restaurant-signage-6.webp",
+      "alt": "Restaurant Signage designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Banchan Sign — Storefront signage · Board",
+      "descKo": "Banchan Sign — 매장 사인 · 보드",
+      "order": 340
+    },
+    {
+      "title": "Restaurant Outdoor Banner",
+      "client": "Ricebowl",
+      "image": "assets/portfolio/restaurant-outdoor-banner-7.webp",
+      "alt": "Restaurant Outdoor Banner designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Outdoor Banner"
+      ],
+      "serviceKo": [
+        "외부 배너"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ricebowl — Exterior building banner",
+      "descKo": "Ricebowl — 건물 외벽 배너",
+      "order": 341
+    },
+    {
+      "title": "Dessert Shop Window Graphic",
+      "client": "Dulcet",
+      "image": "assets/portfolio/dessert-shop-window-graphic-5.webp",
+      "alt": "Dessert Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dulcet — Storefront window graphics",
+      "descKo": "Dulcet — 매장 창문 그래픽",
+      "order": 342
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Bon Kbbq2",
+      "image": "assets/portfolio/restaurant-wall-graphic-4.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bon Kbbq2 — Interior wall graphics",
+      "descKo": "Bon Kbbq2 — 실내 월 그래픽",
+      "order": 343
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Wonbbq",
+      "image": "assets/portfolio/restaurant-table-menu-26.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Wonbbq — Table menu · Paper",
+      "descKo": "Wonbbq — 테이블 메뉴 · 종이",
+      "order": 344
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Kbbq",
+      "image": "assets/portfolio/restaurant-to-go-menu-8.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Kbbq — To-go menu",
+      "descKo": "Kbbq — 투고 메뉴",
+      "order": 345
+    },
+    {
+      "title": "Restaurant Signage",
+      "client": "Songs",
+      "image": "assets/portfolio/restaurant-signage-7.webp",
+      "alt": "Restaurant Signage designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Songs — Storefront signage · Board",
+      "descKo": "Songs — 매장 사인 · 보드",
+      "order": 346
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Davisdonuts",
+      "image": "assets/portfolio/donut-shop-window-graphic-27.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Davisdonuts — Storefront window graphics",
+      "descKo": "Davisdonuts — 매장 창문 그래픽",
+      "order": 347
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Dulcet",
+      "image": "assets/portfolio/restaurant-wall-graphic-5.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dulcet — Interior wall graphics",
+      "descKo": "Dulcet — 실내 월 그래픽",
+      "order": 348
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Scrambler Cafe",
+      "image": "assets/portfolio/restaurant-table-menu-27.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Scrambler Cafe — Table menu · Sealed Laminate",
+      "descKo": "Scrambler Cafe — 테이블 메뉴 · 실링 라미네이트",
+      "order": 349
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Rakkosushi",
+      "image": "assets/portfolio/restaurant-to-go-menu-9.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Rakkosushi — To-go menu",
+      "descKo": "Rakkosushi — 투고 메뉴",
+      "order": 350
+    },
+    {
+      "title": "Restaurant Signage",
+      "client": "Oh K Dog",
+      "image": "assets/portfolio/restaurant-signage-8.webp",
+      "alt": "Restaurant Signage designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Signage"
+      ],
+      "serviceKo": [
+        "사이니지"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Oh K Dog — Storefront signage",
+      "descKo": "Oh K Dog — 매장 사인",
+      "order": 351
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Heyyogurt",
+      "image": "assets/portfolio/restaurant-window-graphic-2.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Heyyogurt — Storefront window graphics",
+      "descKo": "Heyyogurt — 매장 창문 그래픽",
+      "order": 352
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Hotpancake",
+      "image": "assets/portfolio/restaurant-wall-graphic-6.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Hotpancake — Interior wall graphics",
+      "descKo": "Hotpancake — 실내 월 그래픽",
+      "order": 353
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Jjanpocha",
+      "image": "assets/portfolio/restaurant-table-menu-28.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jjanpocha — Table menu · Sealed Laminate",
+      "descKo": "Jjanpocha — 테이블 메뉴 · 실링 라미네이트",
+      "order": 354
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Riverstonecafe",
+      "image": "assets/portfolio/restaurant-to-go-menu-10.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Riverstonecafe — To-go menu",
+      "descKo": "Riverstonecafe — 투고 메뉴",
+      "order": 355
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Kbbq",
+      "image": "assets/portfolio/restaurant-window-graphic-3.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Kbbq — Storefront window graphics",
+      "descKo": "Kbbq — 매장 창문 그래픽",
+      "order": 356
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-wall-graphic-7.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Interior wall graphics",
+      "descKo": "Mannashabu — 실내 월 그래픽",
+      "order": 357
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Starwoodcafe",
+      "image": "assets/portfolio/restaurant-table-menu-29.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Starwoodcafe — Table menu · Sealed Laminate",
+      "descKo": "Starwoodcafe — 테이블 메뉴 · 실링 라미네이트",
+      "order": 358
+    },
+    {
+      "title": "Restaurant To-go Menu",
+      "client": "Wangjokbal",
+      "image": "assets/portfolio/restaurant-to-go-menu-11.webp",
+      "alt": "Restaurant To-go Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "To-go Menu"
+      ],
+      "serviceKo": [
+        "투고 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Wangjokbal — To-go menu",
+      "descKo": "Wangjokbal — 투고 메뉴",
+      "order": 359
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-window-graphic-4.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Storefront window graphics",
+      "descKo": "Mannashabu — 매장 창문 그래픽",
+      "order": 360
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-wall-graphic-8.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Interior wall graphics",
+      "descKo": "Mannashabu — 실내 월 그래픽",
+      "order": 361
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Lonestar",
+      "image": "assets/portfolio/restaurant-table-menu-30.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Lonestar — Table menu",
+      "descKo": "Lonestar — 테이블 메뉴",
+      "order": 362
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-window-graphic-5.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Storefront window graphics",
+      "descKo": "Mannashabu — 매장 창문 그래픽",
+      "order": 363
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-wall-graphic-9.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Interior wall graphics",
+      "descKo": "Mannashabu — 실내 월 그래픽",
+      "order": 364
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Edohana",
+      "image": "assets/portfolio/restaurant-table-menu-31.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Edohana — Table menu",
+      "descKo": "Edohana — 테이블 메뉴",
+      "order": 365
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Jeongkitchen",
+      "image": "assets/portfolio/restaurant-window-graphic-6.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Jeongkitchen — Storefront window graphics",
+      "descKo": "Jeongkitchen — 매장 창문 그래픽",
+      "order": 366
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Momo",
+      "image": "assets/portfolio/restaurant-wall-graphic-10.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Momo — Interior wall graphics",
+      "descKo": "Momo — 실내 월 그래픽",
+      "order": 367
+    },
+    {
+      "title": "Restaurant Table Menu",
+      "client": "Edohana2",
+      "image": "assets/portfolio/restaurant-table-menu-32.webp",
+      "alt": "Restaurant Table Menu designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Menu"
+      ],
+      "serviceKo": [
+        "테이블 메뉴"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Edohana2 — Table menu",
+      "descKo": "Edohana2 — 테이블 메뉴",
+      "order": 368
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Dch",
+      "image": "assets/portfolio/restaurant-window-graphic-7.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dch — Storefront window graphics",
+      "descKo": "Dch — 매장 창문 그래픽",
+      "order": 369
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Ohkdog",
+      "image": "assets/portfolio/restaurant-wall-graphic-11.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ohkdog — Interior wall graphics",
+      "descKo": "Ohkdog — 실내 월 그래픽",
+      "order": 370
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Gopchang",
+      "image": "assets/portfolio/restaurant-window-graphic-8.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Gopchang — Storefront window graphics",
+      "descKo": "Gopchang — 매장 창문 그래픽",
+      "order": 371
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Ohkdog",
+      "image": "assets/portfolio/restaurant-wall-graphic-12.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ohkdog — Interior wall graphics",
+      "descKo": "Ohkdog — 실내 월 그래픽",
+      "order": 372
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Kbbq",
+      "image": "assets/portfolio/restaurant-window-graphic-9.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Kbbq — Storefront window graphics",
+      "descKo": "Kbbq — 매장 창문 그래픽",
+      "order": 373
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Ohkdog",
+      "image": "assets/portfolio/restaurant-wall-graphic-13.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ohkdog — Interior wall graphics",
+      "descKo": "Ohkdog — 실내 월 그래픽",
+      "order": 374
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Kbbq",
+      "image": "assets/portfolio/restaurant-window-graphic-10.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Kbbq — Storefront window graphics",
+      "descKo": "Kbbq — 매장 창문 그래픽",
+      "order": 375
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Wonbbq",
+      "image": "assets/portfolio/restaurant-wall-graphic-14.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Wonbbq — Interior wall graphics",
+      "descKo": "Wonbbq — 실내 월 그래픽",
+      "order": 376
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-window-graphic-11.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Storefront window graphics",
+      "descKo": "Mannashabu — 매장 창문 그래픽",
+      "order": 377
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Xodog",
+      "image": "assets/portfolio/restaurant-wall-graphic-15.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Xodog — Interior wall graphics",
+      "descKo": "Xodog — 실내 월 그래픽",
+      "order": 378
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-window-graphic-12.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Storefront window graphics",
+      "descKo": "Mannashabu — 매장 창문 그래픽",
+      "order": 379
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-wall-graphic-16.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Interior wall graphics",
+      "descKo": "Mannashabu — 실내 월 그래픽",
+      "order": 380
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Thaibox",
+      "image": "assets/portfolio/restaurant-window-graphic-13.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Thaibox — Storefront window graphics",
+      "descKo": "Thaibox — 매장 창문 그래픽",
+      "order": 381
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Walldecal",
+      "image": "assets/portfolio/restaurant-wall-graphic-17.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Walldecal — Interior wall graphics",
+      "descKo": "Walldecal — 실내 월 그래픽",
+      "order": 382
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Tlj",
+      "image": "assets/portfolio/restaurant-window-graphic-14.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Tlj — Storefront window graphics",
+      "descKo": "Tlj — 매장 창문 그래픽",
+      "order": 383
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Cracked Ncrepe",
+      "image": "assets/portfolio/restaurant-wall-graphic-18.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Cracked Ncrepe — Interior wall graphics",
+      "descKo": "Cracked Ncrepe — 실내 월 그래픽",
+      "order": 384
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Cc",
+      "image": "assets/portfolio/restaurant-window-graphic-15.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Cc — Storefront window graphics",
+      "descKo": "Cc — 매장 창문 그래픽",
+      "order": 385
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Donchicken",
+      "image": "assets/portfolio/restaurant-wall-graphic-19.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donchicken — Interior wall graphics",
+      "descKo": "Donchicken — 실내 월 그래픽",
+      "order": 386
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Dulcet",
+      "image": "assets/portfolio/restaurant-window-graphic-16.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dulcet — Storefront window graphics",
+      "descKo": "Dulcet — 매장 창문 그래픽",
+      "order": 387
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-wall-graphic-20.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Interior wall graphics",
+      "descKo": "Mannashabu — 실내 월 그래픽",
+      "order": 388
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Kadan",
+      "image": "assets/portfolio/restaurant-window-graphic-17.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Kadan — Storefront window graphics",
+      "descKo": "Kadan — 매장 창문 그래픽",
+      "order": 389
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-wall-graphic-21.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Interior wall graphics",
+      "descKo": "Mannashabu — 실내 월 그래픽",
+      "order": 390
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Sushikyoto",
+      "image": "assets/portfolio/restaurant-window-graphic-18.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Sushikyoto — Storefront window graphics",
+      "descKo": "Sushikyoto — 매장 창문 그래픽",
+      "order": 391
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Mannashabu",
+      "image": "assets/portfolio/restaurant-wall-graphic-22.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Mannashabu — Interior wall graphics",
+      "descKo": "Mannashabu — 실내 월 그래픽",
+      "order": 392
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Yoon",
+      "image": "assets/portfolio/restaurant-window-graphic-19.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Yoon — Storefront window graphics",
+      "descKo": "Yoon — 매장 창문 그래픽",
+      "order": 393
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Meat",
+      "image": "assets/portfolio/restaurant-wall-graphic-23.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Meat — Interior wall graphics",
+      "descKo": "Meat — 실내 월 그래픽",
+      "order": 394
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Bbqchicken",
+      "image": "assets/portfolio/restaurant-window-graphic-20.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Bbqchicken — Storefront window graphics",
+      "descKo": "Bbqchicken — 매장 창문 그래픽",
+      "order": 395
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Ohkdog",
+      "image": "assets/portfolio/restaurant-wall-graphic-24.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ohkdog — Interior wall graphics",
+      "descKo": "Ohkdog — 실내 월 그래픽",
+      "order": 396
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Chanmaru2",
+      "image": "assets/portfolio/restaurant-window-graphic-21.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chanmaru2 — Storefront window graphics",
+      "descKo": "Chanmaru2 — 매장 창문 그래픽",
+      "order": 397
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Shinseon",
+      "image": "assets/portfolio/restaurant-wall-graphic-25.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Shinseon — Interior wall graphics",
+      "descKo": "Shinseon — 실내 월 그래픽",
+      "order": 398
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Chanmaru",
+      "image": "assets/portfolio/restaurant-window-graphic-22.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chanmaru — Storefront window graphics",
+      "descKo": "Chanmaru — 매장 창문 그래픽",
+      "order": 399
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Topscafe",
+      "image": "assets/portfolio/restaurant-wall-graphic-26.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Topscafe — Interior wall graphics",
+      "descKo": "Topscafe — 실내 월 그래픽",
+      "order": 400
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Chanmaru",
+      "image": "assets/portfolio/restaurant-window-graphic-23.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Chanmaru — Storefront window graphics",
+      "descKo": "Chanmaru — 매장 창문 그래픽",
+      "order": 401
+    },
+    {
+      "title": "Retail Wall Graphic",
+      "client": "Washndry",
+      "image": "assets/portfolio/retail-wall-graphic.webp",
+      "alt": "Retail Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Washndry — Interior wall graphics",
+      "descKo": "Washndry — 실내 월 그래픽",
+      "order": 402
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Dalbeer",
+      "image": "assets/portfolio/restaurant-window-graphic-24.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Dalbeer — Storefront window graphics",
+      "descKo": "Dalbeer — 매장 창문 그래픽",
+      "order": 403
+    },
+    {
+      "title": "Retail Wall Graphic",
+      "client": "Washndry",
+      "image": "assets/portfolio/retail-wall-graphic-2.webp",
+      "alt": "Retail Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Washndry — Interior wall graphics",
+      "descKo": "Washndry — 실내 월 그래픽",
+      "order": 404
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Donchicken",
+      "image": "assets/portfolio/restaurant-window-graphic-25.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Donchicken — Storefront window graphics",
+      "descKo": "Donchicken — 매장 창문 그래픽",
+      "order": 405
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Ohkdog",
+      "image": "assets/portfolio/restaurant-window-graphic-26.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ohkdog — Storefront window graphics",
+      "descKo": "Ohkdog — 매장 창문 그래픽",
+      "order": 406
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Ohkdog",
+      "image": "assets/portfolio/restaurant-window-graphic-27.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Ohkdog — Storefront window graphics",
+      "descKo": "Ohkdog — 매장 창문 그래픽",
+      "order": 407
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Teriyaki",
+      "image": "assets/portfolio/restaurant-window-graphic-28.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Teriyaki — Storefront window graphics",
+      "descKo": "Teriyaki — 매장 창문 그래픽",
+      "order": 408
+    },
+    {
+      "title": "Restaurant Window Graphic",
+      "client": "Tsunami",
+      "image": "assets/portfolio/restaurant-window-graphic-29.webp",
+      "alt": "Restaurant Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Tsunami — Storefront window graphics",
+      "descKo": "Tsunami — 매장 창문 그래픽",
+      "order": 409
+    },
+    {
+      "title": "Donut Shop Window Graphic",
+      "client": "Shins Donut Palace",
+      "image": "assets/portfolio/donut-shop-window-graphic-28.webp",
+      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Food & Beverage"
+      ],
+      "industryKo": [
+        "요식업"
+      ],
+      "descEn": "Shins Donut Palace — Storefront window graphics",
+      "descKo": "Shins Donut Palace — 매장 창문 그래픽",
+      "order": 410
     }
   ]
 }

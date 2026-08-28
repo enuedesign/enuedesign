@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/enuedesign        # <- change after creating the repo
+  repo: enuedesign/enuedesign
   branch: main
 
 # where uploaded images are stored / how the site refers to them
@@ -42,12 +42,12 @@ collections:
                 name: serviceEn
                 widget: select
                 multiple: true
-                options: ["2D/3D Rendering","Apparel","Branding","Brochure","Bulletin","Business Card","Canvas","Coupon","Digital Ad","Digital Menu","Drink Menu","EDDM","Envelope","Flyer","Gift Card","Invoice","Letterhead","Logo","Menu Board","Name Badge","Outdoor Banner","Packaging","Picture Board","Poster","Presentation Folder","Reception Sign","Signage","Stamp Card","Standing Banner","Sticker","Sublimation Goods","Table Menu","Table Tent","To-go Menu","Vehicle Decal","Wall Graphic","Website","Window Decal","Window Graphic","Window Poster","X-Banner","Yard Sign"]
+                options: ["2D/3D Rendering","A-Sign","Apparel","Branding","Brochure","Bulletin","Business Card","Business Hours","Canvas","Coupon","Digital Ad","Digital Menu","Drink Menu","EDDM","Envelope","Flag Banner","Flyer","Gift Card","Invoice","Letterhead","Logo","Menu Board","Name Badge","Outdoor Banner","Packaging","Picture Board","Poster","Presentation Folder","Reception Sign","Signage","Stamp Card","Standing Banner","Sticker","Sublimation Goods","Table Menu","Table Tent","To-go Menu","Vehicle Decal","Wall Graphic","Website","Window Decal","Window Graphic","Window Poster","X-Banner","Yard Sign"]
               - label: "Service (Korean)"
                 name: serviceKo
                 widget: select
                 multiple: true
-                options: ["2D/3D 렌더링","의류","브랜딩","브로슈어","주보","명함","캔버스","쿠폰","디지털 광고","디지털 메뉴","음료 메뉴","EDDM 우편광고","봉투","전단지","기프트카드","인보이스","레터헤드","로고","메뉴보드","명찰","외부 배너","패키지","픽처보드","포스터","프레젠테이션 폴더","리셉션 사인","사이니지","스탬프 카드","스탠딩 배너","스티커","승화 굿즈","테이블 메뉴","테이블 텐트","투고 메뉴","차량 데칼","월 그래픽","웹사이트","윈도우 데칼","윈도우 그래픽","윈도우 포스터","X배너","야드사인"]
+                options: ["2D/3D 렌더링","A형 입간판","의류","브랜딩","브로슈어","주보","명함","영업시간 안내","캔버스","쿠폰","디지털 광고","디지털 메뉴","음료 메뉴","EDDM 우편광고","봉투","깃발 배너","전단지","기프트카드","인보이스","레터헤드","로고","메뉴보드","명찰","외부 배너","패키지","픽처보드","포스터","프레젠테이션 폴더","리셉션 사인","사이니지","스탬프 카드","스탠딩 배너","스티커","승화 굿즈","테이블 메뉴","테이블 텐트","투고 메뉴","차량 데칼","월 그래픽","웹사이트","윈도우 데칼","윈도우 그래픽","윈도우 포스터","X배너","야드사인"]
 
               - label: "Industry (English)"
                 name: industryEn

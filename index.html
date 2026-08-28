@@ -5,6 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>e.NUE Design | Logo, Signs, Menus &amp; Print — Carrollton, TX</title>
 <meta name="description" content="Design and printing under one roof in Carrollton, TX. Logos, business cards, menus, brochures, window and wall graphics for local businesses.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="assets/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<meta name="theme-color" content="#EA2029">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
@@ -352,6 +356,27 @@ body.ko p,body.ko li,body.ko .faq-a-inner,body.ko .card-body p{word-break:keep-a
 /* 숫자와 영문 규격 표기는 라틴 폰트가 더 또렷하다 */
 body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
 
+/* ================= 회사 소개 — 이름의 뜻 ================= */
+.about-copy{max-width:46ch;display:flex;flex-direction:column;gap:14px}
+.about-copy .sec-desc{max-width:none;padding-bottom:0}
+/* 이름 풀이 한 줄. 회사의 출발점이라 문단보다 앞세워 눈에 먼저 들어오게 한다.
+   #about 은 배경이 검정(--ink)이라 글자는 반드시 밝은 색이어야 한다.
+   브랜드 빨강 #EA2029 는 이 배경에서 대비 4.1:1 로 본문 크기에 모자라,
+   같은 계열의 밝은 빨강(#FF4D55, 5.6:1)을 쓴다. */
+.name-origin{
+  font-size:17.5px;line-height:1.55;
+  color:var(--beige);
+  padding-left:18px;border-left:2px solid #FF4D55;
+}
+.name-origin em{
+  font-family:'Instrument Serif',serif;font-style:italic;font-weight:400;
+  color:#FF4D55;font-size:1.06em;
+}
+body.ko .name-origin em{
+  font-family:'Nanum Myeongjo',serif;font-style:normal;font-weight:700;font-size:1em;
+}
+@media(max-width:760px){ .about-copy{max-width:none} }
+
 /* ================= 크게 보기(모달) =================
    원래는 16:9 로 고정하고 object-fit:cover 라 명함·포스터처럼 세로가 긴 작업물이
    위아래로 잘려 나갔다. 포트폴리오에서 작업물이 잘리면 볼 이유가 없다.
@@ -545,7 +570,11 @@ body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
   <div class="wrap">
     <div class="sec-head">
       <div><div class="sec-label" data-i="about.label"></div><h2 id="aboutH2"></h2></div>
-      <p class="sec-desc" data-i="about.desc"></p>
+      <div class="about-copy">
+        <p class="name-origin" id="aboutOrigin"></p>
+        <p class="sec-desc" data-i="about.story"></p>
+        <p class="sec-desc" data-i="about.desc"></p>
+      </div>
     </div>
     <div class="stats" id="stats"></div>
     <div class="values" id="values"></div>
@@ -622,8 +651,8 @@ body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
       <aside class="contact-card">
         <div class="cc-group">
           <div class="cc-h" data-i="loc.label"></div>
-          <div class="cc-line"><strong data-i="loc.1"></strong><a class="cc-addr" href="https://www.google.com/maps/search/?api=1&query=1012%20Macarthur%20Dr.%20Ste%20164%2C%20Carrollton%2C%20TX%2075007" target="_blank" rel="noopener">1012 Macarthur Dr. Ste 164<br>Carrollton, TX 75007</a></div>
-          <div class="cc-line"><strong data-i="loc.2"></strong><a class="cc-addr" href="https://www.google.com/maps/search/?api=1&query=1420%20Valwood%20Pkwy.%20Ste%20175%2C%20Carrollton%2C%20TX%2075006" target="_blank" rel="noopener">1420 Valwood Pkwy. Ste 175<br>Carrollton, TX 75006</a></div>
+          <div class="cc-line"><strong data-i="loc.1"></strong><a class="cc-addr" href="https://maps.app.goo.gl/wdXbkxzWsumn3XeE9" target="_blank" rel="noopener">1012 Macarthur Dr. Ste 164<br>Carrollton, TX 75007</a></div>
+          <div class="cc-line"><strong data-i="loc.2"></strong><a class="cc-addr" href="https://maps.app.goo.gl/GDM2fu7k2WrFxfX17" target="_blank" rel="noopener">1420 Valwood Pkwy. Ste 175<br>Carrollton, TX 75006</a></div>
         </div>
         <div class="cc-group">
           <div class="cc-h" data-i="foot.touch"></div>
@@ -795,11 +824,14 @@ const EXTRA = {
     "form.types": ["Logo & branding","Business cards & stationery","Menus","Posters, brochures, flyers","Coupons & promotions","Window graphics","Wall graphics","Signs & banners","Something else"],
 
     "loc.label": "Locations",
-    "loc.1": "Location 1",
-    "loc.2": "Location 2",
+    "loc.1": "Office",
+    "loc.2": "Studio",
     "foot.office": "Office",
 
     "foot.locations": "Locations",
+
+    "about.origin": "e.NUE — <em>El</em> (Hebrew for God) + <em>New</em> — God makes all things new.",
+    "about.story": "The name e.NUE Design carries a simple meaning. \"e\" comes from \"El,\" the Hebrew word for God, and \"NUE\" is drawn from the English word \"New.\" Together, it means \"God makes all things new.\" We carry that spirit into every brand and space we design.",
 
     "legal.link": "Copyright & Usage",
     "legal.title": "Copyright and Usage Policy",
@@ -837,11 +869,14 @@ const EXTRA = {
     "form.types": ["로고 & 브랜딩","명함 & 문구류","메뉴판","포스터·브로셔·플라이어","쿠폰 & 프로모션","윈도우 그래픽","월 그래픽","사인 & 배너","기타"],
 
     "loc.label": "오시는 길",
-    "loc.1": "1호점",
-    "loc.2": "2호점",
+    "loc.1": "사무실",
+    "loc.2": "스튜디오",
     "foot.office": "사무실",
 
     "foot.locations": "오시는 길",
+
+    "about.origin": "e.NUE — <em>El</em>(히브리어로 하나님) + <em>New</em> — 하나님은 모든 것을 새롭게 하십니다.",
+    "about.story": "e.NUE Design 이라는 이름에는 단순한 뜻이 담겨 있습니다. \"e\" 는 하나님을 뜻하는 히브리어 \"El\" 에서, \"NUE\" 는 영어 단어 \"New\" 에서 왔습니다. 합하면 \"하나님이 모든 것을 새롭게 하신다\" 는 의미입니다. 저희는 그 마음으로 모든 브랜드와 공간을 디자인합니다.",
 
     "legal.link": "저작권 안내",
     "legal.title": "저작권 및 이용 안내",
@@ -949,8 +984,8 @@ function renderFooter(){
   $('footCols').innerHTML = `
     <div class="f-col"><h5>${t('foot.locations')}</h5>
       <div class="f-contact">
-        <div class="cc-line"><strong>${t('loc.1')}</strong><a class="cc-addr" href="https://www.google.com/maps/search/?api=1&query=1012%20Macarthur%20Dr.%20Ste%20164%2C%20Carrollton%2C%20TX%2075007" target="_blank" rel="noopener">1012 Macarthur Dr. Ste 164<br>Carrollton, TX 75007</a></div>
-        <div class="cc-line"><strong>${t('loc.2')}</strong><a class="cc-addr" href="https://www.google.com/maps/search/?api=1&query=1420%20Valwood%20Pkwy.%20Ste%20175%2C%20Carrollton%2C%20TX%2075006" target="_blank" rel="noopener">1420 Valwood Pkwy. Ste 175<br>Carrollton, TX 75006</a></div>
+        <div class="cc-line"><strong>${t('loc.1')}</strong><a class="cc-addr" href="https://maps.app.goo.gl/wdXbkxzWsumn3XeE9" target="_blank" rel="noopener">1012 Macarthur Dr. Ste 164<br>Carrollton, TX 75007</a></div>
+        <div class="cc-line"><strong>${t('loc.2')}</strong><a class="cc-addr" href="https://maps.app.goo.gl/GDM2fu7k2WrFxfX17" target="_blank" rel="noopener">1420 Valwood Pkwy. Ste 175<br>Carrollton, TX 75006</a></div>
       </div></div>
     <div class="f-col"><h5>${t('foot.touch')}</h5>
       <div class="f-contact">
@@ -1100,6 +1135,7 @@ function renderAll(){
   $('steps').innerHTML = t('steps').map(s=>`
     <div class="step"><div class="step-n">${s.n}</div><h3>${s.h}</h3><p>${s.p}</p></div>`).join('');
 
+  $('aboutOrigin').innerHTML = t('about.origin');
   renderFooter(); renderFaq(); renderForm(); syncLinks();
 }
 
