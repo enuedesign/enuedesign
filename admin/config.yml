@@ -53,12 +53,12 @@ collections:
                 name: industryEn
                 widget: select
                 multiple: true
-                options: ["Beauty & Wellness","Church & Nonprofit","Education","Food & Beverage","Industrial & Logistics","Medical & Dental","Professional Services","Real Estate & Construction","Retail"]
+                options: ["Beauty & Wellness","Church & Nonprofit","Dessert & Cafe","Donut Shop","Education","Industrial & Logistics","Medical & Dental","Professional Services","Real Estate & Construction","Restaurant","Retail"]
               - label: "Industry (Korean)"
                 name: industryKo
                 widget: select
                 multiple: true
-                options: ["뷰티 & 웰니스","교회 & 비영리","교육","요식업","산업 & 물류","메디컬 & 덴탈","서비스업","부동산 & 건설","리테일"]
+                options: ["뷰티 & 웰니스","교회 & 비영리","디저트 & 카페","도넛샵","교육","산업 & 물류","메디컬 & 덴탈","서비스업","부동산 & 건설","레스토랑","리테일"]
 
               - { label: "Description (English)", name: descEn, widget: text }
               - { label: "Description (Korean)",  name: descKo, widget: text }
