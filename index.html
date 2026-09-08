@@ -14,7 +14,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@500;700&display=swap">
 <style>
 :root{
   --ink:#12161B;
@@ -344,7 +344,7 @@ body.ko h1 em,
 body.ko h2 em,
 body.ko h3 em,
 body.ko .pf-hero h1 em{
-  font-family:'Nanum Myeongjo',serif;
+  font-family:'Noto Serif KR',serif;
   font-style:normal;
   font-weight:700;
 }
@@ -390,6 +390,108 @@ body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
   .nav-panel .nav-links a{font-size:18px}
 }
 
+/* ================= 2026-08-28 메인 문구 개편 =================
+   빨간 강조는 영문·한글 모두 기존 규칙을 그대로 따른다.
+   영문 = Instrument Serif 기울임, 한글 = Noto Serif KR 직립 굵게.
+   그래서 <em class="s"> 에 따로 서체를 지정하지 않는다. 지정하면
+   같은 페이지 안에서 강조 서체가 두 가지로 갈린다. class="s" 는
+   문구 개편에서 새로 넣은 강조라는 표시로만 남겨둔다. */
+
+/* 히어로 제목 크기 —
+   영문은 74 → 69px 로 낮춘다.
+   한글은 그 69px 에서 다시 5px 낮춘 64px. 폭 제한(19~26ch)이 걸려 있으면
+   "전에," 가 혼자 떨어져 네 줄이 되므로 한글에서는 제한을 푼다.
+   데스크톱 콘텐츠 폭 1112px 기준으로 첫 줄이 871px 이라 <br> 기준 두 줄로 떨어진다.
+   휴대폰에서는 자연스럽게 더 접힌다. */
+.hero h1{font-size:clamp(36px,5.6vw,69px)}
+body.ko .hero h1{
+  max-width:none;
+  font-size:clamp(26px,5.2vw,64px);
+  line-height:1.16;
+}
+
+/* 서비스 5칸 · 과정 5단계 · Why e.NUE 5장.
+   기본 auto-fit 값으로는 1240px 폭에서 4+1 로 갈라져 마지막 하나만 떨어진다.
+   넓은 화면에서는 5칸을 한 줄에 못 박고, 좁아지면 원래대로 접히게 둔다.
+   칸이 좁아지는 만큼 카드 안쪽 여백과 글자도 함께 줄인다. */
+@media(min-width:1080px){
+  .steps{grid-template-columns:repeat(5,1fr);gap:24px}
+  .svc-grid{grid-template-columns:repeat(5,1fr)}
+  .svc{padding:30px 22px}
+  .svc h3{font-size:17.5px;margin-bottom:10px}
+  .svc p{font-size:14px;line-height:1.6}
+  .svc ul{margin-top:15px;gap:6px}
+  .svc li{font-size:11.5px;padding:3px 9px}
+  .svc-note{margin-top:14px;padding-top:11px;font-size:12.5px}
+}
+.values-lead{
+  font-size:clamp(17px,1.5vw,20px);line-height:1.5;font-weight:500;
+  color:var(--beige);max-width:56ch;margin:0 0 clamp(26px,3.2vw,38px);
+}
+@media(min-width:1080px){
+  .values{grid-template-columns:repeat(5,1fr);gap:26px}
+}
+
+/* 문단이 두 개 이상인 섹션 머리말 */
+.form-copy{display:flex;flex-direction:column;gap:12px;max-width:62ch}
+.form-copy .sec-desc{max-width:none;padding-bottom:0}
+
+/* 히어로 아래 취급 품목 두 줄 */
+.hero-meta{
+  margin-top:clamp(28px,3.4vw,42px);padding-top:20px;
+  border-top:1px solid var(--line);display:flex;flex-wrap:wrap;gap:6px 28px;
+  font-size:13.5px;color:var(--muted);letter-spacing:.01em;
+}
+
+/* 서비스 카드의 가격 한 줄 (웹 카드에만 있다) */
+.svc-note{
+  margin-top:16px;padding-top:13px;border-top:1px solid var(--line);
+  font-size:13.5px;font-weight:600;color:var(--accent);letter-spacing:-.01em;
+}
+
+/* 회사소개 — 신조 네 줄. 본문보다 밝고 크게, 왼쪽 선으로 묶는다 */
+.about-creed{
+  font-size:clamp(16.5px,1.5vw,19px);line-height:1.65;font-weight:500;
+  color:var(--beige);padding-left:22px;border-left:3px solid #FF4D55;margin:6px 0;
+}
+.values-label{margin:clamp(46px,6vw,74px) 0 12px}
+#about .values-label{color:rgba(233,228,217,.5)}
+
+/* Brand to Space — 베이지 배경의 독립 섹션.
+   접점을 한 줄씩 쌓아 "웹 → 매장 → 메뉴 → 사인 → 명함" 순서가 눈에 보이게 한다. */
+#brand{background:var(--beige-deep)}
+.brand-lines{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:7px}
+.brand-lines li{
+  font-size:16.5px;line-height:1.5;color:var(--ink);padding-left:20px;position:relative;
+}
+.brand-lines li::before{
+  content:"";position:absolute;left:0;top:.62em;
+  width:9px;height:1.5px;background:var(--accent);
+}
+.brand-chain{
+  margin:clamp(34px,4.4vw,54px) 0 14px;
+  font-size:clamp(20px,2.6vw,32px);font-weight:700;letter-spacing:-.02em;color:var(--ink);
+}
+.brand-tail{margin:0;font-size:16.5px;color:var(--ink-soft);line-height:1.6}
+
+/* 문의 폼 — 짧은 항목은 두 개씩 나란히 */
+.form-intro{margin:0 0 22px;font-size:15px;color:var(--ink-soft);line-height:1.6;max-width:52ch}
+.field-row{display:grid;grid-template-columns:1fr 1fr;gap:0 18px}
+@media(max-width:560px){ .field-row{grid-template-columns:1fr} }
+
+/* 문의 카드 머리 */
+.cc-top{border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:4px}
+.cc-title{font-size:17px;font-weight:700;letter-spacing:-.02em;margin-bottom:7px}
+.cc-loc{font-size:14px;color:var(--ink-soft);margin-bottom:9px}
+.cc-note{font-size:13.5px;color:var(--muted);line-height:1.55}
+
+/* 푸터 스튜디오 한 줄 + 취급 품목 */
+.f-studio{
+  font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;
+  color:rgba(233,228,217,.55);margin:0 0 10px;
+}
+.f-meta{margin-top:16px;font-size:13px;line-height:1.75;color:rgba(233,228,217,.42)}
+
 /* ================= 회사 소개 — 이름의 뜻 =================
    기존에는 제목(왼쪽) / 본문(오른쪽) 2단이라 가로 폭을 반씩 나눠 썼다.
    그래서 제목은 "big brands" 에서 줄이 갈라지고, 본문 두 문단은
@@ -421,7 +523,7 @@ body.ko .filter,body.ko .tag{font-feature-settings:'tnum'}
    23px 이 정도 크기에서는 뭉개지지 않고 획이 또렷하게 굵어진다. */
 .name-origin em,
 body.ko .name-origin em{
-  font-family:'Instrument Serif','Nanum Myeongjo',serif;
+  font-family:'Instrument Serif','Noto Serif KR',serif;
   font-style:normal;font-weight:700;
   color:#FF4D55;font-size:1.04em;
 }
@@ -574,6 +676,7 @@ body.ko .name-origin em{
         <a href="#services" data-link data-i="nav.services"></a>
         <a href="portfolio.html" data-link class="" data-i="nav.work"></a>
         <a href="#about" data-link data-i="nav.about"></a>
+        <a href="#process" data-link data-i="nav.process"></a>
         <a href="#faq" data-link data-i="faq.label"></a>
       </nav>
       <div class="lang">
@@ -592,8 +695,12 @@ body.ko .name-origin em{
     <h1 id="heroH1"></h1>
     <p class="hero-sub" data-i="hero.sub"></p>
     <div class="hero-cta">
-      <a href="portfolio.html" data-link class="btn" data-i="hero.cta1"></a>
-      <a href="#contact" class="btn btn-ghost" data-i="hero.cta2"></a>
+      <a href="#contact" class="btn" data-i="hero.cta1"></a>
+      <a href="portfolio.html" data-link class="btn btn-ghost" data-i="hero.cta2"></a>
+    </div>
+    <div class="hero-meta">
+      <div data-i="hero.meta1"></div>
+      <div data-i="hero.meta2"></div>
     </div>
   </div>
   <div class="marquee"><div class="marquee-track" id="mq"></div></div>
@@ -613,7 +720,10 @@ body.ko .name-origin em{
   <div class="wrap">
     <div class="sec-head">
       <div><div class="sec-label" data-i="work.label"></div><h2 id="workH2"></h2></div>
-      <p class="sec-desc" data-i="work.desc"></p>
+      <div class="form-copy">
+        <p class="sec-desc" data-i="work.desc"></p>
+        <p class="sec-desc" data-i="work.desc2"></p>
+      </div>
     </div>
     <a class="pf-cta" href="portfolio.html" data-link>
       <div>
@@ -634,10 +744,29 @@ body.ko .name-origin em{
         <p class="name-origin" id="aboutOrigin"></p>
         <p class="sec-desc" data-i="about.story"></p>
         <p class="sec-desc" data-i="about.desc"></p>
+        <p class="sec-desc" data-i="about.desc3"></p>
+        <p class="about-creed" data-i="about.creed"></p>
+        <p class="sec-desc" data-i="about.close"></p>
       </div>
     </div>
     <div class="stats" id="stats"></div>
+    <div class="sec-label values-label" data-i="values.label"></div>
+    <p class="values-lead" data-i="values.lead"></p>
     <div class="values" id="values"></div>
+  </div>
+</section>
+
+<section id="brand">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><div class="sec-label" data-i="brand.label"></div><h2 id="brandH2"></h2></div>
+      <div class="form-copy">
+        <ul class="brand-lines" id="brandLines"></ul>
+        <p class="sec-desc" data-i="brand.body"></p>
+      </div>
+    </div>
+    <div class="brand-chain" data-i="brand.chain"></div>
+    <p class="brand-tail" data-i="brand.tail"></p>
   </div>
 </section>
 
@@ -672,7 +801,10 @@ body.ko .name-origin em{
         <div class="sec-label" data-i="form.label"></div>
         <h2 id="formH2"></h2>
       </div>
-      <p class="sec-desc" data-i="form.desc"></p>
+      <div class="form-copy">
+        <p class="sec-desc" data-i="form.desc"></p>
+        <p class="sec-desc" data-i="form.desc2"></p>
+      </div>
     </div>
 
     <div class="form-wrap">
@@ -683,17 +815,27 @@ body.ko .name-origin em{
         <input type="hidden" name="from_name" value="e.NUE Design website">
         <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
 
-        <div class="field">
-          <label for="f-name" data-i="form.name"></label>
-          <input id="f-name" name="name" type="text" required autocomplete="name">
+        <p class="form-intro" data-i="form.intro"></p>
+
+        <div class="field-row">
+          <div class="field">
+            <label for="f-name" data-i="form.name"></label>
+            <input id="f-name" name="name" type="text" required autocomplete="name">
+          </div>
+          <div class="field">
+            <label for="f-biz" data-i="form.biz"></label>
+            <input id="f-biz" name="business_name" type="text" autocomplete="organization">
+          </div>
         </div>
-        <div class="field">
-          <label for="f-email" data-i="form.email"></label>
-          <input id="f-email" name="email" type="email" required autocomplete="email">
-        </div>
-        <div class="field">
-          <label for="f-phone" data-i="form.phone"></label>
-          <input id="f-phone" name="phone" type="tel" autocomplete="tel">
+        <div class="field-row">
+          <div class="field">
+            <label for="f-email" data-i="form.email"></label>
+            <input id="f-email" name="email" type="email" required autocomplete="email">
+          </div>
+          <div class="field">
+            <label for="f-phone" data-i="form.phone"></label>
+            <input id="f-phone" name="phone" type="tel" autocomplete="tel">
+          </div>
         </div>
         <div class="field">
           <label for="f-type" data-i="form.type"></label>
@@ -703,12 +845,27 @@ body.ko .name-origin em{
           <label for="f-msg" data-i="form.msg"></label>
           <textarea id="f-msg" name="message" required></textarea>
         </div>
+        <div class="field-row">
+          <div class="field">
+            <label for="f-size" data-i="form.size"></label>
+            <input id="f-size" name="size_quantity" type="text">
+          </div>
+          <div class="field">
+            <label for="f-when" data-i="form.when"></label>
+            <input id="f-when" name="timeline" type="text">
+          </div>
+        </div>
 
         <button type="submit" class="btn" id="formBtn" data-i="form.send"></button>
         <div class="form-msg" id="formMsg"></div>
       </form>
 
       <aside class="contact-card">
+        <div class="cc-group cc-top">
+          <div class="cc-title" data-i="cc.h"></div>
+          <div class="cc-loc" data-i="cc.loc"></div>
+          <div class="cc-note" data-i="cc.note"></div>
+        </div>
         <div class="cc-group">
           <div class="cc-h" data-i="loc.label"></div>
           <div class="cc-line"><strong data-i="loc.1"></strong><a class="cc-addr" href="https://maps.app.goo.gl/wdXbkxzWsumn3XeE9" target="_blank" rel="noopener">1012 Macarthur Dr. Ste 164<br>Carrollton, TX 75007</a></div>
@@ -728,7 +885,9 @@ body.ko .name-origin em{
     <div class="f-top">
       <div>
         <div class="f-brand"><img src="assets/logo-light.svg" alt="e.NUE Design"></div>
+        <div class="f-studio" data-i="foot.studio"></div>
         <p style="max-width:34ch;line-height:1.6" data-i="foot.tagline"></p>
+        <div class="f-meta"><div data-i="foot.meta"></div><div data-i="foot.loc"></div></div>
       </div>
       <div class="f-cols" id="footCols"></div>
     </div>
@@ -854,8 +1013,79 @@ const T = {
 
 const EXTRA = {
   en: {
+    /* ===== 2026-08-28 메인 문구 개편 =====
+       "직접 인쇄한다"에서 "브랜드부터 공간·디지털까지 하는 스튜디오"로 방향을 옮긴다.
+       <em class="s"> 는 빨간 기울임 산세리프. 세리프 기울임(기존 em)과 구분한다. */
+    "nav.process": "Process",
+
+    "hero.eyebrow": "Brand-to-Space Creative Studio · Carrollton, TX",
+    "hero.h1": "Before customers know your business,<br><em class=\"s\">they see it.</em>",
+    "hero.sub": "Your brand. Your menu. Your print. Your space. Your website. e.NUE Design is a Brand-to-Space Creative Studio — helping DFW businesses build a professional, consistent image from the first design through to the spaces and materials their customers actually experience.",
+    "hero.cta1": "Get a quote",
+    "hero.cta2": "View our work",
+    "hero.meta1": "Graphic Design · Printing · Indoor Signage · Wix Websites",
+    "hero.meta2": "Carrollton, TX · Serving Dallas–Fort Worth",
+
+    "svc.h2": "From brand to <em class=\"s\">print, space, and digital.</em>",
+    "svc.desc": "A business is not experienced through a logo alone. We connect the pieces your customers see into one flow, so the brand reads as professional and consistent wherever it appears.",
+    "svc.items": [
+      {n:"01",h:"Brand identity",p:"Start with a brand that looks like a business. Logo and visual identity built to carry through to print, signage, and digital.",l:["Logo","Brand identity","Visual direction"]},
+      {n:"02",h:"Business print",p:"The printed pieces your business runs on — with guidance on size, stock, and finishing so it holds up off the press.",l:["Business cards","Flyers","Posters","Brochures"]},
+      {n:"03",h:"Menus & print",p:"Menus designed for where customers actually read them. Clear information, files ready for production.",l:["Menus","Table menus","To-go menus","Digital menus"]},
+      {n:"04",h:"Signs & graphics",p:"Extend the brand into the space. Custom indoor signage that makes a storefront read as finished.",l:["Indoor signs","Wall graphics","Window decals"]},
+      {n:"05",h:"Web / digital",p:"A simple, professional space online. 1–2 page Wix sites that deliver what people actually need.",l:["Wix websites","Mobile ready","Basic SEO"]}
+    ],
+
+    "work.h2": "Design made for <em class=\"s\">real</em> businesses.",
+    "work.desc": "We don't make designs that only look good in a portfolio. Everything here is built to be used in real DFW business environments — restaurants, retail stores, offices, storefronts, menus, printing, signage, and digital spaces.",
+    "work.desc2": "See how branding, print, signage, and web carry a brand through to an actual business.",
+
+    "brand.label": "Brand to Space",
+    "brand.h2": "One business.<br><em class=\"s\">One consistent image.</em>",
+    "brand.lines": ["A customer might find your business on a website first.","Then they see the store.","They read the menu.","They look at the sign.","They take a business card."],
+    "brand.body": "Every touchpoint builds a single impression of the business. Our role is to keep all of it from looking like separate designs — and make it connect as one business.",
+    "brand.chain": "Brand → Print → Space → Digital",
+    "brand.tail": "One visual direction. One consistent brand experience.",
+
+    "proc.h2": "Clear from <em class=\"s\">start to finish.</em>",
+    "proc.desc": "We keep the process as simple and clear as possible, so you know how each stage of your project is moving.",
+    "steps": [
+      {n:"STEP 01",h:"Tell us what you need",p:"Send us your project details, size, quantity, deadline, reference images, and any existing files. The more information we have at the beginning, the more accurately we can quote and plan your project."},
+      {n:"STEP 02",h:"Review your quote",p:"We'll send you a clear estimate outlining the project scope, pricing, and next steps. Your project is scheduled once the required deposit or payment has been received."},
+      {n:"STEP 03",h:"Design & preparation",p:"Once your project is confirmed, we begin design and prepare the files or specifications needed for production. Most design projects include two revision rounds."},
+      {n:"STEP 04",h:"Review & approve",p:"Review your proof carefully and send us your consolidated feedback. Once the final design is approved and the remaining balance is paid, your project moves to the next stage."},
+      {n:"STEP 05",h:"Production & delivery",p:"Your approved project moves into printing, signage production, delivery, or website launch. Simple process. Clear expectations. Professional results."}
+    ],
+
+    /* 서비스 카테고리 숫자는 실제 등록된 작업물에서 센 값이다.
+       2026-08-28 기준 403건에 실제로 쓰인 서비스 종류 = 40종. */
+    "stats": [{n:"10+",l:"Years in business"},{n:"850+",l:"Projects delivered"},{n:"40",l:"Service categories"},{n:"98%",l:"Client return rate"}],
+
+    "values.label": "Why e.NUE",
+    "values.lead": "Professional results, without unnecessary complications.",
+    "values": [
+      {h:"Clear communication",p:"Clear quotes, defined scope, and clear standards from the very beginning."},
+      {h:"Practical design",p:"Not just design that looks good on a screen — work that holds up in real business use."},
+      {h:"Connected services",p:"Branding, design, printing, signage, and a simple website — all through one creative partner."},
+      {h:"Local DFW support",p:"Based in Carrollton, working with businesses throughout Dallas–Fort Worth."},
+      {h:"Online-friendly process",p:"Quotes, files, proofs, approvals, and project communication — all handled online and by email."}
+    ],
+
+    "about.label": "About e.NUE",
+    "about.h2": "Small businesses should look <em class=\"s\">professional,</em> too.",
+    "about.story": "A good business image is never finished by a logo alone. Menus, business cards, storefronts, signage, printed materials, and websites all build the brand together.",
+    "about.desc": "That is why e.NUE Design works as a Brand-to-Space Creative Studio. Rather than designs that sit apart from each other, we connect them so your business feels like one brand wherever a customer meets it.",
+    "about.desc3": "Based in Carrollton, Texas, we work with restaurants, retail, professional services, and growing businesses across Dallas–Fort Worth.",
+    "about.creed": "What matters to us is simple. Professional creative work. Clear communication. Practical solutions. Reliable production.",
+    "about.close": "Good design should not make a business harder to run. It should make it easier.",
+
+    "foot.studio": "Brand-to-Space Creative Studio",
+    "foot.meta": "Graphic Design · Printing · Indoor Signage · Wix Websites",
+    "foot.loc": "Carrollton, Texas · Serving Dallas–Fort Worth",
+    "foot.tagline": "Design your brand. Connect it to a real business.",
+
     "work.ctaTitle": "Check our portfolio",
-    "work.ctaSub": "Menus, signs, window graphics, branding and more — for cafes, restaurants, dental offices, churches and local businesses around Dallas.",
+    "work.ctaSub": "Start with the work you need. Browse projects by service or by industry, and see how different businesses bring their brand into a real environment.",
     "work.ctaMeta": "View all work",
     "pf.eyebrow": "Portfolio",
     "pf.h1": "Work we've <em>printed and installed</em>",
@@ -867,21 +1097,32 @@ const EXTRA = {
     "faq.h2": "Questions we get <em>all the time</em>",
     "faq.desc": "Still not sure about something? Just call or send us a note — we answer quickly.",
 
-    "form.label": "Get in touch",
-    "form.h2": "Tell us what you need <em>printed</em>",
-    "form.desc": "Fill this out and we'll get back to you with a quote. Quotes are free.",
+    "form.label": "Let's talk",
+    "form.h2": "Have a <em class=\"s\">project</em> in the works?",
+    "form.desc": "Whether you need a single design or several parts of your business connected into one brand, tell us what you need. Send your project details and files and we'll review them before giving you a clear quote and next steps.",
+    "form.desc2": "No phone call required. From the first quote to sending files, reviewing proofs, and final approval, everything can be handled online and by email.",
+    "form.intro": "Tell us about your project. The more detail you can send, the more accurate our guidance and quote will be.",
     "form.name": "Name",
+    "form.biz": "Business name",
     "form.email": "Email",
     "form.phone": "Phone (optional)",
-    "form.type": "What do you need?",
+    "form.type": "What you need",
     "form.typePick": "Choose one",
-    "form.msg": "Tell us a bit more",
-    "form.msgPh": "Quantity, size, deadline, anything you already have prepared…",
+    "form.msg": "Project details",
+    "form.msgPh": "What you're planning, what it's for, anything you already have prepared…",
+    "form.size": "Size / quantity",
+    "form.sizePh": "e.g. 500 business cards, 4×8 ft wall graphic",
+    "form.when": "Timeline",
+    "form.whenPh": "e.g. needed by March 10, or flexible",
     "form.send": "Send request",
     "form.sending": "Sending…",
     "form.ok": "Thanks — we got it. We'll reply to your email shortly.",
     "form.err": "Something went wrong. Please email us directly at support@enuedesign.com.",
-    "form.types": ["Logo & branding","Business cards & stationery","Menus","Posters, brochures, flyers","Coupons & promotions","Window graphics","Wall graphics","Signs & banners","Something else"],
+    "form.types": ["Brand identity","Business print","Menus & print","Signs & graphics","Web / digital","Something else"],
+
+    "cc.h": "Get in touch with e.NUE Design.",
+    "cc.loc": "Carrollton, Texas · Serving Dallas–Fort Worth",
+    "cc.note": "Project inquiries, quotes, file delivery, and proof approval can all be handled by email.",
 
     "loc.label": "Locations",
     "loc.1": "Office",
@@ -899,8 +1140,77 @@ const EXTRA = {
     "legal.updated": "Last updated: August 2026"
   },
   ko: {
-    "work.ctaTitle": "포트폴리오 보러 가기",
-    "work.ctaSub": "메뉴판, 사인, 윈도우 그래픽, 브랜딩까지 — 달라스 지역 카페, 레스토랑, 치과, 교회 등의 실제 작업물입니다.",
+    /* ===== 2026-08-28 메인 문구 개편 (영문과 짝) =====
+       한국어는 기울임을 쓰지 않는다. 한글 서체에 진짜 이탤릭이 없어
+       브라우저가 억지로 눕히면 획이 무너진다. 빨간 굵은 글씨로만 강조한다. */
+    "nav.process": "진행과정",
+
+    "hero.eyebrow": "BRAND-TO-SPACE CREATIVE STUDIO · CARROLLTON, TX",
+    "hero.h1": "고객이 당신의 비즈니스를 알기 전에,<br><em class=\"s\">먼저 보게 되는 것들이 있습니다.</em>",
+    "hero.sub": "브랜드. 메뉴. 인쇄물. 공간. 웹사이트. e.NUE Design은 DFW 지역 비즈니스가 처음 만들어지는 디자인부터 고객이 실제로 경험하는 공간과 결과물까지, 전문적이고 일관된 이미지를 만들 수 있도록 돕는 Brand-to-Space Creative Studio입니다.",
+    "hero.cta1": "견적 요청하기",
+    "hero.cta2": "작업 보기",
+    "hero.meta1": "Graphic Design · Printing · Indoor Signage · Wix Websites",
+    "hero.meta2": "Carrollton, TX · Dallas–Fort Worth 지역 서비스",
+
+    "svc.h2": "브랜드에서 <em class=\"s\">인쇄, 공간, 디지털</em>까지.",
+    "svc.desc": "비즈니스는 로고 하나만으로 경험되지 않습니다. 고객이 보게 되는 여러 요소를 하나의 흐름으로 연결해, 어디에서 보더라도 전문적이고 일관된 브랜드 이미지가 전달되도록 도와드립니다.",
+    "svc.items": [
+      {n:"01",h:"브랜드 아이덴티티",p:"비즈니스다운 브랜드에서 시작하세요. 로고와 비주얼 아이덴티티가 인쇄물, 사인, 디지털까지 이어지도록 설계합니다.",l:["로고","브랜드 아이덴티티","비주얼 디렉션"]},
+      {n:"02",h:"비즈니스 인쇄물",p:"비즈니스 운영과 홍보에 필요한 인쇄물. 사이즈, 용지, 후가공까지 안내해 실제 결과물에서도 제대로 나오게 합니다.",l:["명함","전단지","포스터","브로슈어"]},
+      {n:"03",h:"메뉴 & 인쇄",p:"고객이 실제로 보는 환경을 고려한 메뉴 디자인. 정보는 명확하게, 파일은 제작에 바로 쓸 수 있게 준비합니다.",l:["메뉴판","테이블 메뉴","투고 메뉴","디지털 메뉴"]},
+      {n:"04",h:"사인 & 그래픽",p:"브랜드를 공간으로 확장합니다. 매장이 완성도 있게 보이도록 맞춤 실내 사인을 제작합니다.",l:["실내 사인","월 그래픽","윈도우 데칼"]},
+      {n:"05",h:"웹 / 디지털",p:"심플하고 전문적인 온라인 공간. 필요한 정보를 명확히 전하는 1–2페이지 Wix 웹사이트를 만듭니다.",l:["Wix 웹사이트","모바일 최적화","기본 SEO"]}
+    ],
+
+    "work.h2": "<em class=\"s\">실제</em> 비즈니스를 위해 만든 디자인.",
+    "work.desc": "Portfolio에서 보기 좋은 것만을 위한 디자인은 만들지 않습니다. Restaurant, Retail Store, Office, Storefront, Menu, Printing, Signage, Digital Space 등 DFW의 실제 비즈니스 환경에서 사용될 수 있도록 제작합니다.",
+    "work.desc2": "Branding, Print, Signage, Web을 통해 브랜드가 실제 비즈니스로 이어지는 과정을 확인해보세요.",
+
+    "brand.label": "Brand to Space",
+    "brand.h2": "하나의 비즈니스.<br><em class=\"s\">하나의 일관된 이미지.</em>",
+    "brand.lines": ["고객은 웹사이트에서 처음 비즈니스를 발견할 수도 있습니다.","그다음 매장을 봅니다.","메뉴를 읽습니다.","사인을 봅니다.","명함을 가져갑니다."],
+    "brand.body": "고객이 만나는 모든 접점은 비즈니스에 대한 하나의 인상을 만들어냅니다. e.NUE Design의 역할은 그 모든 요소가 서로 다른 디자인처럼 보이지 않고 하나의 비즈니스처럼 연결되도록 만드는 것입니다.",
+    "brand.chain": "Brand → Print → Space → Digital",
+    "brand.tail": "하나의 Visual Direction. 하나의 일관된 Brand Experience.",
+
+    "proc.h2": "처음부터 끝까지 <em class=\"s\">명확하게.</em>",
+    "proc.desc": "프로젝트의 각 단계가 어떻게 진행되는지 알 수 있도록 과정을 최대한 간단하고 명확하게 운영합니다.",
+    "steps": [
+      {n:"STEP 01",h:"필요한 내용을 알려주세요",p:"원하시는 작업, 사이즈, 수량, 일정, Reference Image 및 기존 파일을 보내주세요. 처음부터 충분한 정보가 있을수록 보다 정확한 견적과 일정 안내가 가능합니다."},
+      {n:"STEP 02",h:"견적을 확인해주세요",p:"프로젝트의 작업 범위, 가격 및 다음 단계가 명확하게 정리된 견적을 보내드립니다. 필요한 Deposit 또는 결제가 확인되면 프로젝트 일정이 확정됩니다."},
+      {n:"STEP 03",h:"디자인 및 제작 준비",p:"프로젝트가 확정되면 디자인을 시작하고 Printing 또는 Production에 필요한 파일과 사양을 준비합니다. 대부분의 디자인 프로젝트에는 기본 2 Revision Rounds가 포함됩니다."},
+      {n:"STEP 04",h:"시안을 검토하고 승인해주세요",p:"시안을 확인한 후 수정사항을 한 번에 정리하여 전달해주세요. 최종 디자인 승인과 잔금 결제가 완료되면 다음 제작 단계로 진행됩니다."},
+      {n:"STEP 05",h:"제작 및 전달",p:"승인된 프로젝트는 Printing, Signage Production, Delivery 또는 Website Launch 단계로 진행됩니다. 간단한 과정. 명확한 기준. 전문적인 결과물."}
+    ],
+
+    "stats": [{n:"10+",l:"년의 경력"},{n:"850+",l:"완료한 프로젝트"},{n:"40",l:"서비스 카테고리"},{n:"98%",l:"재의뢰율"}],
+
+    "values.label": "Why e.NUE",
+    "values.lead": "전문적인 결과물, 불필요하게 복잡하지 않은 과정.",
+    "values": [
+      {h:"명확한 소통",p:"처음부터 명확한 견적, 작업 범위 및 진행기준을 안내합니다."},
+      {h:"실용적인 디자인",p:"화면에서 보기 좋은 디자인뿐 아니라 실제 비즈니스에서 제대로 사용할 수 있는 결과물을 만듭니다."},
+      {h:"연결된 서비스",p:"Branding, Design, Printing, Signage, Simple Website를 하나의 Creative Partner와 함께 진행할 수 있습니다."},
+      {h:"DFW 지역 밀착",p:"Carrollton을 기반으로 Dallas–Fort Worth 지역의 다양한 비즈니스와 함께합니다."},
+      {h:"온라인으로 편하게",p:"견적, 파일 전달, 시안 검토, 승인 및 프로젝트 커뮤니케이션을 온라인과 이메일을 통해 편리하게 진행할 수 있습니다."}
+    ],
+
+    "about.label": "About e.NUE",
+    "about.h2": "Small Business도 <em class=\"s\">전문적으로</em> 보여야 합니다.",
+    "about.story": "좋은 비즈니스 이미지는 하나의 로고만으로 완성되지 않습니다. 메뉴, 명함, Storefront, Signage, 인쇄물, 웹사이트 등 고객이 접하는 모든 요소가 함께 브랜드를 만들어갑니다.",
+    "about.desc": "그래서 e.NUE Design은 Brand-to-Space Creative Studio로 일합니다. 각각 따로 존재하는 디자인이 아니라, 고객이 어디에서 비즈니스를 만나더라도 하나의 브랜드처럼 느껴질 수 있도록 연결합니다.",
+    "about.desc3": "Carrollton, Texas를 기반으로 Restaurant, Retail, Professional Service 및 Dallas–Fort Worth 지역의 다양한 Growing Business와 함께하고 있습니다.",
+    "about.creed": "저희가 중요하게 생각하는 것은 단순합니다. Professional Creative Work. Clear Communication. Practical Solutions. Reliable Production.",
+    "about.close": "좋은 디자인은 비즈니스를 더 어렵게 만드는 것이 아니라, 더 쉽게 운영할 수 있도록 도와야 한다고 생각합니다.",
+
+    "foot.studio": "Brand-to-Space Creative Studio",
+    "foot.meta": "Graphic Design · Printing · Indoor Signage · Wix Websites",
+    "foot.loc": "Carrollton, Texas · Dallas–Fort Worth 지역 서비스",
+    "foot.tagline": "브랜드를 디자인하고, 현실의 비즈니스로 연결합니다.",
+
+    "work.ctaTitle": "Portfolio 보기",
+    "work.ctaSub": "필요한 작업부터 확인해보세요. Service 또는 Industry별로 프로젝트를 확인하고 다양한 비즈니스가 브랜드를 실제 환경에 어떻게 적용하고 있는지 살펴보세요.",
     "work.ctaMeta": "전체 작업 보기",
     "pf.eyebrow": "포트폴리오",
     "pf.h1": "직접 <em>디자인하고 제작한</em> 작업들",
@@ -912,21 +1222,32 @@ const EXTRA = {
     "faq.h2": "가장 <em>많이 받는 질문</em>들",
     "faq.desc": "궁금한 게 더 있으시면 전화나 메일 주세요. 빠르게 답변드립니다.",
 
-    "form.label": "문의하기",
-    "form.h2": "어떤 인쇄물이 <em>필요하신가요?</em>",
-    "form.desc": "남겨주시면 견적과 함께 연락드리겠습니다. 견적은 무료입니다.",
+    "form.label": "견적 문의",
+    "form.h2": "준비하고 계신 <em class=\"s\">프로젝트</em>가 있으신가요?",
+    "form.desc": "하나의 디자인이 필요하거나, 비즈니스의 여러 요소를 하나의 브랜드로 연결해야 한다면 필요한 내용을 알려주세요. 프로젝트 내용과 파일을 보내주시면 검토 후 명확한 견적과 다음 단계를 안내해드립니다.",
+    "form.desc2": "전화 통화 없이도 가능합니다. 초기 견적부터 파일 전달, 시안 검토 및 최종 승인까지 온라인과 이메일을 통해 편리하게 진행하실 수 있습니다.",
+    "form.intro": "프로젝트에 대해 알려주세요. 보다 정확한 안내와 견적을 위해 가능한 한 자세한 정보를 보내주세요.",
+    "form.biz": "상호 (Business Name)",
+    "form.size": "사이즈 / 수량",
+    "form.sizePh": "예) 명함 500장, 4×8 ft 월 그래픽",
+    "form.when": "희망 일정",
+    "form.whenPh": "예) 3월 10일까지, 또는 일정 조율 가능",
     "form.name": "이름",
     "form.email": "이메일",
     "form.phone": "연락처 (선택)",
-    "form.type": "필요한 작업",
+    "form.type": "필요한 서비스",
     "form.typePick": "선택해 주세요",
-    "form.msg": "내용을 알려주세요",
-    "form.msgPh": "수량, 사이즈, 희망 일정, 이미 준비된 자료가 있다면 함께 적어주세요…",
-    "form.send": "문의 보내기",
+    "form.msg": "프로젝트 내용",
+    "form.msgPh": "어떤 작업인지, 어디에 쓰이는지, 준비된 자료가 있다면 함께 적어주세요…",
+    "form.send": "견적 요청 보내기",
     "form.sending": "보내는 중…",
     "form.ok": "접수되었습니다. 남겨주신 이메일로 곧 회신드리겠습니다.",
     "form.err": "전송에 실패했습니다. support@enuedesign.com 로 직접 보내주세요.",
-    "form.types": ["로고 & 브랜딩","명함 & 문구류","메뉴판","포스터·브로셔·플라이어","쿠폰 & 프로모션","윈도우 그래픽","월 그래픽","사인 & 배너","기타"],
+    "form.types": ["브랜드 아이덴티티","비즈니스 인쇄물","메뉴 & 인쇄","사인 & 그래픽","웹 / 디지털","기타"],
+
+    "cc.h": "e.NUE Design에 문의하세요.",
+    "cc.loc": "Carrollton, Texas · Dallas–Fort Worth 지역 서비스",
+    "cc.note": "프로젝트 문의, 견적, 파일 전달 및 시안 승인은 이메일을 통해서도 편리하게 진행하실 수 있습니다.",
 
     "loc.label": "오시는 길",
     "loc.1": "사무실",
@@ -989,7 +1310,7 @@ const FAQ = {
     { q: "Do you handle both the design and the printing?",
       a: "We do. Most of it happens right here in our shop, which is why the color you approve is the color you get.<br><br>If your piece is oversized or you need a big quantity, we hand it to a printer we trust. Those jobs take a little longer — but we'll let you know before we start, so there are no surprises." },
     { q: "How long will my job take?",
-      a: "Usually 3–5 business days once you've approved the final proof.<br><br>Designing it takes some time before that, and it really depends on what we're making. If your job goes out to a larger printer, add a few more days. Working against a deadline? Tell us early and we'll work it out." },
+      a: "Usually 3–7 business days once you've approved the final proof.<br><br>Designing it takes some time before that, and it really depends on what we're making. If your job goes out to a larger printer, add a few more days. Working against a deadline? Tell us early and we'll work it out." },
     { q: "I already have a design. What file should I send?",
       a: "A print-ready PDF is ideal — CMYK, 300 DPI, fonts embedded, with 1/8\" bleed around the edges.<br><br>If that sounds like a foreign language, don't worry about it. Send whatever you have: a JPG, a Canva link, even a photo of your old menu. We'll take a look and tell you what we can work with." },
     { q: "Will I see it before you print it?",
@@ -1005,7 +1326,7 @@ const FAQ = {
     { q: "디자인과 인쇄를 모두 해주시나요?",
       a: "네, 둘 다 합니다. 대부분 저희 작업실에서 직접 인쇄해요. 그래서 화면에서 보신 색이 종이에서도 그대로 나옵니다.<br><br>다만 사이즈가 크거나 수량이 많아지면 믿고 맡기는 인쇄 업체로 보냅니다. 그런 작업은 시간이 조금 더 걸리는데, 시작 전에 미리 말씀드리니 걱정 안 하셔도 돼요." },
     { q: "작업 기간은 얼마나 걸리나요?",
-      a: "최종 시안을 승인해 주시면, 보통 영업일 기준 <strong>3~5일</strong> 걸립니다.<br><br>그 전에 시안 만드는 기간이 따로 있는데, 이건 작업 종류에 따라 달라요. 외부 인쇄 업체를 거치면 며칠 더 봐주셔야 하고요. 급한 일정이 있으시면 미리 말씀해 주세요. 최대한 맞춰봅니다." },
+      a: "최종 시안을 승인해 주시면, 보통 영업일 기준 3~7일 걸립니다.<br><br>그 전에 시안 만드는 기간이 따로 있는데, 이건 작업 종류에 따라 달라요. 외부 인쇄 업체를 거치면 며칠 더 봐주셔야 하고요. 급한 일정이 있으시면 미리 말씀해 주세요. 최대한 맞춰봅니다." },
     { q: "이미 디자인이 있는데, 어떤 파일로 보내면 되나요?",
       a: "인쇄용 PDF가 제일 좋습니다. CMYK에 300 DPI, 폰트 포함, 사방 1/8인치 재단 여백이면 완벽해요.<br><br>무슨 말인지 모르시겠어도 괜찮습니다. 그냥 갖고 계신 걸 보내주세요. JPG든 Canva 링크든, 예전 메뉴판 사진이라도요. 저희가 보고 어떤 걸 쓸 수 있는지 알려드립니다." },
     { q: "인쇄 전에 시안을 볼 수 있나요?",
@@ -1199,7 +1520,8 @@ function renderAll(){
 
   $('svcGrid').innerHTML = t('svc.items').map(s=>`
     <div class="svc"><div class="svc-num">${s.n}</div><h3>${s.h}</h3><p>${s.p}</p>
-      <ul>${s.l.map(x=>`<li>${x}</li>`).join('')}</ul></div>`).join('');
+      <ul>${s.l.map(x=>`<li>${x}</li>`).join('')}</ul>
+      ${s.note ? `<div class="svc-note">${s.note}</div>` : ''}</div>`).join('');
   $('stats').innerHTML = t('stats').map(s=>`
     <div class="stat"><div class="stat-num">${s.n}</div><div class="stat-lbl">${s.l}</div></div>`).join('');
   $('values').innerHTML = t('values').map(v=>`
@@ -1208,6 +1530,8 @@ function renderAll(){
     <div class="step"><div class="step-n">${s.n}</div><h3>${s.h}</h3><p>${s.p}</p></div>`).join('');
 
   $('aboutOrigin').innerHTML = t('about.origin');
+  $('brandH2').innerHTML = t('brand.h2');
+  $('brandLines').innerHTML = t('brand.lines').map(x=>`<li>${x}</li>`).join('');
   renderFooter(); renderFaq(); renderForm(); syncLinks();
 }
 
