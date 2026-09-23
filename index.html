@@ -592,7 +592,28 @@ body.ko .name-origin em{
   border-color:transparent transparent transparent #fff;
 }
 .card:hover .play-badge{background:var(--accent);transform:scale(1.08)}
-.modal-thumb video{display:block;width:100%;height:auto;max-height:74vh;background:#141210}
+
+/* 모달 영상 — 재생 중 화면이 덜덜 떨리던 문제.
+   원인은 영상이 아니라 레이아웃 되먹임이었다.
+   예전 규칙이 width:100% + height:auto 라 높이가 폭에서 계산됐다.
+     내용이 창보다 길다 → 스크롤바 생김 → 안쪽 폭 15px 줄어듦
+     → 영상 폭 줄어듦 → 높이 줄어듦 → 내용이 창에 들어감 → 스크롤바 사라짐
+     → 폭 원복 → 높이 늘어남 → 다시 스크롤바 …
+   화면 폭이 경계에 걸리면 이 순환이 초당 수십 번 돌아 떨림으로 보인다.
+
+   실제로 순환을 끊는 것은 아래 scrollbar-gutter:stable 이다.
+   스크롤바 자리를 항상 비워 두므로 스크롤바가 생기든 말든 안쪽 폭이 그대로다.
+   (실측: 적용 전 1000px↔985px 로 흔들림, 적용 후 985px 고정)
+   video 의 width:auto 는 순환을 끊지는 못한다. max-width:100% 가 걸려 있어
+   폭이 변하면 높이는 여전히 따라 변한다. 사진(img)과 규칙을 맞춰 두려는 것뿐이다. */
+.modal-thumb video{
+  display:block;
+  width:auto;height:auto;
+  max-width:100%;max-height:74vh;
+  object-fit:contain;
+  background:#141210;
+}
+.modal-box{scrollbar-gutter:stable}
 
 /* ================= 더 보기 ================= */
 .more-wrap{display:flex;justify-content:center;margin-top:38px}

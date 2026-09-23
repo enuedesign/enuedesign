@@ -44,23 +44,23 @@ collections:
                 name: serviceEn
                 widget: select
                 multiple: true
-                options: ["2D/3D Rendering","A-Sign","Apparel","Branding","Brochure","Bulletin","Business Card","Business Hours","Canvas","Coupon","Digital Ad","Digital Menu","Drink Menu","EDDM","Envelope","Flag Banner","Flyer","Gift Card","Indoor Banner","Invoice","Letterhead","Logo","Menu Board","Mirror Graphic","Name Badge","Outdoor Banner","Packaging","Picture Board","Poster","Presentation Folder","Reception Sign","Signage","Stamp Card","Sticker","Sublimation Goods","Table Menu","Table Tent","To-go Menu","Vehicle Decal","Wall Graphic","Web Design","Window Frost","Window Graphic","Window Poster","Yard Sign"]
+                options: ["2D/3D Rendering","A-Sign","Apparel","Branding","Brochure","Bulletin","Business Card","Business Hours","Canvas","Coupon","Digital Ad","Digital Menu","Drink Menu","EDDM","Envelope","Flag Banner","Flyer","Gift Card","Indoor Banner","Letterhead","Logo","Menu Board","Mirror Graphic","Name Badge","NCR Form","Outdoor Banner","Packaging","Picture Board","Poster","Presentation Folder","Reception Sign","Signage","Stamp Card","Sticker","Sublimation Goods","Table Menu","Table Tent","To-go Menu","Vehicle Decal","Wall Graphic","Web Design","Window Frost","Window Graphic","Window Poster","Yard Sign"]
               - label: "Service (Korean)"
                 name: serviceKo
                 widget: select
                 multiple: true
-                options: ["2D/3D 렌더링","A형 입간판","의류","브랜딩","브로슈어","주보","명함","영업시간 안내","캔버스","쿠폰","디지털 광고","디지털 메뉴","음료 메뉴","EDDM 우편광고","봉투","깃발 배너","전단지","기프트카드","실내 배너","인보이스","레터헤드","로고","메뉴보드","거울 그래픽","명찰","외부 배너","패키지","픽처보드","포스터","프레젠테이션 폴더","리셉션 사인","사이니지","스탬프 카드","스티커","승화 굿즈","테이블 메뉴","테이블 텐트","투고 메뉴","차량 데칼","월 그래픽","웹 디자인","윈도우 프로스트","윈도우 그래픽","윈도우 포스터","야드사인"]
+                options: ["2D/3D 렌더링","A형 입간판","의류","브랜딩","브로슈어","주보","명함","영업시간 안내","캔버스","쿠폰","디지털 광고","디지털 메뉴","음료 메뉴","EDDM 우편광고","봉투","깃발 배너","전단지","기프트카드","실내 배너","레터헤드","로고","메뉴보드","거울 그래픽","명찰","NCR 양식지","외부 배너","패키지","픽처보드","포스터","프레젠테이션 폴더","리셉션 사인","사이니지","스탬프 카드","스티커","승화 굿즈","테이블 메뉴","테이블 텐트","투고 메뉴","차량 데칼","월 그래픽","웹 디자인","윈도우 프로스트","윈도우 그래픽","윈도우 포스터","야드사인"]
 
               - label: "Industry (English)"
                 name: industryEn
                 widget: select
                 multiple: true
-                options: ["Beauty & Wellness","Church & Nonprofit","Dessert & Cafe","Donut Shop","Education","Industrial & Logistics","Medical & Dental","Professional Services","Real Estate & Construction","Restaurant","Retail"]
+                options: ["Beauty & Wellness","Church & Nonprofit","Dessert & Cafe","Donut Shop","Education","Events & Performance","Industrial & Logistics","Medical & Dental","Professional Services","Real Estate & Construction","Restaurant","Retail"]
               - label: "Industry (Korean)"
                 name: industryKo
                 widget: select
                 multiple: true
-                options: ["뷰티 & 웰니스","교회 & 비영리","디저트 & 카페","도넛샵","교육","산업 & 물류","메디컬 & 덴탈","서비스업","부동산 & 건설","레스토랑","리테일"]
+                options: ["뷰티 & 웰니스","교회 & 비영리","디저트 & 카페","도넛샵","교육","공연 & 이벤트","산업 & 물류","메디컬 & 덴탈","서비스업","부동산 & 건설","레스토랑","리테일"]
 
               - { label: "Description (English)", name: descEn, widget: text }
               - { label: "Description (Korean)",  name: descKo, widget: text }

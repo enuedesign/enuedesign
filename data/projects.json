@@ -1,6 +1,600 @@
 {
   "projects": [
     {
+      "title": "Restaurant Wall Graphic",
+      "client": "Oh K-Dog",
+      "image": "assets/portfolio/restaurant-wall-graphic-27.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Restaurant"
+      ],
+      "industryKo": [
+        "레스토랑"
+      ],
+      "descEn": "Oh K-Dog — Character wall graphic behind the counter",
+      "descKo": "Oh K-Dog — 카운터 뒤 캐릭터 월 그래픽",
+      "date": "2026-09-21",
+      "order": 1
+    },
+    {
+      "title": "Restaurant Wall Graphic",
+      "client": "Oh K-Dog",
+      "image": "assets/portfolio/restaurant-wall-graphic-28.webp",
+      "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Wall Graphic"
+      ],
+      "serviceKo": [
+        "월 그래픽"
+      ],
+      "industryEn": [
+        "Restaurant"
+      ],
+      "industryKo": [
+        "레스토랑"
+      ],
+      "descEn": "Oh K-Dog — \"Good Food Good Mood\" dining area wall graphic",
+      "descKo": "Oh K-Dog — 홀 벽면 \"Good Food Good Mood\" 월 그래픽",
+      "date": "2026-09-21",
+      "order": 2
+    },
+    {
+      "title": "Real Estate & Construction Envelope",
+      "client": "Build One",
+      "image": "assets/portfolio/real-estate-construction-envelope.webp",
+      "alt": "Real Estate & Construction Envelope designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Envelope"
+      ],
+      "serviceKo": [
+        "봉투"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "Build One — Envelope",
+      "descKo": "Build One — 봉투",
+      "date": "2026-09-17",
+      "order": 3
+    },
+    {
+      "title": "Professional Services Envelope",
+      "client": "Patrick Lee Law Office",
+      "image": "assets/portfolio/professional-services-envelope.webp",
+      "alt": "Professional Services Envelope designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Envelope"
+      ],
+      "serviceKo": [
+        "봉투"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Patrick Lee Law Office — Envelope",
+      "descKo": "Patrick Lee Law Office — 봉투",
+      "date": "2026-09-17",
+      "order": 4
+    },
+    {
+      "title": "Professional Services Envelope",
+      "client": "Young Sung",
+      "image": "assets/portfolio/professional-services-envelope-2.webp",
+      "alt": "Professional Services Envelope designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Envelope"
+      ],
+      "serviceKo": [
+        "봉투"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Young Sung — Envelope",
+      "descKo": "Young Sung — 봉투",
+      "date": "2026-09-17",
+      "order": 5
+    },
+    {
+      "title": "Professional Services Envelope",
+      "client": "e.NUE Design",
+      "image": "assets/portfolio/professional-services-envelope-3.webp",
+      "alt": "Professional Services Envelope designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Envelope"
+      ],
+      "serviceKo": [
+        "봉투"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "e.NUE Design — Envelope",
+      "descKo": "e.NUE Design — 봉투",
+      "date": "2026-09-17",
+      "order": 6
+    },
+    {
+      "title": "Restaurant Menu Board",
+      "client": "Mandurang",
+      "image": "assets/portfolio/restaurant-menu-board.webp",
+      "alt": "Restaurant Menu Board designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Menu Board"
+      ],
+      "serviceKo": [
+        "메뉴보드"
+      ],
+      "industryEn": [
+        "Restaurant"
+      ],
+      "industryKo": [
+        "레스토랑"
+      ],
+      "descEn": "Mandurang — Menu board",
+      "descKo": "Mandurang — 메뉴보드",
+      "date": "2026-09-17",
+      "order": 7
+    },
+    {
+      "title": "Restaurant Menu Board",
+      "client": "AB Wing",
+      "image": "assets/portfolio/restaurant-menu-board-2.webp",
+      "alt": "Restaurant Menu Board designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Menu Board"
+      ],
+      "serviceKo": [
+        "메뉴보드"
+      ],
+      "industryEn": [
+        "Restaurant"
+      ],
+      "industryKo": [
+        "레스토랑"
+      ],
+      "descEn": "AB Wing — Menu board",
+      "descKo": "AB Wing — 메뉴보드",
+      "date": "2026-09-17",
+      "order": 8
+    },
+    {
+      "title": "Restaurant NCR Form",
+      "client": "Edohana",
+      "image": "assets/portfolio/restaurant-ncr-form.webp",
+      "alt": "Restaurant NCR Form designed and printed by e.NUE Design",
+      "serviceEn": [
+        "NCR Form"
+      ],
+      "serviceKo": [
+        "NCR 양식지"
+      ],
+      "industryEn": [
+        "Restaurant"
+      ],
+      "industryKo": [
+        "레스토랑"
+      ],
+      "descEn": "Edohana — NCR form",
+      "descKo": "Edohana — NCR 양식지",
+      "date": "2026-09-17",
+      "order": 9
+    },
+    {
+      "title": "Real Estate & Construction Name Badge",
+      "client": "O Realty",
+      "image": "assets/portfolio/real-estate-construction-name-badge.webp",
+      "alt": "Real Estate & Construction Name Badge designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Name Badge"
+      ],
+      "serviceKo": [
+        "명찰"
+      ],
+      "industryEn": [
+        "Real Estate & Construction"
+      ],
+      "industryKo": [
+        "부동산 & 건설"
+      ],
+      "descEn": "O Realty — Name badge",
+      "descKo": "O Realty — 명찰",
+      "date": "2026-09-17",
+      "order": 10
+    },
+    {
+      "title": "Donut Shop Sticker",
+      "client": "Manna Donuts",
+      "image": "assets/portfolio/donut-shop-sticker.webp",
+      "alt": "Donut Shop Sticker designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sticker"
+      ],
+      "serviceKo": [
+        "스티커"
+      ],
+      "industryEn": [
+        "Donut Shop"
+      ],
+      "industryKo": [
+        "도넛샵"
+      ],
+      "descEn": "Manna Donuts — Sticker",
+      "descKo": "Manna Donuts — 스티커",
+      "date": "2026-09-17",
+      "order": 11
+    },
+    {
+      "title": "Restaurant Sticker",
+      "client": "Maestro Tacos",
+      "image": "assets/portfolio/restaurant-sticker-4.webp",
+      "alt": "Restaurant Sticker designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sticker"
+      ],
+      "serviceKo": [
+        "스티커"
+      ],
+      "industryEn": [
+        "Restaurant"
+      ],
+      "industryKo": [
+        "레스토랑"
+      ],
+      "descEn": "Maestro Tacos — Sticker",
+      "descKo": "Maestro Tacos — 스티커",
+      "date": "2026-09-17",
+      "order": 12
+    },
+    {
+      "title": "Restaurant Table Tent",
+      "client": "Eggsquisite Cafe",
+      "image": "assets/portfolio/restaurant-table-tent-3.webp",
+      "alt": "Restaurant Table Tent designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Table Tent"
+      ],
+      "serviceKo": [
+        "테이블 텐트"
+      ],
+      "industryEn": [
+        "Restaurant"
+      ],
+      "industryKo": [
+        "레스토랑"
+      ],
+      "descEn": "Eggsquisite Cafe — Table tent",
+      "descKo": "Eggsquisite Cafe — 테이블 텐트",
+      "date": "2026-09-17",
+      "order": 13
+    },
+    {
+      "title": "Retail Window Graphic",
+      "client": "Wash N Dry",
+      "image": "assets/portfolio/retail-window-graphic.webp",
+      "alt": "Retail Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Wash N Dry — Storefront window graphics",
+      "descKo": "Wash N Dry — 매장 창문 그래픽",
+      "date": "2026-09-17",
+      "order": 14
+    },
+    {
+      "title": "Retail Poster",
+      "client": "Wash N Dry",
+      "image": "assets/portfolio/retail-poster.webp",
+      "alt": "Retail Poster designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Poster"
+      ],
+      "serviceKo": [
+        "포스터"
+      ],
+      "industryEn": [
+        "Retail"
+      ],
+      "industryKo": [
+        "리테일"
+      ],
+      "descEn": "Wash N Dry — Poster",
+      "descKo": "Wash N Dry — 포스터",
+      "date": "2026-09-17",
+      "order": 15
+    },
+    {
+      "title": "Donut Shop Sticker",
+      "client": "Joy Donuts",
+      "image": "assets/portfolio/donut-shop-sticker-2.webp",
+      "alt": "Donut Shop Sticker designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Sticker"
+      ],
+      "serviceKo": [
+        "스티커"
+      ],
+      "industryEn": [
+        "Donut Shop"
+      ],
+      "industryKo": [
+        "도넛샵"
+      ],
+      "descEn": "Joy Donuts — Sticker",
+      "descKo": "Joy Donuts — 스티커",
+      "date": "2026-09-17",
+      "order": 16
+    },
+    {
+      "title": "Dessert & Cafe Canvas",
+      "client": "Bonjour Waffles",
+      "image": "assets/portfolio/dessert-cafe-canvas.webp",
+      "alt": "Dessert & Cafe Canvas designed by e.NUE Design",
+      "serviceEn": [
+        "Canvas"
+      ],
+      "serviceKo": [
+        "캔버스"
+      ],
+      "industryEn": [
+        "Dessert & Cafe"
+      ],
+      "industryKo": [
+        "디저트 & 카페"
+      ],
+      "descEn": "Bonjour Waffles — Canvas print",
+      "descKo": "Bonjour Waffles — 캔버스 프린트",
+      "date": "2026-09-17",
+      "order": 17
+    },
+    {
+      "title": "Events & Performance Digital Ad",
+      "client": "JUNEtober",
+      "image": "assets/portfolio/events-performance-digital-ad.webp",
+      "alt": "Events & Performance Digital Ad designed by e.NUE Design",
+      "serviceEn": [
+        "Digital Ad"
+      ],
+      "serviceKo": [
+        "디지털 광고"
+      ],
+      "industryEn": [
+        "Events & Performance"
+      ],
+      "industryKo": [
+        "공연 & 이벤트"
+      ],
+      "descEn": "JUNEtober — Social media ad",
+      "descKo": "JUNEtober — SNS 광고",
+      "date": "2026-09-17",
+      "order": 18
+    },
+    {
+      "title": "Dessert & Cafe Digital Ad",
+      "client": "Hey Yogurt",
+      "image": "assets/portfolio/dessert-cafe-digital-ad.webp",
+      "alt": "Dessert & Cafe Digital Ad designed by e.NUE Design",
+      "serviceEn": [
+        "Digital Ad"
+      ],
+      "serviceKo": [
+        "디지털 광고"
+      ],
+      "industryEn": [
+        "Dessert & Cafe"
+      ],
+      "industryKo": [
+        "디저트 & 카페"
+      ],
+      "descEn": "Hey Yogurt — Social media ad",
+      "descKo": "Hey Yogurt — SNS 광고",
+      "date": "2026-09-17",
+      "order": 19
+    },
+    {
+      "title": "Restaurant Digital Ad",
+      "client": "Manna Shabu",
+      "image": "assets/portfolio/restaurant-digital-ad.webp",
+      "alt": "Restaurant Digital Ad designed by e.NUE Design",
+      "serviceEn": [
+        "Digital Ad"
+      ],
+      "serviceKo": [
+        "디지털 광고"
+      ],
+      "industryEn": [
+        "Restaurant"
+      ],
+      "industryKo": [
+        "레스토랑"
+      ],
+      "descEn": "Manna Shabu — Social media ad",
+      "descKo": "Manna Shabu — SNS 광고",
+      "date": "2026-09-17",
+      "order": 20
+    },
+    {
+      "title": "Dessert & Cafe Coupon",
+      "client": "Bom Bom Cafe",
+      "image": "assets/portfolio/dessert-cafe-coupon.webp",
+      "alt": "Dessert & Cafe Coupon designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Coupon"
+      ],
+      "serviceKo": [
+        "쿠폰"
+      ],
+      "industryEn": [
+        "Dessert & Cafe"
+      ],
+      "industryKo": [
+        "디저트 & 카페"
+      ],
+      "descEn": "Bom Bom Cafe — Coupon",
+      "descKo": "Bom Bom Cafe — 쿠폰",
+      "date": "2026-09-16",
+      "order": 21
+    },
+    {
+      "title": "Church Logo",
+      "client": "The Lord's Church of Waco",
+      "image": "assets/portfolio/church-logo.webp",
+      "alt": "Church Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Church & Nonprofit"
+      ],
+      "industryKo": [
+        "교회 & 비영리"
+      ],
+      "descEn": "The Lord's Church of Waco — Logo design",
+      "descKo": "The Lord's Church of Waco — 로고 디자인",
+      "date": "2026-09-16",
+      "order": 22
+    },
+    {
+      "title": "Donut Shop Logo",
+      "client": "Donut Hut",
+      "image": "assets/portfolio/donut-shop-logo.webp",
+      "alt": "Donut Shop Logo designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Logo"
+      ],
+      "serviceKo": [
+        "로고"
+      ],
+      "industryEn": [
+        "Donut Shop"
+      ],
+      "industryKo": [
+        "도넛샵"
+      ],
+      "descEn": "Donut Hut — Logo design",
+      "descKo": "Donut Hut — 로고 디자인",
+      "date": "2026-09-16",
+      "order": 23
+    },
+    {
+      "title": "Pet Grooming Picture Board",
+      "client": "Groome",
+      "image": "assets/portfolio/pet-grooming-picture-board.webp",
+      "alt": "Pet Grooming Picture Board designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Picture Board"
+      ],
+      "serviceKo": [
+        "픽처보드"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Groome — Picture board",
+      "descKo": "Groome — 픽처보드",
+      "date": "2026-09-16",
+      "order": 24
+    },
+    {
+      "title": "Pet Grooming Window Graphic",
+      "client": "Groome",
+      "image": "assets/portfolio/pet-grooming-window-graphic.webp",
+      "alt": "Pet Grooming Window Graphic designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Window Graphic"
+      ],
+      "serviceKo": [
+        "윈도우 그래픽"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Groome — Storefront window graphics",
+      "descKo": "Groome — 매장 창문 그래픽",
+      "date": "2026-09-16",
+      "order": 25
+    },
+    {
+      "title": "Golf Academy Coupon",
+      "client": "HIO Indoor Golf",
+      "image": "assets/portfolio/golf-academy-coupon.webp",
+      "alt": "Golf Academy Coupon designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Coupon"
+      ],
+      "serviceKo": [
+        "쿠폰"
+      ],
+      "industryEn": [
+        "Education"
+      ],
+      "industryKo": [
+        "교육"
+      ],
+      "descEn": "HIO Indoor Golf — Coupon",
+      "descKo": "HIO Indoor Golf — 쿠폰",
+      "date": "2026-09-16",
+      "order": 26
+    },
+    {
+      "title": "Pet Grooming Coupon",
+      "client": "Groome",
+      "image": "assets/portfolio/pet-grooming-coupon.webp",
+      "alt": "Pet Grooming Coupon designed and printed by e.NUE Design",
+      "serviceEn": [
+        "Coupon"
+      ],
+      "serviceKo": [
+        "쿠폰"
+      ],
+      "industryEn": [
+        "Professional Services"
+      ],
+      "industryKo": [
+        "서비스업"
+      ],
+      "descEn": "Groome — Coupon",
+      "descKo": "Groome — 쿠폰",
+      "date": "2026-09-16",
+      "order": 27
+    },
+    {
       "title": "Restaurant Mirror Graphic",
       "client": "BBQ Chicken",
       "image": "assets/portfolio/restaurant-mirror-graphic-2.webp",
@@ -22,7 +616,7 @@
       "descEn": "BBQ Chicken — Mirror graphic and wall graphic",
       "descKo": "BBQ Chicken — 거울 그래픽 · 월 그래픽",
       "date": "2026-09-11",
-      "order": 1
+      "order": 28
     },
     {
       "title": "Restaurant Mirror Graphic",
@@ -44,7 +638,7 @@
       "descEn": "99 Pocha — Mirror graphic",
       "descKo": "99 Pocha — 거울 그래픽",
       "date": "2026-09-11",
-      "order": 2
+      "order": 29
     },
     {
       "title": "Restaurant Outdoor Banner",
@@ -66,7 +660,7 @@
       "descEn": "Outdoor banner",
       "descKo": "외부 배너",
       "date": "2026-09-10",
-      "order": 3
+      "order": 30
     },
     {
       "title": "Restaurant Indoor Banner",
@@ -88,7 +682,7 @@
       "descEn": "Sea Travel — Indoor banner",
       "descKo": "Sea Travel — 실내 배너",
       "date": "2026-09-10",
-      "order": 4
+      "order": 31
     },
     {
       "title": "Restaurant Outdoor Banner",
@@ -110,7 +704,7 @@
       "descEn": "Hansot — Outdoor banner",
       "descKo": "Hansot — 외부 배너",
       "date": "2026-09-10",
-      "order": 5
+      "order": 32
     },
     {
       "title": "Dessert & Cafe Indoor Banner",
@@ -132,7 +726,7 @@
       "descEn": "Ice Cabin — Indoor banner",
       "descKo": "Ice Cabin — 실내 배너",
       "date": "2026-09-10",
-      "order": 6
+      "order": 33
     },
     {
       "title": "Dessert & Cafe Business Hours",
@@ -153,7 +747,7 @@
       ],
       "descEn": "Hey Yogurt — Business hours decal",
       "descKo": "Hey Yogurt — 영업시간 안내 데칼",
-      "order": 7,
+      "order": 34,
       "date": "2026-09-09"
     },
     {
@@ -175,7 +769,7 @@
       ],
       "descEn": "Donut Hut — Business hours decal",
       "descKo": "Donut Hut — 영업시간 안내 데칼",
-      "order": 8,
+      "order": 35,
       "date": "2026-09-09"
     },
     {
@@ -197,7 +791,7 @@
       ],
       "descEn": "Shinseon — Business hours decal",
       "descKo": "Shinseon — 영업시간 안내 데칼",
-      "order": 9,
+      "order": 36,
       "date": "2026-09-09"
     },
     {
@@ -219,7 +813,7 @@
       ],
       "descEn": "Oh K-Dog — Mirror graphic",
       "descKo": "Oh K-Dog — 거울 그래픽",
-      "order": 10,
+      "order": 37,
       "date": "2026-09-09"
     },
     {
@@ -241,7 +835,7 @@
       ],
       "descEn": "Bon KBBQ — Wall graphic",
       "descKo": "Bon KBBQ — 월 그래픽",
-      "order": 11,
+      "order": 38,
       "date": "2026-09-09"
     },
     {
@@ -263,7 +857,7 @@
       ],
       "descEn": "Donut Hut — Storefront window graphics",
       "descKo": "Donut Hut — 매장 창문 그래픽",
-      "order": 12,
+      "order": 39,
       "date": "2026-09-09"
     },
     {
@@ -285,7 +879,7 @@
       ],
       "descEn": "White Tiger — Storefront window graphics",
       "descKo": "White Tiger — 매장 창문 그래픽",
-      "order": 13,
+      "order": 40,
       "date": "2026-09-09"
     },
     {
@@ -307,7 +901,7 @@
       ],
       "descEn": "Sea Travel — Storefront window graphics",
       "descKo": "Sea Travel — 매장 창문 그래픽",
-      "order": 14,
+      "order": 41,
       "date": "2026-09-09"
     },
     {
@@ -329,7 +923,7 @@
       ],
       "descEn": "Manna Shabu BBQ — Storefront window graphics",
       "descKo": "Manna Shabu BBQ — 매장 창문 그래픽",
-      "order": 15,
+      "order": 42,
       "date": "2026-09-09"
     },
     {
@@ -351,7 +945,7 @@
       ],
       "descEn": "Omi — Storefront window graphics",
       "descKo": "Omi — 매장 창문 그래픽",
-      "order": 16,
+      "order": 43,
       "date": "2026-09-09"
     },
     {
@@ -373,7 +967,7 @@
       ],
       "descEn": "Omi — Storefront window graphics",
       "descKo": "Omi — 매장 창문 그래픽",
-      "order": 17,
+      "order": 44,
       "date": "2026-09-09"
     },
     {
@@ -395,7 +989,7 @@
       ],
       "descEn": "Ramyun Story — Storefront window graphics",
       "descKo": "Ramyun Story — 매장 창문 그래픽",
-      "order": 18,
+      "order": 45,
       "date": "2026-09-09"
     },
     {
@@ -417,7 +1011,7 @@
       ],
       "descEn": "Sushi Kadan — Storefront window graphics",
       "descKo": "Sushi Kadan — 매장 창문 그래픽",
-      "order": 19,
+      "order": 46,
       "date": "2026-09-09"
     },
     {
@@ -439,7 +1033,7 @@
       ],
       "descEn": "Donut Hut — Indoor banner",
       "descKo": "Donut Hut — 실내 배너",
-      "order": 20,
+      "order": 47,
       "date": "2026-09-09"
     },
     {
@@ -461,7 +1055,7 @@
       ],
       "descEn": "Dabonda — Frosted window film",
       "descKo": "Dabonda — 불투명 윈도우 프로스트 시트",
-      "order": 21,
+      "order": 48,
       "date": "2026-09-09"
     },
     {
@@ -483,7 +1077,7 @@
       ],
       "descEn": "Cracked & Crepe — Storefront window graphics",
       "descKo": "Cracked & Crepe — 매장 창문 그래픽",
-      "order": 22,
+      "order": 49,
       "date": "2026-09-09"
     },
     {
@@ -505,7 +1099,7 @@
       ],
       "descEn": "Group T-shirts for a church, heat press printed.",
       "descKo": "교회 단체 티셔츠. 열전사 인쇄.",
-      "order": 23,
+      "order": 50,
       "date": "2026-08-27"
     },
     {
@@ -527,7 +1121,7 @@
       ],
       "descEn": "Wangjokbal — Table menu · Book",
       "descKo": "Wangjokbal — 테이블 메뉴 · 책자형",
-      "order": 24,
+      "order": 51,
       "date": "2026-08-27"
     },
     {
@@ -549,7 +1143,7 @@
       ],
       "descEn": "Ggui Ggui — Table menu · Paper",
       "descKo": "Ggui Ggui — 테이블 메뉴 · 종이",
-      "order": 25,
+      "order": 52,
       "date": "2026-08-27"
     },
     {
@@ -571,7 +1165,7 @@
       ],
       "descEn": "Don Chicken — Storefront signage",
       "descKo": "Don Chicken — 매장 사인",
-      "order": 26,
+      "order": 53,
       "date": "2026-08-27"
     },
     {
@@ -593,7 +1187,7 @@
       ],
       "descEn": "Expert Clip — Interior wall graphics",
       "descKo": "Expert Clip — 실내 월 그래픽",
-      "order": 27,
+      "order": 54,
       "date": "2026-08-27"
     },
     {
@@ -615,7 +1209,7 @@
       ],
       "descEn": "Rakko Sushi2 — Table menu · Paper",
       "descKo": "Rakko Sushi2 — 테이블 메뉴 · 종이",
-      "order": 28,
+      "order": 55,
       "date": "2026-08-27"
     },
     {
@@ -637,7 +1231,7 @@
       ],
       "descEn": "Expert Clip — Interior wall graphics",
       "descKo": "Expert Clip — 실내 월 그래픽",
-      "order": 29,
+      "order": 56,
       "date": "2026-08-27"
     },
     {
@@ -659,7 +1253,7 @@
       ],
       "descEn": "Doldol — Exterior building banner",
       "descKo": "Doldol — 건물 외벽 배너",
-      "order": 30,
+      "order": 57,
       "date": "2026-08-27"
     },
     {
@@ -681,7 +1275,7 @@
       ],
       "descEn": "Ice Cabin — Storefront window graphics",
       "descKo": "Ice Cabin — 매장 창문 그래픽",
-      "order": 31,
+      "order": 58,
       "date": "2026-08-27"
     },
     {
@@ -703,7 +1297,7 @@
       ],
       "descEn": "Bon Kbbq2 — Interior wall graphics",
       "descKo": "Bon Kbbq2 — 실내 월 그래픽",
-      "order": 32,
+      "order": 59,
       "date": "2026-08-27"
     },
     {
@@ -725,7 +1319,7 @@
       ],
       "descEn": "Wonbbq — Table menu · Paper",
       "descKo": "Wonbbq — 테이블 메뉴 · 종이",
-      "order": 33,
+      "order": 60,
       "date": "2026-08-27"
     },
     {
@@ -747,7 +1341,7 @@
       ],
       "descEn": "Davisdonuts — Storefront window graphics",
       "descKo": "Davisdonuts — 매장 창문 그래픽",
-      "order": 34,
+      "order": 61,
       "date": "2026-08-27"
     },
     {
@@ -769,7 +1363,7 @@
       ],
       "descEn": "Scrambler Cafe — Table menu · Sealed Laminate",
       "descKo": "Scrambler Cafe — 테이블 메뉴 · 실링 라미네이트",
-      "order": 35,
+      "order": 62,
       "date": "2026-08-27"
     },
     {
@@ -791,7 +1385,7 @@
       ],
       "descEn": "Jjanpocha — Table menu · Sealed Laminate",
       "descKo": "Jjanpocha — 테이블 메뉴 · 실링 라미네이트",
-      "order": 36,
+      "order": 63,
       "date": "2026-08-27"
     },
     {
@@ -813,7 +1407,7 @@
       ],
       "descEn": "Kbbq — Frosted window film",
       "descKo": "Kbbq — 불투명 윈도우 프로스트 시트",
-      "order": 37,
+      "order": 64,
       "date": "2026-08-27"
     },
     {
@@ -835,7 +1429,7 @@
       ],
       "descEn": "Starwoodcafe — Table menu · Sealed Laminate",
       "descKo": "Starwoodcafe — 테이블 메뉴 · 실링 라미네이트",
-      "order": 38,
+      "order": 65,
       "date": "2026-08-27"
     },
     {
@@ -857,12 +1451,12 @@
       ],
       "descEn": "Lonestar — Table menu",
       "descKo": "Lonestar — 테이블 메뉴",
-      "order": 39,
+      "order": 66,
       "date": "2026-08-27"
     },
     {
       "title": "Restaurant Wall Graphic",
-      "client": "Cracked Ncrepe",
+      "client": "Cracked & Crepe",
       "image": "assets/portfolio/restaurant-wall-graphic-18.webp",
       "alt": "Restaurant Wall Graphic designed and printed by e.NUE Design",
       "serviceEn": [
@@ -879,7 +1473,7 @@
       ],
       "descEn": "Cracked Ncrepe — Interior wall graphics",
       "descKo": "Cracked Ncrepe — 실내 월 그래픽",
-      "order": 40,
+      "order": 67,
       "date": "2026-08-27"
     },
     {
@@ -901,7 +1495,7 @@
       ],
       "descEn": "Donchicken — Interior wall graphics",
       "descKo": "Donchicken — 실내 월 그래픽",
-      "order": 41,
+      "order": 68,
       "date": "2026-08-27"
     },
     {
@@ -923,7 +1517,7 @@
       ],
       "descEn": "Sushikyoto — Storefront window graphics",
       "descKo": "Sushikyoto — 매장 창문 그래픽",
-      "order": 42,
+      "order": 69,
       "date": "2026-08-27"
     },
     {
@@ -945,7 +1539,7 @@
       ],
       "descEn": "Chanmaru2 — Storefront window graphics",
       "descKo": "Chanmaru2 — 매장 창문 그래픽",
-      "order": 43,
+      "order": 70,
       "date": "2026-08-27"
     },
     {
@@ -967,12 +1561,12 @@
       ],
       "descEn": "Topscafe — Interior wall graphics",
       "descKo": "Topscafe — 실내 월 그래픽",
-      "order": 44,
+      "order": 71,
       "date": "2026-08-27"
     },
     {
       "title": "Retail Wall Graphic",
-      "client": "Washndry",
+      "client": "Wash N Dry",
       "image": "assets/portfolio/retail-wall-graphic.webp",
       "alt": "Retail Wall Graphic designed and printed by e.NUE Design",
       "serviceEn": [
@@ -989,7 +1583,7 @@
       ],
       "descEn": "Washndry — Interior wall graphics",
       "descKo": "Washndry — 실내 월 그래픽",
-      "order": 45,
+      "order": 72,
       "date": "2026-08-27"
     },
     {
@@ -1011,12 +1605,12 @@
       ],
       "descEn": "Dalbeer — Storefront window graphics",
       "descKo": "Dalbeer — 매장 창문 그래픽",
-      "order": 46,
+      "order": 73,
       "date": "2026-08-27"
     },
     {
       "title": "Retail Wall Graphic",
-      "client": "Washndry",
+      "client": "Wash N Dry",
       "image": "assets/portfolio/retail-wall-graphic-2.webp",
       "alt": "Retail Wall Graphic designed and printed by e.NUE Design",
       "serviceEn": [
@@ -1033,7 +1627,7 @@
       ],
       "descEn": "Washndry — Interior wall graphics",
       "descKo": "Washndry — 실내 월 그래픽",
-      "order": 47,
+      "order": 74,
       "date": "2026-08-27"
     },
     {
@@ -1055,7 +1649,7 @@
       ],
       "descEn": "Shins Donut Palace — Business hours window decal",
       "descKo": "Shins Donut Palace — 영업시간 안내 창문 데칼",
-      "order": 48,
+      "order": 75,
       "date": "2026-08-27"
     },
     {
@@ -1077,7 +1671,7 @@
       ],
       "descEn": "Commemorative keyring for a church, produced as a sublimation item.",
       "descKo": "교회 기념 키링. 승화 인쇄 굿즈.",
-      "order": 49,
+      "order": 76,
       "date": "2026-08-26"
     },
     {
@@ -1099,7 +1693,7 @@
       ],
       "descEn": "Poster",
       "descKo": "포스터",
-      "order": 50,
+      "order": 77,
       "date": "2026-08-26"
     },
     {
@@ -1121,7 +1715,7 @@
       ],
       "descEn": "Donutstation — Business Card 3.5\"x2\" · Glossy Finish",
       "descKo": "Donutstation — 명함 3.5\"x2\" · 유광 코팅",
-      "order": 51,
+      "order": 78,
       "date": "2026-08-26"
     },
     {
@@ -1143,7 +1737,7 @@
       ],
       "descEn": "Donut Hut — Sublimation printed merchandise",
       "descKo": "Donut Hut — 승화 인쇄 굿즈",
-      "order": 52,
+      "order": 79,
       "date": "2026-08-26"
     },
     {
@@ -1165,7 +1759,7 @@
       ],
       "descEn": "Storefront window graphics",
       "descKo": "매장 창문 그래픽",
-      "order": 53,
+      "order": 80,
       "date": "2026-08-26"
     },
     {
@@ -1187,7 +1781,7 @@
       ],
       "descEn": "Sublimation printed merchandise",
       "descKo": "승화 인쇄 굿즈",
-      "order": 54,
+      "order": 81,
       "date": "2026-08-26"
     },
     {
@@ -1209,7 +1803,7 @@
       ],
       "descEn": "Bakersdonuts — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Bakersdonuts — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 55,
+      "order": 82,
       "date": "2026-08-26"
     },
     {
@@ -1231,7 +1825,7 @@
       ],
       "descEn": "Hd — Business Card 3.5\"x2\" · Glossy Finish",
       "descKo": "Hd — 명함 3.5\"x2\" · 유광 코팅",
-      "order": 56,
+      "order": 83,
       "date": "2026-08-26"
     },
     {
@@ -1253,7 +1847,7 @@
       ],
       "descEn": "Eldo Donuts — Business Card 3.5\"x2\" · Glossy Finish",
       "descKo": "Eldo Donuts — 명함 3.5\"x2\" · 유광 코팅",
-      "order": 57,
+      "order": 84,
       "date": "2026-08-26"
     },
     {
@@ -1275,7 +1869,7 @@
       ],
       "descEn": "Donuts House — Business Card 3.5\"x2\" · Glossy Finish",
       "descKo": "Donuts House — 명함 3.5\"x2\" · 유광 코팅",
-      "order": 58,
+      "order": 85,
       "date": "2026-08-26"
     },
     {
@@ -1297,7 +1891,7 @@
       ],
       "descEn": "Hesed Coffee & Donut — Business Card 3.5\"x2\" · Glossy Finish",
       "descKo": "Hesed Coffee & Donut — 명함 3.5\"x2\" · 유광 코팅",
-      "order": 59,
+      "order": 86,
       "date": "2026-08-26"
     },
     {
@@ -1319,7 +1913,7 @@
       ],
       "descEn": "Doshirock — Business Card 3.5\"x2\" · Glossy Finish",
       "descKo": "Doshirock — 명함 3.5\"x2\" · 유광 코팅",
-      "order": 60,
+      "order": 87,
       "date": "2026-08-26"
     },
     {
@@ -1341,7 +1935,7 @@
       ],
       "descEn": "Kome — Logo design",
       "descKo": "Kome — 로고 디자인",
-      "order": 61,
+      "order": 88,
       "date": "2026-08-26"
     },
     {
@@ -1363,7 +1957,7 @@
       ],
       "descEn": "Donutpalace — Storefront window graphics",
       "descKo": "Donutpalace — 매장 창문 그래픽",
-      "order": 62,
+      "order": 89,
       "date": "2026-08-26"
     },
     {
@@ -1385,7 +1979,7 @@
       ],
       "descEn": "Goldencrown — Business Card 3.5\"x2\" · Gold Foil Finish",
       "descKo": "Goldencrown — 명함 3.5\"x2\" · 금박",
-      "order": 63,
+      "order": 90,
       "date": "2026-08-26"
     },
     {
@@ -1407,7 +2001,7 @@
       ],
       "descEn": "Yukai — Logo design",
       "descKo": "Yukai — 로고 디자인",
-      "order": 64,
+      "order": 91,
       "date": "2026-08-26"
     },
     {
@@ -1429,7 +2023,7 @@
       ],
       "descEn": "Donutparty — Storefront window graphics",
       "descKo": "Donutparty — 매장 창문 그래픽",
-      "order": 65,
+      "order": 92,
       "date": "2026-08-26"
     },
     {
@@ -1451,7 +2045,7 @@
       ],
       "descEn": "Jjan Pocha — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Jjan Pocha — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 66,
+      "order": 93,
       "date": "2026-08-26"
     },
     {
@@ -1473,7 +2067,7 @@
       ],
       "descEn": "Robocrisp — Logo design",
       "descKo": "Robocrisp — 로고 디자인",
-      "order": 67,
+      "order": 94,
       "date": "2026-08-26"
     },
     {
@@ -1495,7 +2089,7 @@
       ],
       "descEn": "Lakewooddonut — Storefront window graphics",
       "descKo": "Lakewooddonut — 매장 창문 그래픽",
-      "order": 68,
+      "order": 95,
       "date": "2026-08-26"
     },
     {
@@ -1517,7 +2111,7 @@
       ],
       "descEn": "Oakcliffdonuts — Storefront window graphics",
       "descKo": "Oakcliffdonuts — 매장 창문 그래픽",
-      "order": 69,
+      "order": 96,
       "date": "2026-08-26"
     },
     {
@@ -1539,7 +2133,7 @@
       ],
       "descEn": "Bestdonuts — Business Card 3.5\"x2\" · Glossy Finish",
       "descKo": "Bestdonuts — 명함 3.5\"x2\" · 유광 코팅",
-      "order": 70,
+      "order": 97,
       "date": "2026-08-26"
     },
     {
@@ -1561,7 +2155,7 @@
       ],
       "descEn": "Donuthouse — Business Card 3.5\"x2\" · Glossy Finish",
       "descKo": "Donuthouse — 명함 3.5\"x2\" · 유광 코팅",
-      "order": 71,
+      "order": 98,
       "date": "2026-08-26"
     },
     {
@@ -1583,7 +2177,7 @@
       ],
       "descEn": "Chans Donut — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Chans Donut — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 72,
+      "order": 99,
       "date": "2026-08-26"
     },
     {
@@ -1605,7 +2199,7 @@
       ],
       "descEn": "Storefront window graphics",
       "descKo": "매장 창문 그래픽",
-      "order": 73,
+      "order": 100,
       "date": "2026-08-26"
     },
     {
@@ -1627,7 +2221,7 @@
       ],
       "descEn": "Dandydonuts — Storefront window graphics",
       "descKo": "Dandydonuts — 매장 창문 그래픽",
-      "order": 74,
+      "order": 101,
       "date": "2026-08-26"
     },
     {
@@ -1649,7 +2243,7 @@
       ],
       "descEn": "Songskfood — Business Card 3.5\"x2\" · Glossy Finish",
       "descKo": "Songskfood — 명함 3.5\"x2\" · 유광 코팅",
-      "order": 75,
+      "order": 102,
       "date": "2026-08-26"
     },
     {
@@ -1671,7 +2265,7 @@
       ],
       "descEn": "Chicken — Storefront window graphics",
       "descKo": "Chicken — 매장 창문 그래픽",
-      "order": 76,
+      "order": 103,
       "date": "2026-08-26"
     },
     {
@@ -1693,7 +2287,7 @@
       ],
       "descEn": "Edohana — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Edohana — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 77,
+      "order": 104,
       "date": "2026-08-26"
     },
     {
@@ -1715,7 +2309,7 @@
       ],
       "descEn": "Texan Wangbal — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Texan Wangbal — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 78,
+      "order": 105,
       "date": "2026-08-26"
     },
     {
@@ -1737,7 +2331,7 @@
       ],
       "descEn": "Wonbbq — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Wonbbq — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 79,
+      "order": 106,
       "date": "2026-08-26"
     },
     {
@@ -1759,7 +2353,7 @@
       ],
       "descEn": "Shokunin — Business Card 3.5\"x2\" · Spot UV Finish",
       "descKo": "Shokunin — 명함 3.5\"x2\" · 부분 UV",
-      "order": 80,
+      "order": 107,
       "date": "2026-08-26"
     },
     {
@@ -1781,7 +2375,7 @@
       ],
       "descEn": "Scramblercafe — Business Card 3.5\"x2\" · Uncoated Finish",
       "descKo": "Scramblercafe — 명함 3.5\"x2\" · 비코팅",
-      "order": 81,
+      "order": 108,
       "date": "2026-08-26"
     },
     {
@@ -1803,7 +2397,7 @@
       ],
       "descEn": "Mannamenus — Table menu · Standing",
       "descKo": "Mannamenus — 테이블 메뉴 · 스탠딩형",
-      "order": 82,
+      "order": 109,
       "date": "2026-08-26"
     },
     {
@@ -1825,7 +2419,7 @@
       ],
       "descEn": "99pocha — Drink menu",
       "descKo": "99pocha — 음료 메뉴",
-      "order": 83,
+      "order": 110,
       "date": "2026-08-26"
     },
     {
@@ -1847,7 +2441,7 @@
       ],
       "descEn": "Thejinkook — Canvas print",
       "descKo": "Thejinkook — 캔버스 액자",
-      "order": 84,
+      "order": 111,
       "date": "2026-08-26"
     },
     {
@@ -1869,7 +2463,7 @@
       ],
       "descEn": "Won BBQ — Picture board",
       "descKo": "Won BBQ — 픽처보드",
-      "order": 85,
+      "order": 112,
       "date": "2026-08-26"
     },
     {
@@ -1891,7 +2485,7 @@
       ],
       "descEn": "Chanmaru — Table menu · Book",
       "descKo": "Chanmaru — 테이블 메뉴 · 책자형",
-      "order": 86,
+      "order": 113,
       "date": "2026-08-26"
     },
     {
@@ -1913,7 +2507,7 @@
       ],
       "descEn": "Kbbq — Table menu · Book",
       "descKo": "Kbbq — 테이블 메뉴 · 책자형",
-      "order": 87,
+      "order": 114,
       "date": "2026-08-26"
     },
     {
@@ -1935,7 +2529,7 @@
       ],
       "descEn": "Tokyo Samurai — Drink menu",
       "descKo": "Tokyo Samurai — 음료 메뉴",
-      "order": 88,
+      "order": 115,
       "date": "2026-08-26"
     },
     {
@@ -1957,7 +2551,7 @@
       ],
       "descEn": "1stgamja — Table menu · Gloss Book",
       "descKo": "1stgamja — 테이블 메뉴 · 유광 북지",
-      "order": 89,
+      "order": 116,
       "date": "2026-08-26"
     },
     {
@@ -1979,7 +2573,7 @@
       ],
       "descEn": "Happydaysoju — Table menu · Paper",
       "descKo": "Happydaysoju — 테이블 메뉴 · 종이",
-      "order": 90,
+      "order": 117,
       "date": "2026-08-26"
     },
     {
@@ -2001,7 +2595,7 @@
       ],
       "descEn": "Edohana — Drink menu",
       "descKo": "Edohana — 음료 메뉴",
-      "order": 91,
+      "order": 118,
       "date": "2026-08-26"
     },
     {
@@ -2023,7 +2617,7 @@
       ],
       "descEn": "99pocha — Table menu · Sealed Laminate",
       "descKo": "99pocha — 테이블 메뉴 · 실링 라미네이트",
-      "order": 92,
+      "order": 119,
       "date": "2026-08-26"
     },
     {
@@ -2045,7 +2639,7 @@
       ],
       "descEn": "Don Sarang — Table menu · Sealed Laminate",
       "descKo": "Don Sarang — 테이블 메뉴 · 실링 라미네이트",
-      "order": 93,
+      "order": 120,
       "date": "2026-08-26"
     },
     {
@@ -2067,7 +2661,7 @@
       ],
       "descEn": "Jjang Pocha — Stamp card · Uncoated",
       "descKo": "Jjang Pocha — 스탬프 카드 · 비코팅",
-      "order": 94,
+      "order": 121,
       "date": "2026-08-26"
     },
     {
@@ -2089,7 +2683,7 @@
       ],
       "descEn": "Bonkbbq — Table menu · Sealed Laminate",
       "descKo": "Bonkbbq — 테이블 메뉴 · 실링 라미네이트",
-      "order": 95,
+      "order": 122,
       "date": "2026-08-26"
     },
     {
@@ -2111,7 +2705,7 @@
       ],
       "descEn": "Dalbeer1 — Table menu · Sealed Laminate",
       "descKo": "Dalbeer1 — 테이블 메뉴 · 실링 라미네이트",
-      "order": 96,
+      "order": 123,
       "date": "2026-08-26"
     },
     {
@@ -2133,7 +2727,7 @@
       ],
       "descEn": "Dalbeer2 — Table menu · Sealed Laminate",
       "descKo": "Dalbeer2 — 테이블 메뉴 · 실링 라미네이트",
-      "order": 97,
+      "order": 124,
       "date": "2026-08-26"
     },
     {
@@ -2155,7 +2749,7 @@
       ],
       "descEn": "Dch — Table menu · Sealed Laminate",
       "descKo": "Dch — 테이블 메뉴 · 실링 라미네이트",
-      "order": 98,
+      "order": 125,
       "date": "2026-08-26"
     },
     {
@@ -2177,7 +2771,7 @@
       ],
       "descEn": "Restaurant1 — Poster",
       "descKo": "Restaurant1 — 포스터",
-      "order": 99,
+      "order": 126,
       "date": "2026-08-26"
     },
     {
@@ -2199,7 +2793,7 @@
       ],
       "descEn": "Donchicken — Table menu · Sealed Laminate",
       "descKo": "Donchicken — 테이블 메뉴 · 실링 라미네이트",
-      "order": 100,
+      "order": 127,
       "date": "2026-08-26"
     },
     {
@@ -2221,7 +2815,7 @@
       ],
       "descEn": "Restaurant2 — Poster",
       "descKo": "Restaurant2 — 포스터",
-      "order": 101,
+      "order": 128,
       "date": "2026-08-26"
     },
     {
@@ -2243,7 +2837,7 @@
       ],
       "descEn": "Donsaranglunch — Table menu · Sealed Laminate",
       "descKo": "Donsaranglunch — 테이블 메뉴 · 실링 라미네이트",
-      "order": 102,
+      "order": 129,
       "date": "2026-08-26"
     },
     {
@@ -2265,7 +2859,7 @@
       ],
       "descEn": "Bennys — Poster",
       "descKo": "Bennys — 포스터",
-      "order": 103,
+      "order": 130,
       "date": "2026-08-26"
     },
     {
@@ -2287,7 +2881,7 @@
       ],
       "descEn": "Eggsquisite — Table menu · Sealed Laminate",
       "descKo": "Eggsquisite — 테이블 메뉴 · 실링 라미네이트",
-      "order": 104,
+      "order": 131,
       "date": "2026-08-26"
     },
     {
@@ -2309,7 +2903,7 @@
       ],
       "descEn": "Bennys2 — Poster",
       "descKo": "Bennys2 — 포스터",
-      "order": 105,
+      "order": 132,
       "date": "2026-08-26"
     },
     {
@@ -2331,7 +2925,7 @@
       ],
       "descEn": "Chanmaru — Poster",
       "descKo": "Chanmaru — 포스터",
-      "order": 106,
+      "order": 133,
       "date": "2026-08-26"
     },
     {
@@ -2353,7 +2947,7 @@
       ],
       "descEn": "Dch2 — Menu Board",
       "descKo": "Dch2 — 메뉴보드",
-      "order": 107,
+      "order": 134,
       "date": "2026-08-26"
     },
     {
@@ -2375,29 +2969,29 @@
       ],
       "descEn": "Texan Wangbal — Menu Board",
       "descKo": "Texan Wangbal — 메뉴보드",
-      "order": 108,
+      "order": 135,
       "date": "2026-08-26"
     },
     {
-      "title": "Restaurant Poster",
-      "client": "Washand Dry",
+      "title": "Retail Window Graphic",
+      "client": "Wash N Dry",
       "image": "assets/portfolio/restaurant-poster-21.webp",
-      "alt": "Restaurant Poster designed and printed by e.NUE Design",
+      "alt": "Retail Window Graphic designed and printed by e.NUE Design",
       "serviceEn": [
-        "Poster"
+        "Window Graphic"
       ],
       "serviceKo": [
-        "포스터"
+        "윈도우 그래픽"
       ],
       "industryEn": [
-        "Restaurant"
+        "Retail"
       ],
       "industryKo": [
-        "레스토랑"
+        "리테일"
       ],
-      "descEn": "Washand Dry — Poster",
-      "descKo": "Washand Dry — 포스터",
-      "order": 109,
+      "descEn": "Wash N Dry — Storefront window graphics",
+      "descKo": "Wash N Dry — 매장 창문 그래픽",
+      "order": 136,
       "date": "2026-08-26"
     },
     {
@@ -2419,7 +3013,7 @@
       ],
       "descEn": "Dalbeer — Poster",
       "descKo": "Dalbeer — 포스터",
-      "order": 110,
+      "order": 137,
       "date": "2026-08-26"
     },
     {
@@ -2441,7 +3035,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 111,
+      "order": 138,
       "date": "2026-08-21"
     },
     {
@@ -2463,7 +3057,7 @@
       ],
       "descEn": "Real estate yard sign with a Coming Soon panel and H-stake frame.",
       "descKo": "부동산 야드사인. Coming Soon 문구, H형 스탠드 포함.",
-      "order": 112,
+      "order": 139,
       "date": "2026-08-21"
     },
     {
@@ -2485,7 +3079,7 @@
       ],
       "descEn": "Real estate presentation folder with pockets for contract documents.",
       "descKo": "부동산 프레젠테이션 폴더. 계약 서류 보관용 포켓 구성.",
-      "order": 113,
+      "order": 140,
       "date": "2026-08-21"
     },
     {
@@ -2507,7 +3101,7 @@
       ],
       "descEn": "Vehicle decal for a logistics company, cut vinyl application.",
       "descKo": "물류회사 차량 데칼. 컷팅 시트 시공.",
-      "order": 114,
+      "order": 141,
       "date": "2026-08-21"
     },
     {
@@ -2529,7 +3123,7 @@
       ],
       "descEn": "Spa service menu, 8.5\"x11\".",
       "descKo": "스파 서비스 메뉴 8.5\"x11\".",
-      "order": 115,
+      "order": 142,
       "date": "2026-08-21"
     },
     {
@@ -2551,7 +3145,7 @@
       ],
       "descEn": "Roll-up banner for a beauty supplier, built for both trade shows and in-store display.",
       "descKo": "뷰티 공급업체 롤업 배너. 전시회와 매장 양쪽에 쓸 수 있는 스탠드형.",
-      "order": 116,
+      "order": 143,
       "date": "2026-08-21"
     },
     {
@@ -2573,7 +3167,7 @@
       ],
       "descEn": "Corporate envelope designed as a set with the matching letterhead.",
       "descKo": "기업 봉투. 레터헤드와 세트로 구성.",
-      "order": 117,
+      "order": 144,
       "date": "2026-08-21"
     },
     {
@@ -2595,7 +3189,7 @@
       ],
       "descEn": "Gift certificate for a beauty salon, 6\"x3\".",
       "descKo": "뷰티살롱 기프트 상품권 6\"x3\".",
-      "order": 118,
+      "order": 145,
       "date": "2026-08-21"
     },
     {
@@ -2617,7 +3211,7 @@
       ],
       "descEn": "Preschool letterhead for notices and official correspondence.",
       "descKo": "유치원 레터헤드. 안내문과 공문서용 서식.",
-      "order": 119,
+      "order": 146,
       "date": "2026-08-21"
     },
     {
@@ -2639,7 +3233,7 @@
       ],
       "descEn": "Corporate name badge sample.",
       "descKo": "기업용 명찰 샘플.",
-      "order": 120,
+      "order": 147,
       "date": "2026-08-21"
     },
     {
@@ -2665,7 +3259,7 @@
       ],
       "descEn": "JDX — Storefront signage, business hours and window graphic",
       "descKo": "JDX — 매장 사인, 영업시간 안내, 윈도우 그래픽",
-      "order": 121,
+      "order": 148,
       "date": "2026-08-21"
     },
     {
@@ -2687,7 +3281,7 @@
       ],
       "descEn": "Large mesh banner for a commercial development site, made for long-term outdoor installation.",
       "descKo": "상가 개발 현장용 대형 메시 배너. 야외 장기 시공에 맞춘 통풍 소재.",
-      "order": 122,
+      "order": 149,
       "date": "2026-08-21"
     },
     {
@@ -2709,7 +3303,7 @@
       ],
       "descEn": "Salon coupon on matte stock with a perforated tear line.",
       "descKo": "뷰티살롱 쿠폰. 무광 코팅, 절취선 구성.",
-      "order": 123,
+      "order": 150,
       "date": "2026-08-21"
     },
     {
@@ -2731,7 +3325,7 @@
       ],
       "descEn": "EDDM postcard for a pet grooming shop, sized to USPS specifications for local mailing.",
       "descKo": "펫 그루밍샵 EDDM 우편광고. 우체국 규격에 맞춘 지역 발송용.",
-      "order": 124,
+      "order": 151,
       "date": "2026-08-21"
     },
     {
@@ -2753,7 +3347,7 @@
       ],
       "descEn": "Menu board for a pet grooming shop listing services and pricing.",
       "descKo": "펫 그루밍샵 메뉴보드. 서비스 항목과 가격 구성.",
-      "order": 125,
+      "order": 152,
       "date": "2026-08-21"
     },
     {
@@ -2762,10 +3356,10 @@
       "image": "assets/portfolio/hvac-service-ncr-form.webp",
       "alt": "HVAC Service NCR Form designed and printed by e.NUE Design",
       "serviceEn": [
-        "Invoice"
+        "NCR Form"
       ],
       "serviceKo": [
-        "인보이스"
+        "NCR 양식지"
       ],
       "industryEn": [
         "Industrial & Logistics"
@@ -2775,7 +3369,7 @@
       ],
       "descEn": "Carbonless NCR form for an HVAC contractor, doubling as estimate and work order.",
       "descKo": "HVAC 업체 NCR 복사 전표. 견적과 작업지시 겸용 양식.",
-      "order": 126,
+      "order": 153,
       "date": "2026-08-21"
     },
     {
@@ -2790,14 +3384,14 @@
         "포스터"
       ],
       "industryEn": [
-        "Church & Nonprofit"
+        "Events & Performance"
       ],
       "industryKo": [
-        "교회 & 비영리"
+        "공연 & 이벤트"
       ],
       "descEn": "Concert poster for an orchestra, 12\"x28\".",
       "descKo": "오케스트라 공연 포스터 12\"x28\".",
-      "order": 127,
+      "order": 154,
       "date": "2026-08-21"
     },
     {
@@ -2819,7 +3413,7 @@
       ],
       "descEn": "Digital ad banner for a church, sized for online placement.",
       "descKo": "교회 디지털 광고 배너. 온라인 게시용.",
-      "order": 128,
+      "order": 155,
       "date": "2026-08-21"
     },
     {
@@ -2841,7 +3435,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 129,
+      "order": 156,
       "date": "2026-08-21"
     },
     {
@@ -2863,7 +3457,7 @@
       ],
       "descEn": "Window graphics for a stationery store.",
       "descKo": "문구점 창문 그래픽.",
-      "order": 130,
+      "order": 157,
       "date": "2026-08-21"
     },
     {
@@ -2885,7 +3479,7 @@
       ],
       "descEn": "Real estate yard sign for lease listings, with rider panel.",
       "descKo": "부동산 임대 야드사인. For Lease 라이더 포함.",
-      "order": 131,
+      "order": 158,
       "date": "2026-08-21"
     },
     {
@@ -2907,7 +3501,7 @@
       ],
       "descEn": "Real estate listing flyer with property photos and agent contact block.",
       "descKo": "부동산 매물 전단지. 매물 사진과 담당자 정보 구성.",
-      "order": 132,
+      "order": 159,
       "date": "2026-08-21"
     },
     {
@@ -2929,7 +3523,7 @@
       ],
       "descEn": "Preschool folder for distributing enrollment materials.",
       "descKo": "유치원 안내 폴더. 입학 자료 배포용.",
-      "order": 133,
+      "order": 160,
       "date": "2026-08-21"
     },
     {
@@ -2951,7 +3545,7 @@
       ],
       "descEn": "Vehicle decal for a pet grooming shop.",
       "descKo": "펫 그루밍샵 차량 데칼.",
-      "order": 134,
+      "order": 161,
       "date": "2026-08-21"
     },
     {
@@ -2973,7 +3567,7 @@
       ],
       "descEn": "Table menu for a hair salon listing services and prices.",
       "descKo": "미용실 테이블 메뉴. 시술 항목과 가격 안내.",
-      "order": 135,
+      "order": 162,
       "date": "2026-08-21"
     },
     {
@@ -2995,14 +3589,14 @@
       ],
       "descEn": "Indoor banner for a health and beauty retailer.",
       "descKo": "헬스&뷰티 매장 실내 배너.",
-      "order": 136,
+      "order": 163,
       "date": "2026-08-21"
     },
     {
-      "title": "Golf Shop Table Banner",
+      "title": "Golf Academy Table Banner",
       "client": "Golf",
       "image": "assets/portfolio/golf-shop-table-banner.webp",
-      "alt": "Golf Shop Table Banner designed and printed by e.NUE Design",
+      "alt": "Golf Academy Table Banner designed and printed by e.NUE Design",
       "serviceEn": [
         "Indoor Banner"
       ],
@@ -3010,14 +3604,14 @@
         "실내 배너"
       ],
       "industryEn": [
-        "Retail"
+        "Education"
       ],
       "industryKo": [
-        "리테일"
+        "교육"
       ],
       "descEn": "Tabletop banner for a golf shop, sized for event booths.",
       "descKo": "골프샵 테이블 배너. 행사 부스용 소형 스탠드.",
-      "order": 137,
+      "order": 164,
       "date": "2026-08-21"
     },
     {
@@ -3039,7 +3633,7 @@
       ],
       "descEn": "Gift certificate with silk lamination and silver foil stamping.",
       "descKo": "기프트 상품권. 실크 라미네이트에 은박 후가공.",
-      "order": 138,
+      "order": 165,
       "date": "2026-08-21"
     },
     {
@@ -3061,7 +3655,7 @@
       ],
       "descEn": "Real estate letterhead matching the envelope and folder set.",
       "descKo": "부동산 레터헤드. 봉투·폴더와 통일한 브랜드 서식.",
-      "order": 139,
+      "order": 166,
       "date": "2026-08-21"
     },
     {
@@ -3083,7 +3677,7 @@
       ],
       "descEn": "Staff name badge for a hair salon.",
       "descKo": "미용실 직원 명찰.",
-      "order": 140,
+      "order": 167,
       "date": "2026-08-21"
     },
     {
@@ -3105,7 +3699,7 @@
       ],
       "descEn": "Indoor sign for a hair salon.",
       "descKo": "미용실 실내 사인.",
-      "order": 141,
+      "order": 168,
       "date": "2026-08-21"
     },
     {
@@ -3127,7 +3721,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Silk Laminate and Round Corner",
       "descKo": "명함 3.5\"x2\" 실크 라미네이트 · 라운드 코너",
-      "order": 142,
+      "order": 169,
       "date": "2026-08-21"
     },
     {
@@ -3149,7 +3743,7 @@
       ],
       "descEn": "Home builder logo using a gold serif mark for a premium tone.",
       "descKo": "주택건설사 로고. 골드 세리프로 프리미엄 톤 구성.",
-      "order": 143,
+      "order": 170,
       "date": "2026-08-21"
     },
     {
@@ -3171,7 +3765,7 @@
       ],
       "descEn": "Real estate for-sale yard sign, 24\"x18\", with agent photo.",
       "descKo": "부동산 매매 야드사인 24\"x18\". 담당자 사진 포함.",
-      "order": 144,
+      "order": 171,
       "date": "2026-08-21"
     },
     {
@@ -3193,14 +3787,14 @@
       ],
       "descEn": "Presentation folder for a home builder.",
       "descKo": "주택건설사 프레젠테이션 폴더.",
-      "order": 145,
+      "order": 172,
       "date": "2026-08-21"
     },
     {
-      "title": "Golf Shop Table Menu",
+      "title": "Golf Academy Table Menu",
       "client": "Golf",
       "image": "assets/portfolio/golf-shop-table-menu.webp",
-      "alt": "Golf Shop Table Menu designed and printed by e.NUE Design",
+      "alt": "Golf Academy Table Menu designed and printed by e.NUE Design",
       "serviceEn": [
         "Table Menu"
       ],
@@ -3208,14 +3802,14 @@
         "테이블 메뉴"
       ],
       "industryEn": [
-        "Retail"
+        "Education"
       ],
       "industryKo": [
-        "리테일"
+        "교육"
       ],
       "descEn": "Table menu for a golf shop.",
       "descKo": "골프샵 테이블 메뉴.",
-      "order": 146,
+      "order": 173,
       "date": "2026-08-21"
     },
     {
@@ -3237,7 +3831,7 @@
       ],
       "descEn": "Event Indoor banner for a church.",
       "descKo": "교회 행사 실내 배너.",
-      "order": 147,
+      "order": 174,
       "date": "2026-08-21"
     },
     {
@@ -3259,7 +3853,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 148,
+      "order": 175,
       "date": "2026-08-21"
     },
     {
@@ -3281,7 +3875,7 @@
       ],
       "descEn": "Logo for a telecommunications company.",
       "descKo": "통신업체 로고.",
-      "order": 149,
+      "order": 176,
       "date": "2026-08-21"
     },
     {
@@ -3303,7 +3897,7 @@
       ],
       "descEn": "Real estate agent yard sign, 24\"x18\".",
       "descKo": "부동산 에이전트 야드사인 24\"x18\".",
-      "order": 150,
+      "order": 177,
       "date": "2026-08-21"
     },
     {
@@ -3325,7 +3919,7 @@
       ],
       "descEn": "Pet grooming flyer printed on gloss book stock.",
       "descKo": "펫 그루밍샵 전단지. 유광 북지 인쇄.",
-      "order": 151,
+      "order": 178,
       "date": "2026-08-21"
     },
     {
@@ -3347,7 +3941,7 @@
       ],
       "descEn": "In-house presentation folder for e.NUE Design.",
       "descKo": "e.NUE Design 자사 프레젠테이션 폴더.",
-      "order": 152,
+      "order": 179,
       "date": "2026-08-21"
     },
     {
@@ -3369,7 +3963,7 @@
       ],
       "descEn": "Truck lettering in cut vinyl for regulatory markings.",
       "descKo": "트럭 레터링. 규정 표기용 컷팅 시트.",
-      "order": 153,
+      "order": 180,
       "date": "2026-08-21"
     },
     {
@@ -3391,7 +3985,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 154,
+      "order": 181,
       "date": "2026-08-21"
     },
     {
@@ -3413,7 +4007,7 @@
       ],
       "descEn": "Window advertising graphics for a hair salon promoting current services.",
       "descKo": "미용실 창문 광고 그래픽. 시술 프로모션 게시.",
-      "order": 155,
+      "order": 182,
       "date": "2026-08-21"
     },
     {
@@ -3435,7 +4029,7 @@
       ],
       "descEn": "Real estate yard sign, 36\"x24\".",
       "descKo": "부동산 야드사인 36\"x24\".",
-      "order": 156,
+      "order": 183,
       "date": "2026-08-21"
     },
     {
@@ -3457,7 +4051,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 157,
+      "order": 184,
       "date": "2026-08-21"
     },
     {
@@ -3479,7 +4073,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 158,
+      "order": 185,
       "date": "2026-08-21"
     },
     {
@@ -3501,7 +4095,7 @@
       ],
       "descEn": "Frosted window film for a hair salon.",
       "descKo": "미용실 창문 무광 시트.",
-      "order": 159,
+      "order": 186,
       "date": "2026-08-21"
     },
     {
@@ -3523,7 +4117,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 160,
+      "order": 187,
       "date": "2026-08-21"
     },
     {
@@ -3545,7 +4139,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 161,
+      "order": 188,
       "date": "2026-08-21"
     },
     {
@@ -3567,7 +4161,7 @@
       ],
       "descEn": "Early logo concept for a window blinds retailer.",
       "descKo": "블라인드 전문점 로고 초기안.",
-      "order": 162,
+      "order": 189,
       "date": "2026-08-21"
     },
     {
@@ -3589,7 +4183,7 @@
       ],
       "descEn": "Window poster for a hair salon.",
       "descKo": "미용실 창문 포스터.",
-      "order": 163,
+      "order": 190,
       "date": "2026-08-21"
     },
     {
@@ -3611,7 +4205,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 164,
+      "order": 191,
       "date": "2026-08-21"
     },
     {
@@ -3633,14 +4227,14 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 165,
+      "order": 192,
       "date": "2026-08-21"
     },
     {
-      "title": "Golf Shop Logo",
+      "title": "Golf Academy Logo",
       "client": "Golf",
       "image": "assets/portfolio/golf-shop-logo.webp",
-      "alt": "Golf Shop Logo designed and printed by e.NUE Design",
+      "alt": "Golf Academy Logo designed and printed by e.NUE Design",
       "serviceEn": [
         "Logo"
       ],
@@ -3648,14 +4242,14 @@
         "로고"
       ],
       "industryEn": [
-        "Retail"
+        "Education"
       ],
       "industryKo": [
-        "리테일"
+        "교육"
       ],
       "descEn": "Logo for a golf shop.",
       "descKo": "골프샵 로고.",
-      "order": 166,
+      "order": 193,
       "date": "2026-08-21"
     },
     {
@@ -3677,7 +4271,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 167,
+      "order": 194,
       "date": "2026-08-21"
     },
     {
@@ -3699,7 +4293,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 168,
+      "order": 195,
       "date": "2026-08-21"
     },
     {
@@ -3721,7 +4315,7 @@
       ],
       "descEn": "Logo for a nail salon.",
       "descKo": "네일샵 로고.",
-      "order": 169,
+      "order": 196,
       "date": "2026-08-21"
     },
     {
@@ -3743,7 +4337,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 170,
+      "order": 197,
       "date": "2026-08-21"
     },
     {
@@ -3765,7 +4359,7 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 171,
+      "order": 198,
       "date": "2026-08-21"
     },
     {
@@ -3787,19 +4381,19 @@
       ],
       "descEn": "Business Card 3.5\"x2\" Matte Finish",
       "descKo": "명함 3.5\"x2\" 무광 코팅",
-      "order": 172,
+      "order": 199,
       "date": "2026-08-21"
     },
     {
-      "title": "Donut Shop Digital Ad",
+      "title": "Donut Shop Digital Menu",
       "client": "Video 1",
       "image": "assets/portfolio/donut-shop-digital-ad.webp",
-      "alt": "Donut Shop Digital Ad designed and printed by e.NUE Design",
+      "alt": "Donut Shop Digital Menu designed by e.NUE Design",
       "serviceEn": [
-        "Digital Ad"
+        "Digital Menu"
       ],
       "serviceKo": [
-        "디지털 광고"
+        "디지털 메뉴"
       ],
       "industryEn": [
         "Donut Shop"
@@ -3807,22 +4401,22 @@
       "industryKo": [
         "도넛샵"
       ],
-      "descEn": "Video 1 — Digital ad video",
-      "descKo": "Video 1 — 디지털 광고 영상",
+      "descEn": "Video 1 — Digital menu screen",
+      "descKo": "Video 1 — 디지털 메뉴 화면",
       "video": "assets/portfolio/donut-shop-digital-ad.mp4",
-      "order": 173,
+      "order": 200,
       "date": "2026-08-21"
     },
     {
-      "title": "Donut Shop Digital Ad",
+      "title": "Donut Shop Digital Menu",
       "client": "Video 2",
       "image": "assets/portfolio/donut-shop-digital-ad-2.webp",
-      "alt": "Donut Shop Digital Ad designed and printed by e.NUE Design",
+      "alt": "Donut Shop Digital Menu designed by e.NUE Design",
       "serviceEn": [
-        "Digital Ad"
+        "Digital Menu"
       ],
       "serviceKo": [
-        "디지털 광고"
+        "디지털 메뉴"
       ],
       "industryEn": [
         "Donut Shop"
@@ -3830,10 +4424,10 @@
       "industryKo": [
         "도넛샵"
       ],
-      "descEn": "Video 2 — Digital ad video",
-      "descKo": "Video 2 — 디지털 광고 영상",
+      "descEn": "Video 2 — Digital menu screen",
+      "descKo": "Video 2 — 디지털 메뉴 화면",
       "video": "assets/portfolio/donut-shop-digital-ad-2.mp4",
-      "order": 174,
+      "order": 201,
       "date": "2026-08-21"
     },
     {
@@ -3855,19 +4449,19 @@
       ],
       "descEn": "Imura — Custom T-shirts",
       "descKo": "Imura — 단체 티셔츠",
-      "order": 175,
+      "order": 202,
       "date": "2026-08-21"
     },
     {
-      "title": "Donut Shop Digital Ad",
+      "title": "Donut Shop Digital Menu",
       "client": "Video 3",
       "image": "assets/portfolio/donut-shop-digital-ad-3.webp",
-      "alt": "Donut Shop Digital Ad designed and printed by e.NUE Design",
+      "alt": "Donut Shop Digital Menu designed by e.NUE Design",
       "serviceEn": [
-        "Digital Ad"
+        "Digital Menu"
       ],
       "serviceKo": [
-        "디지털 광고"
+        "디지털 메뉴"
       ],
       "industryEn": [
         "Donut Shop"
@@ -3875,10 +4469,10 @@
       "industryKo": [
         "도넛샵"
       ],
-      "descEn": "Video 3 — Digital ad video",
-      "descKo": "Video 3 — 디지털 광고 영상",
+      "descEn": "Video 3 — Digital menu screen",
+      "descKo": "Video 3 — 디지털 메뉴 화면",
       "video": "assets/portfolio/donut-shop-digital-ad-3.mp4",
-      "order": 176,
+      "order": 203,
       "date": "2026-08-21"
     },
     {
@@ -3900,7 +4494,7 @@
       ],
       "descEn": "Hot Donuts — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Hot Donuts — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 177,
+      "order": 204,
       "date": "2026-08-21"
     },
     {
@@ -3922,7 +4516,7 @@
       ],
       "descEn": "The Jinkook — Custom T-shirts",
       "descKo": "The Jinkook — 단체 티셔츠",
-      "order": 178,
+      "order": 205,
       "date": "2026-08-21"
     },
     {
@@ -3944,7 +4538,7 @@
       ],
       "descEn": "Parkway Donuts — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Parkway Donuts — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 179,
+      "order": 206,
       "date": "2026-08-21"
     },
     {
@@ -3966,7 +4560,7 @@
       ],
       "descEn": "Don Sarang — Custom T-shirts",
       "descKo": "Don Sarang — 단체 티셔츠",
-      "order": 180,
+      "order": 207,
       "date": "2026-08-21"
     },
     {
@@ -3988,7 +4582,7 @@
       ],
       "descEn": "Eldodonuts — Storefront window graphics",
       "descKo": "Eldodonuts — 매장 창문 그래픽",
-      "order": 181,
+      "order": 208,
       "date": "2026-08-21"
     },
     {
@@ -4010,7 +4604,7 @@
       ],
       "descEn": "Morrisdonuts — Storefront window graphics",
       "descKo": "Morrisdonuts — 매장 창문 그래픽",
-      "order": 182,
+      "order": 209,
       "date": "2026-08-21"
     },
     {
@@ -4032,7 +4626,7 @@
       ],
       "descEn": "Qdonuts — Storefront window graphics",
       "descKo": "Qdonuts — 매장 창문 그래픽",
-      "order": 183,
+      "order": 210,
       "date": "2026-08-21"
     },
     {
@@ -4054,7 +4648,7 @@
       ],
       "descEn": "Jjan Pocha — Logo design",
       "descKo": "Jjan Pocha — 로고 디자인",
-      "order": 184,
+      "order": 211,
       "date": "2026-08-21"
     },
     {
@@ -4076,7 +4670,7 @@
       ],
       "descEn": "Shins Donut Palace — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Shins Donut Palace — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 185,
+      "order": 212,
       "date": "2026-08-21"
     },
     {
@@ -4098,7 +4692,7 @@
       ],
       "descEn": "Imura — Table menu · Book",
       "descKo": "Imura — 테이블 메뉴 · 책자형",
-      "order": 186,
+      "order": 213,
       "date": "2026-08-21"
     },
     {
@@ -4120,7 +4714,7 @@
       ],
       "descEn": "Donuts Plus — Stamp card · Uncoated",
       "descKo": "Donuts Plus — 스탬프 카드 · 비코팅",
-      "order": 187,
+      "order": 214,
       "date": "2026-08-21"
     },
     {
@@ -4142,7 +4736,7 @@
       ],
       "descEn": "Manna Donuts — Stamp card · Uncoated",
       "descKo": "Manna Donuts — 스탬프 카드 · 비코팅",
-      "order": 188,
+      "order": 215,
       "date": "2026-08-21"
     },
     {
@@ -4164,7 +4758,7 @@
       ],
       "descEn": "Bon Kbbq — Interior wall graphics",
       "descKo": "Bon Kbbq — 실내 월 그래픽",
-      "order": 189,
+      "order": 216,
       "date": "2026-08-21"
     },
     {
@@ -4186,7 +4780,7 @@
       ],
       "descEn": "Mannashabu — Interior wall graphics",
       "descKo": "Mannashabu — 실내 월 그래픽",
-      "order": 190,
+      "order": 217,
       "date": "2026-08-21"
     },
     {
@@ -4208,7 +4802,7 @@
       ],
       "descEn": "Ohkdog — Interior wall graphics",
       "descKo": "Ohkdog — 실내 월 그래픽",
-      "order": 191,
+      "order": 218,
       "date": "2026-08-21"
     },
     {
@@ -4230,7 +4824,7 @@
       ],
       "descEn": "Ohkdog — Interior wall graphics",
       "descKo": "Ohkdog — 실내 월 그래픽",
-      "order": 192,
+      "order": 219,
       "date": "2026-08-21"
     },
     {
@@ -4252,7 +4846,7 @@
       ],
       "descEn": "Wonbbq — Interior wall graphics",
       "descKo": "Wonbbq — 실내 월 그래픽",
-      "order": 193,
+      "order": 220,
       "date": "2026-08-21"
     },
     {
@@ -4274,7 +4868,7 @@
       ],
       "descEn": "Ohkdog — Interior wall graphics",
       "descKo": "Ohkdog — 실내 월 그래픽",
-      "order": 194,
+      "order": 221,
       "date": "2026-08-21"
     },
     {
@@ -4296,7 +4890,7 @@
       ],
       "descEn": "Kadan — Storefront window graphics",
       "descKo": "Kadan — 매장 창문 그래픽",
-      "order": 195,
+      "order": 222,
       "date": "2026-08-17"
     },
     {
@@ -4318,7 +4912,7 @@
       ],
       "descEn": "Bbqchicken — Storefront window graphics",
       "descKo": "Bbqchicken — 매장 창문 그래픽",
-      "order": 196,
+      "order": 223,
       "date": "2026-08-17"
     },
     {
@@ -4340,7 +4934,7 @@
       ],
       "descEn": "Dulcet — Business hours decal · Decal",
       "descKo": "Dulcet — 영업시간 안내 데칼 · 데칼",
-      "order": 197,
+      "order": 224,
       "date": "2026-08-14"
     },
     {
@@ -4362,7 +4956,7 @@
       ],
       "descEn": "Tlj — Storefront window graphics",
       "descKo": "Tlj — 매장 창문 그래픽",
-      "order": 198,
+      "order": 225,
       "date": "2026-08-14"
     },
     {
@@ -4384,7 +4978,7 @@
       ],
       "descEn": "Cc — Storefront window graphics",
       "descKo": "Cc — 매장 창문 그래픽",
-      "order": 199,
+      "order": 226,
       "date": "2026-08-14"
     },
     {
@@ -4406,7 +5000,7 @@
       ],
       "descEn": "Dulcet — Frosted window film",
       "descKo": "Dulcet — 불투명 윈도우 프로스트 시트",
-      "order": 200,
+      "order": 227,
       "date": "2026-08-14"
     },
     {
@@ -4428,7 +5022,7 @@
       ],
       "descEn": "Ohkdog — Storefront window graphics",
       "descKo": "Ohkdog — 매장 창문 그래픽",
-      "order": 201,
+      "order": 228,
       "date": "2026-08-14"
     },
     {
@@ -4450,7 +5044,7 @@
       ],
       "descEn": "Ohkdog — Storefront window graphics",
       "descKo": "Ohkdog — 매장 창문 그래픽",
-      "order": 202,
+      "order": 229,
       "date": "2026-08-14"
     },
     {
@@ -4472,7 +5066,7 @@
       ],
       "descEn": "Snowflake — Storefront window graphics",
       "descKo": "Snowflake — 매장 창문 그래픽",
-      "order": 203,
+      "order": 230,
       "date": "2026-08-13"
     },
     {
@@ -4494,7 +5088,7 @@
       ],
       "descEn": "Kbbq — Business hours decal · Decal",
       "descKo": "Kbbq — 영업시간 안내 데칼 · 데칼",
-      "order": 204,
+      "order": 231,
       "date": "2026-08-13"
     },
     {
@@ -4516,7 +5110,7 @@
       ],
       "descEn": "Dch — Storefront window graphics",
       "descKo": "Dch — 매장 창문 그래픽",
-      "order": 205,
+      "order": 232,
       "date": "2026-08-13"
     },
     {
@@ -4538,7 +5132,7 @@
       ],
       "descEn": "Kbbq — Storefront window graphics",
       "descKo": "Kbbq — 매장 창문 그래픽",
-      "order": 206,
+      "order": 233,
       "date": "2026-08-13"
     },
     {
@@ -4560,7 +5154,7 @@
       ],
       "descEn": "Kbbq — Storefront window graphics",
       "descKo": "Kbbq — 매장 창문 그래픽",
-      "order": 207,
+      "order": 234,
       "date": "2026-08-13"
     },
     {
@@ -4582,7 +5176,7 @@
       ],
       "descEn": "Thaibox — Storefront window graphics",
       "descKo": "Thaibox — 매장 창문 그래픽",
-      "order": 208,
+      "order": 235,
       "date": "2026-08-13"
     },
     {
@@ -4604,7 +5198,7 @@
       ],
       "descEn": "Chanmaru — Storefront window graphics",
       "descKo": "Chanmaru — 매장 창문 그래픽",
-      "order": 209,
+      "order": 236,
       "date": "2026-08-13"
     },
     {
@@ -4626,7 +5220,7 @@
       ],
       "descEn": "Chanmaru — Storefront window graphics",
       "descKo": "Chanmaru — 매장 창문 그래픽",
-      "order": 210,
+      "order": 237,
       "date": "2026-08-13"
     },
     {
@@ -4648,7 +5242,7 @@
       ],
       "descEn": "Donchicken — Storefront window graphics",
       "descKo": "Donchicken — 매장 창문 그래픽",
-      "order": 211,
+      "order": 238,
       "date": "2026-08-13"
     },
     {
@@ -4670,7 +5264,7 @@
       ],
       "descEn": "Teriyaki — Storefront window graphics",
       "descKo": "Teriyaki — 매장 창문 그래픽",
-      "order": 212,
+      "order": 239,
       "date": "2026-08-13"
     },
     {
@@ -4692,7 +5286,7 @@
       ],
       "descEn": "MOMO — Storefront signage",
       "descKo": "MOMO — 매장 사인",
-      "order": 213,
+      "order": 240,
       "date": "2026-08-10"
     },
     {
@@ -4714,7 +5308,7 @@
       ],
       "descEn": "Gopchang — Business hours decal · Decal",
       "descKo": "Gopchang — 영업시간 안내 데칼 · 데칼",
-      "order": 214,
+      "order": 241,
       "date": "2026-08-10"
     },
     {
@@ -4736,7 +5330,7 @@
       ],
       "descEn": "Zion Market Fish — Storefront signage · Board",
       "descKo": "Zion Market Fish — 매장 사인 · 보드",
-      "order": 215,
+      "order": 242,
       "date": "2026-08-10"
     },
     {
@@ -4758,7 +5352,7 @@
       ],
       "descEn": "Gopchang — Storefront window graphics",
       "descKo": "Gopchang — 매장 창문 그래픽",
-      "order": 216,
+      "order": 243,
       "date": "2026-08-10"
     },
     {
@@ -4780,7 +5374,7 @@
       ],
       "descEn": "Mannashabu — Sticker",
       "descKo": "Mannashabu — 스티커",
-      "order": 217,
+      "order": 244,
       "date": "2026-07-31"
     },
     {
@@ -4802,7 +5396,7 @@
       ],
       "descEn": "Mannashabu — Sticker",
       "descKo": "Mannashabu — 스티커",
-      "order": 218,
+      "order": 245,
       "date": "2026-07-31"
     },
     {
@@ -4824,7 +5418,7 @@
       ],
       "descEn": "Mannashabu — Storefront signage · Acrylic",
       "descKo": "Mannashabu — 매장 사인 · 아크릴",
-      "order": 219,
+      "order": 246,
       "date": "2026-07-31"
     },
     {
@@ -4846,7 +5440,7 @@
       ],
       "descEn": "Mannashabu — Storefront signage · Acrylic",
       "descKo": "Mannashabu — 매장 사인 · 아크릴",
-      "order": 220,
+      "order": 247,
       "date": "2026-07-31"
     },
     {
@@ -4868,7 +5462,7 @@
       ],
       "descEn": "Mannashabu — Storefront signage · Acrylic",
       "descKo": "Mannashabu — 매장 사인 · 아크릴",
-      "order": 221,
+      "order": 248,
       "date": "2026-07-31"
     },
     {
@@ -4890,7 +5484,7 @@
       ],
       "descEn": "Banchan Sign — Storefront signage · Board",
       "descKo": "Banchan Sign — 매장 사인 · 보드",
-      "order": 222,
+      "order": 249,
       "date": "2026-07-31"
     },
     {
@@ -4912,7 +5506,7 @@
       ],
       "descEn": "Oh K Dog — Storefront signage",
       "descKo": "Oh K Dog — 매장 사인",
-      "order": 223,
+      "order": 250,
       "date": "2026-07-31"
     },
     {
@@ -4934,7 +5528,7 @@
       ],
       "descEn": "Meat — Interior wall graphics",
       "descKo": "Meat — 실내 월 그래픽",
-      "order": 224,
+      "order": 251,
       "date": "2026-07-31"
     },
     {
@@ -4956,7 +5550,7 @@
       ],
       "descEn": "Jjanpocha — Exterior building banner",
       "descKo": "Jjanpocha — 건물 외벽 배너",
-      "order": 225,
+      "order": 252,
       "date": "2026-07-30"
     },
     {
@@ -4978,7 +5572,7 @@
       ],
       "descEn": "Baebae — Indoor banner",
       "descKo": "Baebae — 실내 배너",
-      "order": 226,
+      "order": 253,
       "date": "2026-07-30"
     },
     {
@@ -5000,7 +5594,7 @@
       ],
       "descEn": "Hey Yogurt — A-frame sign",
       "descKo": "Hey Yogurt — A형 입간판",
-      "order": 227,
+      "order": 254,
       "date": "2026-07-30"
     },
     {
@@ -5022,7 +5616,7 @@
       ],
       "descEn": "Feather Flag — Feather flag",
       "descKo": "Feather Flag — 깃발 배너",
-      "order": 228,
+      "order": 255,
       "date": "2026-07-30"
     },
     {
@@ -5044,7 +5638,7 @@
       ],
       "descEn": "Chansdonuts — Interior wall graphics",
       "descKo": "Chansdonuts — 실내 월 그래픽",
-      "order": 229,
+      "order": 256,
       "date": "2026-07-30"
     },
     {
@@ -5066,7 +5660,7 @@
       ],
       "descEn": "Jjanpocha — Exterior building banner",
       "descKo": "Jjanpocha — 건물 외벽 배너",
-      "order": 230,
+      "order": 257,
       "date": "2026-07-30"
     },
     {
@@ -5088,7 +5682,7 @@
       ],
       "descEn": "Soju Blues — Indoor banner",
       "descKo": "Soju Blues — 실내 배너",
-      "order": 231,
+      "order": 258,
       "date": "2026-07-30"
     },
     {
@@ -5110,7 +5704,7 @@
       ],
       "descEn": "Chanmaru — A-frame sign",
       "descKo": "Chanmaru — A형 입간판",
-      "order": 232,
+      "order": 259,
       "date": "2026-07-30"
     },
     {
@@ -5132,7 +5726,7 @@
       ],
       "descEn": "Donuts — Interior wall graphics",
       "descKo": "Donuts — 실내 월 그래픽",
-      "order": 233,
+      "order": 260,
       "date": "2026-07-30"
     },
     {
@@ -5154,7 +5748,7 @@
       ],
       "descEn": "Song — Exterior building banner",
       "descKo": "Song — 건물 외벽 배너",
-      "order": 234,
+      "order": 261,
       "date": "2026-07-30"
     },
     {
@@ -5176,7 +5770,7 @@
       ],
       "descEn": "Soju — Indoor banner",
       "descKo": "Soju — 실내 배너",
-      "order": 235,
+      "order": 262,
       "date": "2026-07-30"
     },
     {
@@ -5198,7 +5792,7 @@
       ],
       "descEn": "Chicken — Exterior building banner",
       "descKo": "Chicken — 건물 외벽 배너",
-      "order": 236,
+      "order": 263,
       "date": "2026-07-30"
     },
     {
@@ -5220,7 +5814,7 @@
       ],
       "descEn": "Texanwangbal — Indoor banner",
       "descKo": "Texanwangbal — 실내 배너",
-      "order": 237,
+      "order": 264,
       "date": "2026-07-30"
     },
     {
@@ -5242,7 +5836,7 @@
       ],
       "descEn": "Manna Grandopening — Exterior building banner",
       "descKo": "Manna Grandopening — 건물 외벽 배너",
-      "order": 238,
+      "order": 265,
       "date": "2026-07-30"
     },
     {
@@ -5264,7 +5858,7 @@
       ],
       "descEn": "Ricebowl — Exterior building banner",
       "descKo": "Ricebowl — 건물 외벽 배너",
-      "order": 239,
+      "order": 266,
       "date": "2026-07-30"
     },
     {
@@ -5286,7 +5880,7 @@
       ],
       "descEn": "Donuthut — Sublimation printed merchandise",
       "descKo": "Donuthut — 승화 인쇄 굿즈",
-      "order": 240,
+      "order": 267,
       "date": "2026-07-28"
     },
     {
@@ -5308,7 +5902,7 @@
       ],
       "descEn": "Cafe Sonowbean — Digital menu board",
       "descKo": "Cafe Sonowbean — 디지털 메뉴보드",
-      "order": 241,
+      "order": 268,
       "date": "2026-07-28"
     },
     {
@@ -5330,7 +5924,7 @@
       ],
       "descEn": "Doldolsweet — Digital menu board",
       "descKo": "Doldolsweet — 디지털 메뉴보드",
-      "order": 242,
+      "order": 269,
       "date": "2026-07-28"
     },
     {
@@ -5352,7 +5946,7 @@
       ],
       "descEn": "Manna Donuts — Digital menu board",
       "descKo": "Manna Donuts — 디지털 메뉴보드",
-      "order": 243,
+      "order": 270,
       "date": "2026-07-28"
     },
     {
@@ -5374,7 +5968,7 @@
       ],
       "descEn": "Manna Donuts — Digital menu board",
       "descKo": "Manna Donuts — 디지털 메뉴보드",
-      "order": 244,
+      "order": 271,
       "date": "2026-07-28"
     },
     {
@@ -5396,7 +5990,7 @@
       ],
       "descEn": "Morris Donuts — Digital menu board",
       "descKo": "Morris Donuts — 디지털 메뉴보드",
-      "order": 245,
+      "order": 272,
       "date": "2026-07-28"
     },
     {
@@ -5418,7 +6012,7 @@
       ],
       "descEn": "Vintage Donuts — Digital menu board",
       "descKo": "Vintage Donuts — 디지털 메뉴보드",
-      "order": 246,
+      "order": 273,
       "date": "2026-07-28"
     },
     {
@@ -5440,7 +6034,7 @@
       ],
       "descEn": "Xodog — Interior wall graphics",
       "descKo": "Xodog — 실내 월 그래픽",
-      "order": 247,
+      "order": 274,
       "date": "2026-07-28"
     },
     {
@@ -5462,7 +6056,7 @@
       ],
       "descEn": "Agiteu — Logo design",
       "descKo": "Agiteu — 로고 디자인",
-      "order": 248,
+      "order": 275,
       "date": "2026-07-27"
     },
     {
@@ -5484,7 +6078,7 @@
       ],
       "descEn": "A&D — Digital menu board",
       "descKo": "A&D — 디지털 메뉴보드",
-      "order": 249,
+      "order": 276,
       "date": "2026-07-27"
     },
     {
@@ -5506,7 +6100,7 @@
       ],
       "descEn": "Chanmaru — Digital menu board",
       "descKo": "Chanmaru — 디지털 메뉴보드",
-      "order": 250,
+      "order": 277,
       "date": "2026-07-27"
     },
     {
@@ -5528,7 +6122,7 @@
       ],
       "descEn": "Doldolmara — Digital menu board",
       "descKo": "Doldolmara — 디지털 메뉴보드",
-      "order": 251,
+      "order": 278,
       "date": "2026-07-27"
     },
     {
@@ -5550,7 +6144,7 @@
       ],
       "descEn": "Sushi Haru — Digital menu board",
       "descKo": "Sushi Haru — 디지털 메뉴보드",
-      "order": 252,
+      "order": 279,
       "date": "2026-07-27"
     },
     {
@@ -5572,7 +6166,7 @@
       ],
       "descEn": "The Jinkook — Digital menu board",
       "descKo": "The Jinkook — 디지털 메뉴보드",
-      "order": 253,
+      "order": 280,
       "date": "2026-07-27"
     },
     {
@@ -5594,7 +6188,7 @@
       ],
       "descEn": "Doldolsweet — Storefront window graphics",
       "descKo": "Doldolsweet — 매장 창문 그래픽",
-      "order": 254,
+      "order": 281,
       "date": "2026-07-20"
     },
     {
@@ -5616,7 +6210,7 @@
       ],
       "descEn": "Ponytail Hair — Storefront window graphics",
       "descKo": "Ponytail Hair — 매장 창문 그래픽",
-      "order": 255,
+      "order": 282,
       "date": "2026-07-16"
     },
     {
@@ -5638,7 +6232,7 @@
       ],
       "descEn": "Cafe Snowbean — Logo design",
       "descKo": "Cafe Snowbean — 로고 디자인",
-      "order": 256,
+      "order": 283,
       "date": "2026-07-14"
     },
     {
@@ -5660,7 +6254,7 @@
       ],
       "descEn": "Bubble Jipangi — Flyer",
       "descKo": "Bubble Jipangi — 전단지",
-      "order": 257,
+      "order": 284,
       "date": "2026-07-14"
     },
     {
@@ -5682,7 +6276,7 @@
       ],
       "descEn": "Coit Donuts — Gift certificate · Gloss Book",
       "descKo": "Coit Donuts — 기프트 상품권 · 유광 북지",
-      "order": 258,
+      "order": 285,
       "date": "2026-07-14"
     },
     {
@@ -5704,7 +6298,7 @@
       ],
       "descEn": "Honey Donuts — Flyer",
       "descKo": "Honey Donuts — 전단지",
-      "order": 259,
+      "order": 286,
       "date": "2026-07-14"
     },
     {
@@ -5726,7 +6320,7 @@
       ],
       "descEn": "Honey Teriyaki — Gift certificate · Matte",
       "descKo": "Honey Teriyaki — 기프트 상품권 · 무광 코팅",
-      "order": 260,
+      "order": 287,
       "date": "2026-07-14"
     },
     {
@@ -5748,7 +6342,7 @@
       ],
       "descEn": "Don Chicken — Flyer",
       "descKo": "Don Chicken — 전단지",
-      "order": 261,
+      "order": 288,
       "date": "2026-07-14"
     },
     {
@@ -5770,7 +6364,7 @@
       ],
       "descEn": "Shabro — Flyer",
       "descKo": "Shabro — 전단지",
-      "order": 262,
+      "order": 289,
       "date": "2026-07-14"
     },
     {
@@ -5792,7 +6386,7 @@
       ],
       "descEn": "Sojublues — Flyer",
       "descKo": "Sojublues — 전단지",
-      "order": 263,
+      "order": 290,
       "date": "2026-07-14"
     },
     {
@@ -5814,7 +6408,7 @@
       ],
       "descEn": "Subroc — Stamp card · Uncoated",
       "descKo": "Subroc — 스탬프 카드 · 비코팅",
-      "order": 264,
+      "order": 291,
       "date": "2026-07-14"
     },
     {
@@ -5836,7 +6430,7 @@
       ],
       "descEn": "Songs K Food — Poster",
       "descKo": "Songs K Food — 포스터",
-      "order": 265,
+      "order": 292,
       "date": "2026-07-14"
     },
     {
@@ -5858,7 +6452,7 @@
       ],
       "descEn": "Songs K Food — Poster",
       "descKo": "Songs K Food — 포스터",
-      "order": 266,
+      "order": 293,
       "date": "2026-07-14"
     },
     {
@@ -5880,7 +6474,7 @@
       ],
       "descEn": "Oki — Stamp card",
       "descKo": "Oki — 스탬프 카드",
-      "order": 267,
+      "order": 294,
       "date": "2026-06-25"
     },
     {
@@ -5902,7 +6496,7 @@
       ],
       "descEn": "Cafe Bom Bom — Stamp card",
       "descKo": "Cafe Bom Bom — 스탬프 카드",
-      "order": 268,
+      "order": 295,
       "date": "2026-06-25"
     },
     {
@@ -5924,7 +6518,7 @@
       ],
       "descEn": "Hey Yogurt — Stamp card · Uncoated",
       "descKo": "Hey Yogurt — 스탬프 카드 · 비코팅",
-      "order": 269,
+      "order": 296,
       "date": "2026-06-25"
     },
     {
@@ -5946,7 +6540,7 @@
       ],
       "descEn": "Jjang BBQ — Stamp card · Uncoated",
       "descKo": "Jjang BBQ — 스탬프 카드 · 비코팅",
-      "order": 270,
+      "order": 297,
       "date": "2026-06-25"
     },
     {
@@ -5968,7 +6562,7 @@
       ],
       "descEn": "Bs Donuts — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Bs Donuts — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 271,
+      "order": 298,
       "date": "2026-06-24"
     },
     {
@@ -5990,7 +6584,7 @@
       ],
       "descEn": "Donut Express — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Donut Express — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 272,
+      "order": 299,
       "date": "2026-06-24"
     },
     {
@@ -6012,7 +6606,7 @@
       ],
       "descEn": "Capt Loui — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Capt Loui — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 273,
+      "order": 300,
       "date": "2026-06-24"
     },
     {
@@ -6034,7 +6628,7 @@
       ],
       "descEn": "Sushi Kadan — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Sushi Kadan — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 274,
+      "order": 301,
       "date": "2026-06-24"
     },
     {
@@ -6056,7 +6650,7 @@
       ],
       "descEn": "Rakko Sushi — Business Card 3.5\"x2\" · Uncoated Finish",
       "descKo": "Rakko Sushi — 명함 3.5\"x2\" · 비코팅",
-      "order": 275,
+      "order": 302,
       "date": "2026-06-24"
     },
     {
@@ -6078,7 +6672,7 @@
       ],
       "descEn": "Alta Mesa Donuts — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Alta Mesa Donuts — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 276,
+      "order": 303,
       "date": "2026-06-24"
     },
     {
@@ -6100,7 +6694,7 @@
       ],
       "descEn": "Eggsquisite Cafe — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Eggsquisite Cafe — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 277,
+      "order": 304,
       "date": "2026-06-24"
     },
     {
@@ -6122,7 +6716,7 @@
       ],
       "descEn": "Manna BBQ — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Manna BBQ — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 278,
+      "order": 305,
       "date": "2026-06-24"
     },
     {
@@ -6144,7 +6738,7 @@
       ],
       "descEn": "Tsunami — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Tsunami — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 279,
+      "order": 306,
       "date": "2026-06-24"
     },
     {
@@ -6166,7 +6760,7 @@
       ],
       "descEn": "Dulcet — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Dulcet — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 280,
+      "order": 307,
       "date": "2026-06-23"
     },
     {
@@ -6188,7 +6782,7 @@
       ],
       "descEn": "Bon KBBQ — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Bon KBBQ — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 281,
+      "order": 308,
       "date": "2026-06-23"
     },
     {
@@ -6210,7 +6804,7 @@
       ],
       "descEn": "Jjang BBQ — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Jjang BBQ — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 282,
+      "order": 309,
       "date": "2026-06-23"
     },
     {
@@ -6232,7 +6826,7 @@
       ],
       "descEn": "Oh K Dog — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Oh K Dog — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 283,
+      "order": 310,
       "date": "2026-06-23"
     },
     {
@@ -6254,7 +6848,7 @@
       ],
       "descEn": "Shabro — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Shabro — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 284,
+      "order": 311,
       "date": "2026-06-23"
     },
     {
@@ -6276,7 +6870,7 @@
       ],
       "descEn": "Snowflake — Storefront window graphics",
       "descKo": "Snowflake — 매장 창문 그래픽",
-      "order": 285,
+      "order": 312,
       "date": "2026-06-05"
     },
     {
@@ -6298,7 +6892,7 @@
       ],
       "descEn": "Hansot — Business hours decal",
       "descKo": "Hansot — 영업시간 안내 데칼",
-      "order": 286,
+      "order": 313,
       "date": "2026-05-28"
     },
     {
@@ -6320,7 +6914,7 @@
       ],
       "descEn": "Heyyogurt — Storefront window graphics",
       "descKo": "Heyyogurt — 매장 창문 그래픽",
-      "order": 287,
+      "order": 314,
       "date": "2026-05-08"
     },
     {
@@ -6342,7 +6936,7 @@
       ],
       "descEn": "Jjang BBQ — Logo design",
       "descKo": "Jjang BBQ — 로고 디자인",
-      "order": 288,
+      "order": 315,
       "date": "2026-04-22"
     },
     {
@@ -6364,7 +6958,7 @@
       ],
       "descEn": "Heyyogurt — Poster",
       "descKo": "Heyyogurt — 포스터",
-      "order": 289,
+      "order": 316,
       "date": "2026-04-21"
     },
     {
@@ -6386,7 +6980,7 @@
       ],
       "descEn": "Hesed Donuts — Flyer",
       "descKo": "Hesed Donuts — 전단지",
-      "order": 290,
+      "order": 317,
       "date": "2026-04-21"
     },
     {
@@ -6408,7 +7002,7 @@
       ],
       "descEn": "Rich Donuts — Flyer",
       "descKo": "Rich Donuts — 전단지",
-      "order": 291,
+      "order": 318,
       "date": "2026-04-21"
     },
     {
@@ -6430,7 +7024,7 @@
       ],
       "descEn": "Oki — Poster",
       "descKo": "Oki — 포스터",
-      "order": 292,
+      "order": 319,
       "date": "2026-04-21"
     },
     {
@@ -6452,7 +7046,7 @@
       ],
       "descEn": "Oki — Poster",
       "descKo": "Oki — 포스터",
-      "order": 293,
+      "order": 320,
       "date": "2026-04-21"
     },
     {
@@ -6474,7 +7068,7 @@
       ],
       "descEn": "Nagasaki Champon — Poster",
       "descKo": "Nagasaki Champon — 포스터",
-      "order": 294,
+      "order": 321,
       "date": "2026-04-21"
     },
     {
@@ -6496,7 +7090,7 @@
       ],
       "descEn": "Nagasaki Champon — Poster",
       "descKo": "Nagasaki Champon — 포스터",
-      "order": 295,
+      "order": 322,
       "date": "2026-04-21"
     },
     {
@@ -6518,7 +7112,7 @@
       ],
       "descEn": "Songgane — Poster",
       "descKo": "Songgane — 포스터",
-      "order": 296,
+      "order": 323,
       "date": "2026-04-20"
     },
     {
@@ -6540,7 +7134,7 @@
       ],
       "descEn": "Wicked Snow — Poster",
       "descKo": "Wicked Snow — 포스터",
-      "order": 297,
+      "order": 324,
       "date": "2026-04-20"
     },
     {
@@ -6562,7 +7156,7 @@
       ],
       "descEn": "Won BBQ — Poster",
       "descKo": "Won BBQ — 포스터",
-      "order": 298,
+      "order": 325,
       "date": "2026-04-20"
     },
     {
@@ -6584,7 +7178,7 @@
       ],
       "descEn": "Jjang Pocha — Poster",
       "descKo": "Jjang Pocha — 포스터",
-      "order": 299,
+      "order": 326,
       "date": "2026-04-20"
     },
     {
@@ -6606,7 +7200,7 @@
       ],
       "descEn": "Full storefront window graphics for a K-pop goods shop, wrapping the entire facade.",
       "descKo": "K-POP 굿즈샵 매장 전면 창문 그래픽. 전체 파사드 래핑.",
-      "order": 300,
+      "order": 327,
       "date": "2026-04-17"
     },
     {
@@ -6628,7 +7222,7 @@
       ],
       "descEn": "DCH — Poster",
       "descKo": "DCH — 포스터",
-      "order": 301,
+      "order": 328,
       "date": "2026-04-14"
     },
     {
@@ -6650,7 +7244,7 @@
       ],
       "descEn": "Hey Yogurt — EDDM postcard",
       "descKo": "Hey Yogurt — EDDM 우편광고",
-      "order": 302,
+      "order": 329,
       "date": "2026-04-09"
     },
     {
@@ -6672,7 +7266,7 @@
       ],
       "descEn": "Joy Donuts — EDDM postcard",
       "descKo": "Joy Donuts — EDDM 우편광고",
-      "order": 303,
+      "order": 330,
       "date": "2026-04-09"
     },
     {
@@ -6694,7 +7288,7 @@
       ],
       "descEn": "Sushi Kadan — EDDM postcard",
       "descKo": "Sushi Kadan — EDDM 우편광고",
-      "order": 304,
+      "order": 331,
       "date": "2026-04-09"
     },
     {
@@ -6716,7 +7310,7 @@
       ],
       "descEn": "Tsunami — EDDM postcard",
       "descKo": "Tsunami — EDDM 우편광고",
-      "order": 305,
+      "order": 332,
       "date": "2026-04-09"
     },
     {
@@ -6738,7 +7332,7 @@
       ],
       "descEn": "Golden Crown — Poster",
       "descKo": "Golden Crown — 포스터",
-      "order": 306,
+      "order": 333,
       "date": "2026-04-09"
     },
     {
@@ -6760,7 +7354,7 @@
       ],
       "descEn": "Cafesnowbean — Storefront window graphics",
       "descKo": "Cafesnowbean — 매장 창문 그래픽",
-      "order": 307,
+      "order": 334,
       "date": "2026-04-08"
     },
     {
@@ -6782,7 +7376,7 @@
       ],
       "descEn": "Ohkdog — Interior wall graphics",
       "descKo": "Ohkdog — 실내 월 그래픽",
-      "order": 308,
+      "order": 335,
       "date": "2026-04-04"
     },
     {
@@ -6804,7 +7398,7 @@
       ],
       "descEn": "Jeongkitchen — Frosted window film",
       "descKo": "Jeongkitchen — 불투명 윈도우 프로스트 시트",
-      "order": 309,
+      "order": 336,
       "date": "2026-04-03"
     },
     {
@@ -6826,7 +7420,7 @@
       ],
       "descEn": "Riverstone Cafe — Stamp card · Glossy Front",
       "descKo": "Riverstone Cafe — 스탬프 카드 · 앞면 유광",
-      "order": 310,
+      "order": 337,
       "date": "2026-02-12"
     },
     {
@@ -6848,7 +7442,7 @@
       ],
       "descEn": "Honey Teriyaki — Stamp card · Uncoated",
       "descKo": "Honey Teriyaki — 스탬프 카드 · 비코팅",
-      "order": 311,
+      "order": 338,
       "date": "2026-02-12"
     },
     {
@@ -6870,7 +7464,7 @@
       ],
       "descEn": "Manna — Storefront window graphics",
       "descKo": "Manna — 매장 창문 그래픽",
-      "order": 312,
+      "order": 339,
       "date": "2026-02-12"
     },
     {
@@ -6892,7 +7486,7 @@
       ],
       "descEn": "The Jinkook — Table tent",
       "descKo": "The Jinkook — 테이블 텐트",
-      "order": 313,
+      "order": 340,
       "date": "2026-02-11"
     },
     {
@@ -6914,7 +7508,7 @@
       ],
       "descEn": "Manna Lewisville — Gift certificate",
       "descKo": "Manna Lewisville — 기프트 상품권",
-      "order": 314,
+      "order": 341,
       "date": "2026-02-11"
     },
     {
@@ -6936,7 +7530,7 @@
       ],
       "descEn": "Imura — Table tent",
       "descKo": "Imura — 테이블 텐트",
-      "order": 315,
+      "order": 342,
       "date": "2026-02-11"
     },
     {
@@ -6958,7 +7552,7 @@
       ],
       "descEn": "Soju Blues — Drink menu · Acrylic Stand",
       "descKo": "Soju Blues — 음료 메뉴 · 아크릴 스탠드",
-      "order": 316,
+      "order": 343,
       "date": "2026-02-11"
     },
     {
@@ -6980,7 +7574,7 @@
       ],
       "descEn": "Sushi Kadan — Gift certificate · Matte",
       "descKo": "Sushi Kadan — 기프트 상품권 · 무광 코팅",
-      "order": 317,
+      "order": 344,
       "date": "2026-02-11"
     },
     {
@@ -7002,7 +7596,7 @@
       ],
       "descEn": "Oki — To-go menu",
       "descKo": "Oki — 투고 메뉴",
-      "order": 318,
+      "order": 345,
       "date": "2026-02-11"
     },
     {
@@ -7024,7 +7618,7 @@
       ],
       "descEn": "Texan Wangbal — Storefront window graphics",
       "descKo": "Texan Wangbal — 매장 창문 그래픽",
-      "order": 319,
+      "order": 346,
       "date": "2026-02-05"
     },
     {
@@ -7046,7 +7640,7 @@
       ],
       "descEn": "Haha Buffalo — Storefront window graphics",
       "descKo": "Haha Buffalo — 매장 창문 그래픽",
-      "order": 320,
+      "order": 347,
       "date": "2026-02-04"
     },
     {
@@ -7068,7 +7662,7 @@
       ],
       "descEn": "Tokyosamurai — Table menu · Paper",
       "descKo": "Tokyosamurai — 테이블 메뉴 · 종이",
-      "order": 321,
+      "order": 348,
       "date": "2026-01-22"
     },
     {
@@ -7090,7 +7684,7 @@
       ],
       "descEn": "Rakko Sushi — Table menu · Paper",
       "descKo": "Rakko Sushi — 테이블 메뉴 · 종이",
-      "order": 322,
+      "order": 349,
       "date": "2026-01-21"
     },
     {
@@ -7112,7 +7706,7 @@
       ],
       "descEn": "Won BBQ — Table menu · Paper",
       "descKo": "Won BBQ — 테이블 메뉴 · 종이",
-      "order": 323,
+      "order": 350,
       "date": "2026-01-21"
     },
     {
@@ -7134,7 +7728,7 @@
       ],
       "descEn": "Thejinkook — Table menu · Paper",
       "descKo": "Thejinkook — 테이블 메뉴 · 종이",
-      "order": 324,
+      "order": 351,
       "date": "2026-01-21"
     },
     {
@@ -7156,7 +7750,7 @@
       ],
       "descEn": "Jjang — Table menu · Paper",
       "descKo": "Jjang — 테이블 메뉴 · 종이",
-      "order": 325,
+      "order": 352,
       "date": "2026-01-20"
     },
     {
@@ -7178,7 +7772,7 @@
       ],
       "descEn": "Rokko Sushi — Drink menu",
       "descKo": "Rokko Sushi — 음료 메뉴",
-      "order": 326,
+      "order": 353,
       "date": "2026-01-16"
     },
     {
@@ -7200,7 +7794,7 @@
       ],
       "descEn": "Imura — Drink menu",
       "descKo": "Imura — 음료 메뉴",
-      "order": 327,
+      "order": 354,
       "date": "2026-01-16"
     },
     {
@@ -7222,7 +7816,7 @@
       ],
       "descEn": "Imura — To-go menu",
       "descKo": "Imura — 투고 메뉴",
-      "order": 328,
+      "order": 355,
       "date": "2026-01-16"
     },
     {
@@ -7244,7 +7838,7 @@
       ],
       "descEn": "DCH — To-go menu",
       "descKo": "DCH — 투고 메뉴",
-      "order": 329,
+      "order": 356,
       "date": "2026-01-16"
     },
     {
@@ -7266,7 +7860,7 @@
       ],
       "descEn": "Ilovesushi — To-go menu",
       "descKo": "Ilovesushi — 투고 메뉴",
-      "order": 330,
+      "order": 357,
       "date": "2026-01-16"
     },
     {
@@ -7288,7 +7882,7 @@
       ],
       "descEn": "Kbbq — To-go menu",
       "descKo": "Kbbq — 투고 메뉴",
-      "order": 331,
+      "order": 358,
       "date": "2026-01-16"
     },
     {
@@ -7310,7 +7904,7 @@
       ],
       "descEn": "Rakkosushi — To-go menu",
       "descKo": "Rakkosushi — 투고 메뉴",
-      "order": 332,
+      "order": 359,
       "date": "2026-01-16"
     },
     {
@@ -7332,7 +7926,7 @@
       ],
       "descEn": "Wangjokbal — To-go menu",
       "descKo": "Wangjokbal — 투고 메뉴",
-      "order": 333,
+      "order": 360,
       "date": "2026-01-16"
     },
     {
@@ -7354,7 +7948,7 @@
       ],
       "descEn": "Edohana — Table menu",
       "descKo": "Edohana — 테이블 메뉴",
-      "order": 334,
+      "order": 361,
       "date": "2026-01-16"
     },
     {
@@ -7376,7 +7970,7 @@
       ],
       "descEn": "Edohana2 — Table menu",
       "descKo": "Edohana2 — 테이블 메뉴",
-      "order": 335,
+      "order": 362,
       "date": "2026-01-16"
     },
     {
@@ -7398,7 +7992,7 @@
       ],
       "descEn": "Banchannara — Custom T-shirts",
       "descKo": "Banchannara — 단체 티셔츠",
-      "order": 336,
+      "order": 363,
       "date": "2026-01-09"
     },
     {
@@ -7420,7 +8014,7 @@
       ],
       "descEn": "Burnin 92 — Custom T-shirts",
       "descKo": "Burnin 92 — 단체 티셔츠",
-      "order": 337,
+      "order": 364,
       "date": "2026-01-09"
     },
     {
@@ -7442,7 +8036,7 @@
       ],
       "descEn": "KBBQ Austin — Custom T-shirts",
       "descKo": "KBBQ Austin — 단체 티셔츠",
-      "order": 338,
+      "order": 365,
       "date": "2026-01-09"
     },
     {
@@ -7464,7 +8058,7 @@
       ],
       "descEn": "Seatravel — To-go menu",
       "descKo": "Seatravel — 투고 메뉴",
-      "order": 339,
+      "order": 366,
       "date": "2026-01-09"
     },
     {
@@ -7486,7 +8080,7 @@
       ],
       "descEn": "Golden Crown — Packaging design",
       "descKo": "Golden Crown — 패키지 디자인",
-      "order": 340,
+      "order": 367,
       "date": "2026-01-08"
     },
     {
@@ -7508,7 +8102,7 @@
       ],
       "descEn": "Mari — Logo design",
       "descKo": "Mari — 로고 디자인",
-      "order": 341,
+      "order": 368,
       "date": "2026-01-08"
     },
     {
@@ -7530,7 +8124,7 @@
       ],
       "descEn": "Dalbeer — Logo design",
       "descKo": "Dalbeer — 로고 디자인",
-      "order": 342,
+      "order": 369,
       "date": "2026-01-08"
     },
     {
@@ -7552,7 +8146,7 @@
       ],
       "descEn": "Window graphics for a spa.",
       "descKo": "스파 창문 그래픽.",
-      "order": 343,
+      "order": 370,
       "date": "2025-12-30"
     },
     {
@@ -7574,7 +8168,7 @@
       ],
       "descEn": "Hikari — To-go menu",
       "descKo": "Hikari — 투고 메뉴",
-      "order": 344,
+      "order": 371,
       "date": "2025-12-24"
     },
     {
@@ -7596,7 +8190,7 @@
       ],
       "descEn": "Don Chicken — To-go menu",
       "descKo": "Don Chicken — 투고 메뉴",
-      "order": 345,
+      "order": 372,
       "date": "2025-12-24"
     },
     {
@@ -7618,7 +8212,7 @@
       ],
       "descEn": "Riverstonecafe — To-go menu",
       "descKo": "Riverstonecafe — 투고 메뉴",
-      "order": 346,
+      "order": 373,
       "date": "2025-12-24"
     },
     {
@@ -7640,7 +8234,7 @@
       ],
       "descEn": "Seatravel — Logo design",
       "descKo": "Seatravel — 로고 디자인",
-      "order": 347,
+      "order": 374,
       "date": "2025-12-23"
     },
     {
@@ -7662,7 +8256,7 @@
       ],
       "descEn": "Banchannara — Sticker",
       "descKo": "Banchannara — 스티커",
-      "order": 348,
+      "order": 375,
       "date": "2025-12-22"
     },
     {
@@ -7684,7 +8278,7 @@
       ],
       "descEn": "Golden Crown — Logo design",
       "descKo": "Golden Crown — 로고 디자인",
-      "order": 349,
+      "order": 376,
       "date": "2025-12-22"
     },
     {
@@ -7706,7 +8300,7 @@
       ],
       "descEn": "Logo design",
       "descKo": "로고 디자인",
-      "order": 350,
+      "order": 377,
       "date": "2025-12-22"
     },
     {
@@ -7728,7 +8322,7 @@
       ],
       "descEn": "Pizza Delight — Logo design",
       "descKo": "Pizza Delight — 로고 디자인",
-      "order": 351,
+      "order": 378,
       "date": "2025-12-17"
     },
     {
@@ -7750,7 +8344,7 @@
       ],
       "descEn": "Pizza Delight — Packaging design",
       "descKo": "Pizza Delight — 패키지 디자인",
-      "order": 352,
+      "order": 379,
       "date": "2025-12-17"
     },
     {
@@ -7772,7 +8366,7 @@
       ],
       "descEn": "Donsarang — Logo design",
       "descKo": "Donsarang — 로고 디자인",
-      "order": 353,
+      "order": 380,
       "date": "2025-12-17"
     },
     {
@@ -7794,7 +8388,7 @@
       ],
       "descEn": "Gguiggui — Logo design",
       "descKo": "Gguiggui — 로고 디자인",
-      "order": 354,
+      "order": 381,
       "date": "2025-12-17"
     },
     {
@@ -7816,7 +8410,7 @@
       ],
       "descEn": "Pixa X — Logo design",
       "descKo": "Pixa X — 로고 디자인",
-      "order": 355,
+      "order": 382,
       "date": "2025-12-17"
     },
     {
@@ -7838,12 +8432,12 @@
       ],
       "descEn": "The Jinkook — Logo design",
       "descKo": "The Jinkook — 로고 디자인",
-      "order": 356,
+      "order": 383,
       "date": "2025-12-17"
     },
     {
       "title": "Restaurant Logo",
-      "client": "Crackedncrepe",
+      "client": "Cracked & Crepe",
       "image": "assets/portfolio/restaurant-logo-8.webp",
       "alt": "Restaurant Logo designed and printed by e.NUE Design",
       "serviceEn": [
@@ -7860,7 +8454,7 @@
       ],
       "descEn": "Crackedncrepe — Logo design",
       "descKo": "Crackedncrepe — 로고 디자인",
-      "order": 357,
+      "order": 384,
       "date": "2025-12-17"
     },
     {
@@ -7882,7 +8476,7 @@
       ],
       "descEn": "Cyfood — Logo design",
       "descKo": "Cyfood — 로고 디자인",
-      "order": 358,
+      "order": 385,
       "date": "2025-12-17"
     },
     {
@@ -7904,7 +8498,7 @@
       ],
       "descEn": "Ice Cabin — Logo design",
       "descKo": "Ice Cabin — 로고 디자인",
-      "order": 359,
+      "order": 386,
       "date": "2025-12-17"
     },
     {
@@ -7926,7 +8520,7 @@
       ],
       "descEn": "Chanmaru — Logo design",
       "descKo": "Chanmaru — 로고 디자인",
-      "order": 360,
+      "order": 387,
       "date": "2025-12-17"
     },
     {
@@ -7948,7 +8542,7 @@
       ],
       "descEn": "Imura — Logo design",
       "descKo": "Imura — 로고 디자인",
-      "order": 361,
+      "order": 388,
       "date": "2025-12-17"
     },
     {
@@ -7970,7 +8564,7 @@
       ],
       "descEn": "Sojublues — Logo design",
       "descKo": "Sojublues — 로고 디자인",
-      "order": 362,
+      "order": 389,
       "date": "2025-12-17"
     },
     {
@@ -7992,7 +8586,7 @@
       ],
       "descEn": "Won BBQ — Logo design",
       "descKo": "Won BBQ — 로고 디자인",
-      "order": 363,
+      "order": 390,
       "date": "2025-12-17"
     },
     {
@@ -8014,7 +8608,7 @@
       ],
       "descEn": "Truck decal for a trucking company, including DOT number lettering.",
       "descKo": "운송회사 트럭 데칼. DOT 번호 표기 포함.",
-      "order": 364,
+      "order": 391,
       "date": "2025-09-09"
     },
     {
@@ -8036,7 +8630,7 @@
       ],
       "descEn": "Frosted window film for a preschool, keeping daylight while blocking sightlines.",
       "descKo": "유치원 창문 무광 시트. 채광은 살리고 시선은 차단.",
-      "order": 365,
+      "order": 392,
       "date": "2025-08-13"
     },
     {
@@ -8058,7 +8652,7 @@
       ],
       "descEn": "Bright Minds — Frosted window film",
       "descKo": "Bright Minds — 불투명 윈도우 프로스트 시트",
-      "order": 366,
+      "order": 393,
       "date": "2025-08-13"
     },
     {
@@ -8080,7 +8674,7 @@
       ],
       "descEn": "Mannashabu — Interior wall graphics",
       "descKo": "Mannashabu — 실내 월 그래픽",
-      "order": 367,
+      "order": 394,
       "date": "2025-07-09"
     },
     {
@@ -8102,7 +8696,7 @@
       ],
       "descEn": "Indoor banner for a church.",
       "descKo": "교회 실내 배너.",
-      "order": 368,
+      "order": 395,
       "date": "2025-04-02"
     },
     {
@@ -8124,7 +8718,7 @@
       ],
       "descEn": "Weekly church bulletin, laid out for recurring in-house printing.",
       "descKo": "교회 주보. 매주 발행에 맞춘 레이아웃.",
-      "order": 369,
+      "order": 396,
       "date": "2025-04-02"
     },
     {
@@ -8146,7 +8740,7 @@
       ],
       "descEn": "Church service bulletin with order of worship and announcement sections.",
       "descKo": "교회 예배 주보. 순서지와 공지 지면 구성.",
-      "order": 370,
+      "order": 397,
       "date": "2025-04-02"
     },
     {
@@ -8168,7 +8762,7 @@
       ],
       "descEn": "Church invitation flyer in a square format for event outreach.",
       "descKo": "교회 초청 전단지. 행사 안내용 정사각 포맷.",
-      "order": 371,
+      "order": 398,
       "date": "2025-04-02"
     },
     {
@@ -8190,7 +8784,7 @@
       ],
       "descEn": "Dental clinic flyer covering services and current promotions.",
       "descKo": "치과 홍보 전단지. 진료 항목과 프로모션 안내.",
-      "order": 372,
+      "order": 399,
       "date": "2025-04-01"
     },
     {
@@ -8212,7 +8806,7 @@
       ],
       "descEn": "Construction company logo built from the initials as a structural mark.",
       "descKo": "건설사 로고. 이니셜을 구조물 형태로 구성.",
-      "order": 373,
+      "order": 400,
       "date": "2025-04-01"
     },
     {
@@ -8234,7 +8828,7 @@
       ],
       "descEn": "Logo for a dental clinic.",
       "descKo": "치과 로고.",
-      "order": 374,
+      "order": 401,
       "date": "2025-04-01"
     },
     {
@@ -8256,7 +8850,7 @@
       ],
       "descEn": "Bbqchicken2 — Poster",
       "descKo": "Bbqchicken2 — 포스터",
-      "order": 375,
+      "order": 402,
       "date": "2025-04-01"
     },
     {
@@ -8278,7 +8872,7 @@
       ],
       "descEn": "Bbqchicken — Poster",
       "descKo": "Bbqchicken — 포스터",
-      "order": 376,
+      "order": 403,
       "date": "2025-04-01"
     },
     {
@@ -8300,7 +8894,7 @@
       ],
       "descEn": "Duet Ktown — Feather flag",
       "descKo": "Duet Ktown — 깃발 배너",
-      "order": 377,
+      "order": 404,
       "date": "2025-04-01"
     },
     {
@@ -8322,7 +8916,7 @@
       ],
       "descEn": "Logo and company brochure for a logistics firm, from brand development through print.",
       "descKo": "물류회사 로고와 회사소개 브로슈어. 브랜드 개발부터 인쇄물까지 일괄 진행.",
-      "order": 378,
+      "order": 405,
       "date": "2025-03-28"
     },
     {
@@ -8344,7 +8938,7 @@
       ],
       "descEn": "Corporate logo shown applied to business cards.",
       "descKo": "기업 로고. 명함 적용 시안.",
-      "order": 379,
+      "order": 406,
       "date": "2025-03-28"
     },
     {
@@ -8366,7 +8960,7 @@
       ],
       "descEn": "Bbqchicken — Gift certificate",
       "descKo": "Bbqchicken — 기프트 상품권",
-      "order": 380,
+      "order": 407,
       "date": "2025-03-28"
     },
     {
@@ -8388,7 +8982,7 @@
       ],
       "descEn": "Edohana — Table menu · Sealed Laminate",
       "descKo": "Edohana — 테이블 메뉴 · 실링 라미네이트",
-      "order": 381,
+      "order": 408,
       "date": "2025-03-28"
     },
     {
@@ -8410,7 +9004,7 @@
       ],
       "descEn": "KBBQ — Table menu · Paper",
       "descKo": "KBBQ — 테이블 메뉴 · 종이",
-      "order": 382,
+      "order": 409,
       "date": "2025-03-28"
     },
     {
@@ -8432,7 +9026,7 @@
       ],
       "descEn": "Bbqchicken — Poster",
       "descKo": "Bbqchicken — 포스터",
-      "order": 383,
+      "order": 410,
       "date": "2025-03-28"
     },
     {
@@ -8454,7 +9048,7 @@
       ],
       "descEn": "The Jinkook — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "The Jinkook — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 384,
+      "order": 411,
       "date": "2025-03-26"
     },
     {
@@ -8476,7 +9070,7 @@
       ],
       "descEn": "The Jinkook — Gift certificate · Matte",
       "descKo": "The Jinkook — 기프트 상품권 · 무광 코팅",
-      "order": 385,
+      "order": 412,
       "date": "2025-03-26"
     },
     {
@@ -8498,7 +9092,7 @@
       ],
       "descEn": "Tri-fold brochure for an industrial materials supplier, with specification and performance data.",
       "descKo": "산업용 소재 브로슈어. 물성표와 규격 데이터를 담은 3단 접지.",
-      "order": 386,
+      "order": 413,
       "date": "2025-03-25"
     },
     {
@@ -8520,7 +9114,7 @@
       ],
       "descEn": "Head spa logo, built to work on both signage and print.",
       "descKo": "헤드스파 로고. 간판과 인쇄물 양쪽에 쓸 수 있는 형태.",
-      "order": 387,
+      "order": 414,
       "date": "2025-03-25"
     },
     {
@@ -8542,7 +9136,7 @@
       ],
       "descEn": "Window graphics for a health and beauty retailer.",
       "descKo": "헬스&뷰티 매장 창문 그래픽.",
-      "order": 388,
+      "order": 415,
       "date": "2025-03-25"
     },
     {
@@ -8564,7 +9158,7 @@
       ],
       "descEn": "Logo for a medical clinic.",
       "descKo": "메디컬 클리닉 로고.",
-      "order": 389,
+      "order": 416,
       "date": "2025-03-25"
     },
     {
@@ -8586,30 +9180,8 @@
       ],
       "descEn": "Eggsquisite Cafe — Drink menu · Acrylic Stand",
       "descKo": "Eggsquisite Cafe — 음료 메뉴 · 아크릴 스탠드",
-      "order": 390,
+      "order": 417,
       "date": "2025-03-25"
-    },
-    {
-      "title": "Law Office Envelope",
-      "client": "Law Office",
-      "image": "assets/portfolio/law-office-envelope.webp",
-      "alt": "Law Office Envelope designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Envelope"
-      ],
-      "serviceKo": [
-        "봉투"
-      ],
-      "industryEn": [
-        "Professional Services"
-      ],
-      "industryKo": [
-        "서비스업"
-      ],
-      "descEn": "No. 10 business envelope for a law office.",
-      "descKo": "법률사무소 봉투 #10 규격.",
-      "order": 391,
-      "date": "2024-08-06"
     },
     {
       "title": "Restaurant Wall Graphic",
@@ -8630,7 +9202,7 @@
       ],
       "descEn": "Hotpancake — Interior wall graphics",
       "descKo": "Hotpancake — 실내 월 그래픽",
-      "order": 392,
+      "order": 418,
       "date": "2024-04-12"
     },
     {
@@ -8652,7 +9224,7 @@
       ],
       "descEn": "Donchicken — Business Card 3.5\"x2\" · Matte Finish",
       "descKo": "Donchicken — 명함 3.5\"x2\" · 무광 코팅",
-      "order": 393,
+      "order": 419,
       "date": "2022-10-18"
     },
     {
@@ -8674,7 +9246,7 @@
       ],
       "descEn": "99pocha — Logo design",
       "descKo": "99pocha — 로고 디자인",
-      "order": 394,
+      "order": 420,
       "date": "2020-03-24"
     },
     {
@@ -8696,7 +9268,7 @@
       ],
       "descEn": "Mannashabu — Picture board",
       "descKo": "Mannashabu — 픽처보드",
-      "order": 395,
+      "order": 421,
       "date": "2019-07-26"
     },
     {
@@ -8718,7 +9290,7 @@
       ],
       "descEn": "Mannashabu — Picture board",
       "descKo": "Mannashabu — 픽처보드",
-      "order": 396,
+      "order": 422,
       "date": "2019-07-26"
     },
     {
@@ -8740,7 +9312,7 @@
       ],
       "descEn": "Mannashabu — Picture board",
       "descKo": "Mannashabu — 픽처보드",
-      "order": 397,
+      "order": 423,
       "date": "2019-07-26"
     },
     {
@@ -8762,7 +9334,7 @@
       ],
       "descEn": "Mannashabu — Interior wall graphics",
       "descKo": "Mannashabu — 실내 월 그래픽",
-      "order": 398,
+      "order": 424,
       "date": "2019-07-26"
     },
     {
@@ -8784,7 +9356,7 @@
       ],
       "descEn": "Mannashabu — Frosted window film",
       "descKo": "Mannashabu — 불투명 윈도우 프로스트 시트",
-      "order": 399,
+      "order": 425,
       "date": "2019-07-26"
     },
     {
@@ -8806,7 +9378,7 @@
       ],
       "descEn": "Mannashabu — Interior wall graphics",
       "descKo": "Mannashabu — 실내 월 그래픽",
-      "order": 400,
+      "order": 426,
       "date": "2019-07-26"
     },
     {
@@ -8828,7 +9400,7 @@
       ],
       "descEn": "Mannashabu — Storefront window graphics",
       "descKo": "Mannashabu — 매장 창문 그래픽",
-      "order": 401,
+      "order": 427,
       "date": "2019-07-26"
     },
     {
@@ -8850,7 +9422,7 @@
       ],
       "descEn": "Mannashabu — Storefront window graphics",
       "descKo": "Mannashabu — 매장 창문 그래픽",
-      "order": 402,
+      "order": 428,
       "date": "2019-07-26"
     },
     {
@@ -8872,7 +9444,7 @@
       ],
       "descEn": "Mannashabu — Interior wall graphics",
       "descKo": "Mannashabu — 실내 월 그래픽",
-      "order": 403,
+      "order": 429,
       "date": "2019-07-26"
     },
     {
@@ -8894,7 +9466,7 @@
       ],
       "descEn": "Mannashabu — Interior wall graphics",
       "descKo": "Mannashabu — 실내 월 그래픽",
-      "order": 404,
+      "order": 430,
       "date": "2019-07-26"
     },
     {
@@ -8916,7 +9488,7 @@
       ],
       "descEn": "Mannashabu — Interior wall graphics",
       "descKo": "Mannashabu — 실내 월 그래픽",
-      "order": 405,
+      "order": 431,
       "date": "2019-07-26"
     },
     {
@@ -8938,7 +9510,7 @@
       ],
       "descEn": "Removinyl — Interior wall graphics",
       "descKo": "Removinyl — 실내 월 그래픽",
-      "order": 406,
+      "order": 432,
       "date": "2019-02-26"
     },
     {
@@ -8960,7 +9532,7 @@
       ],
       "descEn": "Walldecal — Interior wall graphics",
       "descKo": "Walldecal — 실내 월 그래픽",
-      "order": 407,
+      "order": 433,
       "date": "2019-02-26"
     },
     {
@@ -8982,7 +9554,7 @@
       ],
       "descEn": "Shinseon — Interior wall graphics",
       "descKo": "Shinseon — 실내 월 그래픽",
-      "order": 408,
+      "order": 434,
       "date": "2019-02-20"
     },
     {
@@ -9004,7 +9576,7 @@
       ],
       "descEn": "Tsunami — Storefront window graphics",
       "descKo": "Tsunami — 매장 창문 그래픽",
-      "order": 409,
+      "order": 435,
       "date": "2019-01-22"
     },
     {
@@ -9026,7 +9598,7 @@
       ],
       "descEn": "Dulcet — Interior wall graphics",
       "descKo": "Dulcet — 실내 월 그래픽",
-      "order": 410,
+      "order": 436,
       "date": "2018-08-30"
     },
     {
@@ -9048,7 +9620,7 @@
       ],
       "descEn": "Dulcet — Frosted window film",
       "descKo": "Dulcet — 불투명 윈도우 프로스트 시트",
-      "order": 411,
+      "order": 437,
       "date": "2018-08-14"
     },
     {
@@ -9070,7 +9642,7 @@
       ],
       "descEn": "Dulcet — Storefront window graphics",
       "descKo": "Dulcet — 매장 창문 그래픽",
-      "order": 412,
+      "order": 438,
       "date": "2018-08-14"
     },
     {
@@ -9092,7 +9664,7 @@
       ],
       "descEn": "Mannashabu — Frosted window film",
       "descKo": "Mannashabu — 불투명 윈도우 프로스트 시트",
-      "order": 413,
+      "order": 439,
       "date": "2018-05-29"
     },
     {
@@ -9114,7 +9686,7 @@
       ],
       "descEn": "Indoorsticker — Interior wall graphics",
       "descKo": "Indoorsticker — 실내 월 그래픽",
-      "order": 414,
+      "order": 440,
       "date": "2018-01-05"
     },
     {
@@ -9136,7 +9708,7 @@
       ],
       "descEn": "HONEYBEE — Storefront window graphics",
       "descKo": "HONEYBEE — 매장 창문 그래픽",
-      "order": 415,
+      "order": 441,
       "date": "2017-09-28"
     },
     {
@@ -9158,7 +9730,7 @@
       ],
       "descEn": "Bk — Storefront window graphics",
       "descKo": "Bk — 매장 창문 그래픽",
-      "order": 416,
+      "order": 442,
       "date": "2017-05-03"
     },
     {
@@ -9180,7 +9752,7 @@
       ],
       "descEn": "Yoon — Frosted window film",
       "descKo": "Yoon — 불투명 윈도우 프로스트 시트",
-      "order": 417,
+      "order": 443,
       "date": "2017-01-06"
     },
     {
@@ -9202,7 +9774,7 @@
       ],
       "descEn": "Papainsdonuts — Storefront window graphics",
       "descKo": "Papainsdonuts — 매장 창문 그래픽",
-      "order": 418,
+      "order": 444,
       "date": "2016-12-02"
     },
     {
@@ -9224,7 +9796,7 @@
       ],
       "descEn": "Storefront window graphics",
       "descKo": "매장 창문 그래픽",
-      "order": 419,
+      "order": 445,
       "date": "2016-11-07"
     },
     {
@@ -9246,7 +9818,7 @@
       ],
       "descEn": "Momo — Interior wall graphics",
       "descKo": "Momo — 실내 월 그래픽",
-      "order": 420,
+      "order": 446,
       "date": "2016-11-07"
     },
     {
@@ -9268,7 +9840,7 @@
       ],
       "descEn": "Vintage — Storefront window graphics",
       "descKo": "Vintage — 매장 창문 그래픽",
-      "order": 421,
+      "order": 447,
       "date": "2016-06-22"
     },
     {
@@ -9290,7 +9862,7 @@
       ],
       "descEn": "Storefront window graphics",
       "descKo": "매장 창문 그래픽",
-      "order": 422,
+      "order": 448,
       "date": "2016-06-17"
     },
     {
@@ -9312,7 +9884,7 @@
       ],
       "descEn": "Donutspalace — Storefront window graphics",
       "descKo": "Donutspalace — 매장 창문 그래픽",
-      "order": 423,
+      "order": 449,
       "date": "2016-06-10"
     },
     {
@@ -9334,7 +9906,7 @@
       ],
       "descEn": "Storefront window graphics",
       "descKo": "매장 창문 그래픽",
-      "order": 424,
+      "order": 450,
       "date": "2016-05-06"
     },
     {
@@ -9356,7 +9928,7 @@
       ],
       "descEn": "Devisdonut — Storefront window graphics",
       "descKo": "Devisdonut — 매장 창문 그래픽",
-      "order": 425,
+      "order": 451,
       "date": "2016-05-05"
     },
     {
@@ -9378,74 +9950,8 @@
       ],
       "descEn": "Innout — Storefront window graphics",
       "descKo": "Innout — 매장 창문 그래픽",
-      "order": 426,
+      "order": 452,
       "date": "2016-03-31"
-    },
-    {
-      "title": "Donut Shop Window Graphic",
-      "client": "Mdonuts",
-      "image": "assets/portfolio/donut-shop-window-graphic.webp",
-      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Window Graphic"
-      ],
-      "serviceKo": [
-        "윈도우 그래픽"
-      ],
-      "industryEn": [
-        "Donut Shop"
-      ],
-      "industryKo": [
-        "도넛샵"
-      ],
-      "descEn": "Mdonuts — Storefront window graphics",
-      "descKo": "Mdonuts — 매장 창문 그래픽",
-      "order": 427,
-      "date": "2016-02-08"
-    },
-    {
-      "title": "Donut Shop Window Graphic",
-      "client": "Sonny Donuts",
-      "image": "assets/portfolio/donut-shop-window-graphic-11.webp",
-      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Window Graphic"
-      ],
-      "serviceKo": [
-        "윈도우 그래픽"
-      ],
-      "industryEn": [
-        "Donut Shop"
-      ],
-      "industryKo": [
-        "도넛샵"
-      ],
-      "descEn": "Sonny Donuts — Storefront window graphics",
-      "descKo": "Sonny Donuts — 매장 창문 그래픽",
-      "order": 428,
-      "date": "2015-10-16"
-    },
-    {
-      "title": "Donut Shop Window Graphic",
-      "client": "Hot Ncreamy Donuts",
-      "image": "assets/portfolio/donut-shop-window-graphic-10.webp",
-      "alt": "Donut Shop Window Graphic designed and printed by e.NUE Design",
-      "serviceEn": [
-        "Window Graphic"
-      ],
-      "serviceKo": [
-        "윈도우 그래픽"
-      ],
-      "industryEn": [
-        "Donut Shop"
-      ],
-      "industryKo": [
-        "도넛샵"
-      ],
-      "descEn": "Hot Ncreamy Donuts — Storefront window graphics",
-      "descKo": "Hot Ncreamy Donuts — 매장 창문 그래픽",
-      "order": 429,
-      "date": "2015-09-24"
     },
     {
       "title": "Professional Services Web Design",
@@ -9467,7 +9973,7 @@
       "descEn": "Render 3D Vision — Website design",
       "descKo": "Render 3D Vision — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 430
+      "order": 453
     },
     {
       "title": "Restaurant Web Design",
@@ -9489,7 +9995,7 @@
       "descEn": "Manna Korean BBQ & Shabu — Website design",
       "descKo": "Manna Korean BBQ & Shabu — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 431
+      "order": 454
     },
     {
       "title": "Restaurant Web Design",
@@ -9511,7 +10017,7 @@
       "descEn": "Ha Ha Buffalo Wing — Website design",
       "descKo": "Ha Ha Buffalo Wing — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 432
+      "order": 455
     },
     {
       "title": "Medical & Dental Web Design",
@@ -9533,7 +10039,7 @@
       "descEn": "Prestige Line Dental Studio — Website design",
       "descKo": "Prestige Line Dental Studio — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 433
+      "order": 456
     },
     {
       "title": "Medical & Dental Web Design",
@@ -9555,7 +10061,7 @@
       "descEn": "FoxEyes Corporation — Website design",
       "descKo": "FoxEyes Corporation — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 434
+      "order": 457
     },
     {
       "title": "Restaurant Web Design",
@@ -9577,7 +10083,7 @@
       "descEn": "Hansot — Website design",
       "descKo": "Hansot — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 435
+      "order": 458
     },
     {
       "title": "Restaurant Web Design",
@@ -9599,7 +10105,7 @@
       "descEn": "Song's K-Food — Website design",
       "descKo": "Song's K-Food — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 436
+      "order": 459
     },
     {
       "title": "Restaurant Web Design",
@@ -9621,7 +10127,7 @@
       "descEn": "Rakko Sushi — Website design",
       "descKo": "Rakko Sushi — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 437
+      "order": 460
     },
     {
       "title": "Professional Services Web Design",
@@ -9643,7 +10149,7 @@
       "descEn": "KDT Solutions — Website design",
       "descKo": "KDT Solutions — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 438
+      "order": 461
     },
     {
       "title": "Restaurant Web Design",
@@ -9665,7 +10171,7 @@
       "descEn": "IMURA Sushi & Robata — Website design",
       "descKo": "IMURA Sushi & Robata — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 439
+      "order": 462
     },
     {
       "title": "Restaurant Web Design",
@@ -9687,7 +10193,7 @@
       "descEn": "Won BBQ — Website design",
       "descKo": "Won BBQ — 웹사이트 디자인",
       "date": "2026-09-10",
-      "order": 440
+      "order": 463
     }
   ]
 }
